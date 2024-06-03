@@ -18,6 +18,7 @@
 - sentence-transformers	2.3.1
 - numpy	1.26.4
 - pandas	2.1.4
+- wikipedia
 
 ## LLM models
 

@@ -7,7 +7,7 @@
 # Runtime: Title only: 2990s; Full info: 6757s (on a single 6G GPU)
 # Cost: Title only: $0.2722; Full info: $0.5996
 # Description: Give llm movie name and limited genres, then ask llm which genres the movie should belong to.
-# Usage: python rel-movielens1m_clf.py --prompt title/all
+# Usage: python rel-movielens1m_clf.py --prompt title/all/rag --dataset train/test
 
 # Append rllm to search path
 import sys
@@ -23,13 +23,16 @@ from sklearn.preprocessing import MultiLabelBinarizer
 from langchain_community.llms import LlamaCpp
 from langchain.prompts import PromptTemplate
 from langchain.schema import BaseOutputParser
+from langchain_community.retrievers import WikipediaRetriever
 
 from rllm_RAG.utils import macro_f1_score, micro_f1_score, get_llm_chat_cost
 
 ##### Parse argument
 parser = argparse.ArgumentParser()
-parser.add_argument('--prompt', choices=['title', 'all'], 
+parser.add_argument('--prompt', choices=['title', 'all', 'rag'], 
                     default='title', help='Choose prompt type.')
+parser.add_argument('--dataset', choices=['train', 'test'], 
+                    default='train', help='Choose dataset type.')
 args = parser.parse_args()
 
 ##### Start time
@@ -38,6 +41,7 @@ time_start = time.time()
 ##### Global variables
 total_cost = 0
 test_path = "./resources/datasets/rel-movielens1m/classification/movies/test.csv"
+train_path = "./resources/datasets/rel-movielens1m/classification/movies/train.csv"
 llm_model_path = "./resources/model/gemma-2b-it-q4_k_m.gguf"
 
 ##### 1. Construct LLM chain
@@ -58,10 +62,11 @@ class GenreOutputParser(BaseOutputParser):
     def parse(self, text: str):
         """Parse the output of LLM call."""
         genres = text.split('::')[-1]
-        genre_list = [genre.strip() for genre in genres.split(',')]
+        genre_list = [genre.strip(' <b></b>*') for genre in genres.split(',')]
         return genre_list
 
 output_parser = GenreOutputParser()
+retriever = WikipediaRetriever()
 
 # Construct prompt
 prompt_title = """Q: Now I have a movie name: {movie_name}. What's the genres it may belong to? 
@@ -70,6 +75,7 @@ Note:
 movie_name:: genre_1, genre_2..., genre_n
 2. The answer must only be chosen from followings:'Documentary', 'Adventure', 'Comedy', 'Horror', 'War', 'Sci-Fi', 'Drama', 'Mystery', 'Western', 'Action', "Children's", 'Musical', 'Thriller', 'Crime', 'Film-Noir', 'Romance', 'Animation', 'Fantasy'
 3. Don't saying anything else.
+4. You must answer at least one genre, empty answer is not allowed.
 A: 
 """
 
@@ -80,7 +86,18 @@ movie_name:: genre_1, genre_2..., genre_n
 2. The answer must only be chosen from followings:"Documentary", "Adventure", "Comedy", "Horror", "War", "Sci-Fi", "Drama", "Mystery", "Western", "Action", "Children's", "Musical", "Thriller", "Crime", "Film-Noir", "Romance", "Animation", "Fantasy"
 3. Don't saying anything else.
 4. You must answer at least one genre, empty answer is not allowed.
-A: """
+A: 
+"""
+
+prompt_rag = """Q: Now I have a movie name: {movie_name}. The description of this movie is as follows: {movie_info}. What's the genres it may belong to? 
+Note: 
+1. Give the answer as following format:
+movie_name:: genre_1, genre_2..., genre_n
+2. The answer must only be chosen from followings:"Documentary", "Adventure", "Comedy", "Horror", "War", "Sci-Fi", "Drama", "Mystery", "Western", "Action", "Children's", "Musical", "Thriller", "Crime", "Film-Noir", "Romance", "Animation", "Fantasy"
+3. Don't saying anything else.
+4. You must answer at least one genre, empty answer is not allowed.
+A: 
+"""
 
 prompt_title_template = PromptTemplate(
     input_variables=["movie_name"], template=prompt_title
@@ -90,14 +107,26 @@ prompt_all_template = PromptTemplate(
     input_variables=["Title", "Director", "Year", "Genre", "Cast", "Runtime", "Languages", "Certificate", "Plot"], 
     template=prompt_all
 )
+
+prompt_rag_template = PromptTemplate(
+    input_variables=["movie_name", "movie_info"], 
+    template=prompt_rag
+)
+
 # Construct chain
 if args.prompt == 'title':
     chain = prompt_title_template | llm | output_parser
+elif args.prompt == 'rag':
+    chain = prompt_rag_template | llm | output_parser
 else:
     chain = prompt_all_template | llm | output_parser
 
+
 ##### 2. LLM prediction
-movie_df = pd.read_csv(test_path)
+if args.dataset == 'test':
+    movie_df = pd.read_csv(test_path)
+else:
+    movie_df = pd.read_csv(train_path)
 
 pred_genre_list = []
 if args.prompt == 'title':
@@ -105,10 +134,25 @@ if args.prompt == 'title':
         total_cost = total_cost + get_llm_chat_cost(prompt_title_template.invoke({"movie_name": row['Title']}).text, 'input')
 
         pred = chain.invoke({"movie_name": row['Title']})
-        pred = [genre.strip('<b></b>*') for genre in pred]
         pred_genre_list.append(pred)
 
         total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
+
+elif args.prompt == 'rag':
+    for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):
+
+        # TODO
+        # docs = retriever.invoke(row['Title'])
+        # movie_info = docs[0].page_content
+        movie_info = ', '.join([f"{key}:{value}" for key, value in row.items()])
+
+        total_cost = total_cost + get_llm_chat_cost(prompt_rag_template.invoke({"movie_name": row['Title'], "movie_info": movie_info}).text, 'input')
+
+        pred = chain.invoke({"movie_name": row['Title'], "movie_info": movie_info})
+        pred_genre_list.append(pred)
+
+        total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
+
 else:
     for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):
         total_cost = total_cost + \
@@ -122,9 +166,9 @@ else:
                  "Genre": row['Genre'], "Cast": row['Cast'], "Runtime": row['Runtime'], 
                  "Languages": row['Languages'], "Certificate": row['Certificate'], 
                  "Plot": row['Plot']})
-        pred = [genre.strip('<b></b>*') for genre in pred]
         pred_genre_list.append(pred)
         total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
+
 
 ##### 3. Calculate macro f1 score
 # Get all genres
