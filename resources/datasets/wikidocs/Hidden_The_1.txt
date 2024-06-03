@@ -1,2 +1,0 @@
-The Hidden Wiki was a dark web MediaWiki wiki operating as a Tor hidden service that could be anonymously edited after registering on the site. The main page served as a directory of links to other .onion sites.
-

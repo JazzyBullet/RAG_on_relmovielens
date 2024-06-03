@@ -1,4 +1,0 @@
-ARTHUR (an acronym for "artillery hunting radar") is a counter-battery radar system originally developed jointly for and in close co-operation with the Norwegian and Swedish armed forces by Ericsson Microwave Systems in both Sweden and Norway. It is also used by the British Army, under the names mobile artillery monitoring battlefield radar or mobile artillery monitoring battlefield asset (MAMBA).
-It is a mobile, passive electronically scanned array C-band radar for the purpose of enemy field artillery acquisition and was developed for the primary role as the core element of a brigade or division level counter battery sensor system. The vehicle carrying the radar was originally a Bandvagn 206 developed and produced by Hägglund & Söner, but is now more often delivered on trucks with ISO fasteners.
-The radar is now developed by Saab AB Electronic Defense Systems (after EMW was sold to Saab in June 2006) and Saab Technologies Norway AS.
-

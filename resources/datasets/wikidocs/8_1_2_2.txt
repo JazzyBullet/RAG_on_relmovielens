@@ -1,3 +1,0 @@
-In mathematics, 1 + 2 + 4 + 8 + ⋯ is the infinite series whose terms are the successive powers of two. As a geometric series, it is characterized by its first term, 1, and its common ratio, 2. As a series of real numbers it diverges to infinity, so the sum of this series is infinity.
-However, it can be manipulated to yield a number of mathematically interesting results. For example, many summation methods are used in mathematics to assign numerical values even to a divergent series. For example, the Ramanujan summation of this series is −1, which is the limit of the series using the 2-adic metric.
-

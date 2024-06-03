@@ -1,3 +1,0 @@
-In mathematics, the infinite series 1/2 + 1/4 + 1/8 + 1/16 + ··· is an elementary example of a geometric series that converges absolutely.  The sum of the series is 1.
-In summation notation, this may be expressed as
-

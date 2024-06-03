@@ -1,2 +1,0 @@
-The IBM 7950, also known as Harvest, was a one-of-a-kind adjunct to the Stretch computer which was installed at the United States National Security Agency (NSA). Built by IBM, it was delivered in 1962 and operated until 1976, when it was decommissioned. Harvest was designed to be used for cryptanalysis.
-

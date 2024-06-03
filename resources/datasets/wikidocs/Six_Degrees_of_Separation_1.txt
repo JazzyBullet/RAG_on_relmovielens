@@ -1,4 +1,0 @@
-Six degrees of separation is the idea that all people are six or fewer social connections away from each other. As a result, a chain of "friend of a friend" statements can be made to connect any two people in a maximum of six steps. It is also known as the six handshakes rule.
-The concept was originally set out in a 1929 short story by Frigyes Karinthy, in which a group of people play a game of trying to connect any person in the world to themselves by a chain of five others. It was popularized in John Guare's 1990 play Six Degrees of Separation.
-The idea is sometimes generalized to the average social distance being logarithmic in the size of the population.
-

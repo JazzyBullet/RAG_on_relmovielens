@@ -1,3 +1,0 @@
-Direct Client-to-Client (DCC) (originally Direct Client Connection) is an IRC-related sub-protocol enabling peers to interconnect using an IRC server for handshaking in order to exchange files or perform non-relayed chats. Once established, a typical DCC session runs independently from the IRC server. Originally designed to be used with ircII it is now supported by many IRC clients. Some peer-to-peer clients on napster-protocol servers also have DCC send/get capability, including TekNap, SunshineUN and Lopster. A variation of the DCC protocol called SDCC (Secure Direct Client-to-Client), also known as DCC SCHAT supports encrypted connections. An RFC specification on the use of DCC does not exist.
-DCC connections can be initiated in two different ways:
-

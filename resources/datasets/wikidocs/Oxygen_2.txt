@@ -1,2 +1,0 @@
-The Oxygen XML Editor (styled <oXygen/>) is a multi-platform XML editor, XSLT/XQuery debugger and profiler with Unicode support. It is a Java application so it can run in Windows, Mac OS X, and Linux. It also has a version that can run as an Eclipse plugin.
-

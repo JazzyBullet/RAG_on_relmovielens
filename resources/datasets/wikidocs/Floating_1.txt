@@ -1,4 +1,0 @@
-In computing, floating-point arithmetic (FP) is arithmetic that represents subsets of real numbers using an integer with a fixed precision, called the significand, scaled by an integer exponent of a fixed base.
-Numbers of this form are called floating-point numbers.: 3 : 10 
-For example, 12.345 is a floating-point number in base ten with five digits of precision:
-

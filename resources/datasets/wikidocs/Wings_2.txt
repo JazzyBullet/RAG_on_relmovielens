@@ -1,2 +1,0 @@
-Window Maker is a free and open-source window manager for the X Window System, allowing graphical applications to be run on Unix-like operating-systems. It is designed to emulate NeXTSTEP's GUI as an OpenStep-compatible environment. Window Maker is part of the GNU Project.
-

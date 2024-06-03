@@ -1,6 +1,0 @@
-Enhanced-definition television, or extended-definition television (EDTV) is a Consumer Electronics Association (CEA) marketing shorthand term for certain digital television (DTV) formats and devices. Specifically, this term defines an extension of the standard-definition television (SDTV) format that enables a clearer picture during high-motion scenes compared to previous iterations of SDTV, but not producing images as detailed as high-definition television (HDTV).
-The term refers to devices capable of displaying 480-line or 576-line signals in progressive scan, commonly referred to as 480p (NTSC-HQ) and 576p (PAL/SECAM) respectively, as opposed to interlaced scanning, commonly referred to as 480i (NTSC) or 576i (PAL, SECAM). High-motion is optional for EDTV.
-In Australia, the 576p resolution standard was used by the Special Broadcasting Service (SBS TV) and Seven Network, being technically considered high-definition.
-In Japan, the term is associated with improvements to analog NTSC called EDTV-I (or "Clear-vision") and EDTV-II (or "Wide-aspect Clear-vision") including ghost cancellation, digital sound or widescreen broadcasts, using a methods vaguely similar to PALPlus.
-In Europe, it can be applied to analog PALPlus or MAC broadcasts.  In other countries definitions may vary.
-

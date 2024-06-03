@@ -1,3 +1,0 @@
-In computing, Windows on Windows (commonly referred to as WOW) was a compatibility layer of 32-bit versions of the Windows NT family of operating systems since 1993 with the release of Windows NT 3.1, which extends NTVDM to provide limited support for running legacy 16-bit programs written for Windows 3.x or earlier. There is a similar subsystem, known as WoW64, on 64-bit Windows versions that runs 32-bit programs.
-This subsystem has since been discontinued, as Windows 11 (and Windows Server 2008 R2 and later) are only available in 64-bit editions and therefore cannot run 16-bit software without third-party emulation software (e.g. DOSBox). Windows 10 is the final version of Windows to include this subsystem.
-

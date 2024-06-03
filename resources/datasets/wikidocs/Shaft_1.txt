@@ -1,4 +1,0 @@
-A drive shaft, driveshaft, driving shaft, tailshaft (Australian English), propeller shaft (prop shaft), or Cardan shaft (after Girolamo Cardano) is a component for transmitting mechanical power, torque, and rotation, usually used to connect other components of a drivetrain that cannot be connected directly because of distance or the need to allow for relative movement between them.
-As torque carriers, drive shafts are subject to torsion and shear stress, equivalent to the difference between the input torque and the load. They must therefore be strong enough to bear the stress, while avoiding too much additional weight as that would in turn increase their inertia.
-To allow for variations in the alignment and distance between the driving and driven components, drive shafts frequently incorporate one or more universal joints, jaw couplings, or rag joints, and sometimes a splined joint or prismatic joint.
-

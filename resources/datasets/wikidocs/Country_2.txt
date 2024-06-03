@@ -1,2 +1,0 @@
-CONFIG.SYS is the primary configuration file for the DOS and OS/2 operating systems. It is a special ASCII text file that contains user-accessible setup or configuration directives evaluated by the operating system's DOS BIOS (typically residing in IBMBIO.COM or IO.SYS) during boot. CONFIG.SYS was introduced with DOS 2.0.
-

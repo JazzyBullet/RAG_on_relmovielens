@@ -1,3 +1,0 @@
-Tarantella was a line of products developed by a branch of the company Santa Cruz Operation (SCO) since 1993. In 2001, SCO was renamed Tarantella, Inc. as it retained only the division that produced Tarantella. On July 13, 2005, Tarantella, Inc. was purchased by Sun Microsystems for US$25M. Tarantella exists now as a division of Oracle Corporation.
-They produce and sell the Oracle Secure Global Desktop range of terminal services applications, formerly known as Sun Secure Global Desktop, Tarantella and Canaveral iQ.
-

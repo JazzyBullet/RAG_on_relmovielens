@@ -1,5 +1,0 @@
-Valve Anti-Cheat (VAC) is an anti-cheat tool developed by Valve as a component of the Steam platform, first released with Counter-Strike in 2002.
-When the software detects a cheat on a player's system, it will ban them in the future, possibly days or weeks after the original detection. It may kick players from the game if it detects errors in their system's memory or hardware. No information such as date of detection or type of cheat detected is disclosed to the player. After the player is notified, access to online "VAC protected" servers of the game the player cheated in is permanently revoked and additional restrictions are applied to the player's Steam account.
-During one week of November 2006, the system detected over 10,000 cheating attempts.
-During the month of December 2018 over 600,000 accounts were banned.
-

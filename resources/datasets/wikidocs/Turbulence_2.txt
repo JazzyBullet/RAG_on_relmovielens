@@ -1,3 +1,0 @@
-Wake turbulence is a disturbance in the atmosphere that forms behind an aircraft as it passes through the air. It includes several components, the most significant of which are wingtip vortices and jet-wash, the rapidly moving gases expelled from a jet engine.
-Wake turbulence is especially hazardous in the region behind an aircraft in the takeoff or landing phases of flight. During take-off and landing, an aircraft operates at a high angle of attack. This flight attitude maximizes the formation of strong vortices. In the vicinity of an airport, there can be multiple aircraft, all operating at low speed and low altitude; this provides an extra risk of wake turbulence with a reduced height from which to recover from any upset.
-

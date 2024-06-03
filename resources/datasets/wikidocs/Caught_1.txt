@@ -1,6 +1,0 @@
-Caught is a method of dismissing a batsman in cricket. A batsman is out caught if the batsman hits the ball, from a legitimate delivery, with the bat, and the ball is caught by the bowler or a fielder before it hits the ground.
-If the ball hits the stumps after hitting the wicket-keeper, If the wicket-keeper fails to do this, the delivery is a "no ball", and the batsman cannot be stumped (nor run out, unless he attempts to run to the other wicket.)
-If the catch taken by the wicket-keeper, then informally it is known as caught behind or caught at the wicket. A catch by the bowler is known as caught and bowled. This has nothing to do with the dismissal bowled but is rather a shorthand for saying the catcher and bowler are the same player. (The scorecard annotation is usually c. and b. or c&b followed by the bowler's name.)
-Caught is the most common method of dismissal at higher levels of competition, accounting for 36,190 Test match dismissals between 1877 and 2012, which is 56.9% of all Test match dismissals in this period.
-South African wicket-keeper Mark Boucher holds the record for the most Test match catches, with 532, while Rahul Dravid holds the record for the most Test match catches by non-wicket-keepers, with 210.
-

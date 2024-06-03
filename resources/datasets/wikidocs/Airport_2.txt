@@ -1,4 +1,0 @@
-AirPort is a discontinued line of wireless routers and network cards developed by Apple Inc. using Wi-Fi protocols. In Japan, the line of products was marketed under the brand AirMac due to previous registration by I-O Data.
-Apple introduced the AirPort line in 1999. Wireless cards were discontinued in 2009 following the Mac transition to Intel processors, after all of Apple's Mac products had adopted built-in Wi-Fi. Apple's line of wireless routers consisted of the AirPort Base Station (later AirPort Extreme); the AirPort Time Capsule, a variant with a built-in hard disk for automated backups; and the AirPort Express, a compact router.
-In 2018, Apple discontinued the AirPort line. The remaining inventory was sold off, and Apple later retailed routers from Linksys, Netgear, and Eero in Apple retail stores.
-

@@ -1,3 +1,0 @@
-Noon (or midday) is 12 o'clock in the daytime. It is written as 12 noon, 12:00 m. (for meridiem, literally 12:00 midday), 12 p.m. (for post meridiem, literally "after midday"), 12 pm, or 12:00 (using a 24-hour clock) or 1200 (military time).
-Solar noon is the time when the Sun appears to contact the local celestial meridian. This is when the Sun reaches its apparent highest point in the sky, at 12 noon apparent solar time and can be observed using a sundial. The local or clock time of solar noon depends on the date, longitude, and time zone, with Daylight Saving Time tending to place solar noon closer to 1:00pm.
-

@@ -1,2 +1,0 @@
-The ATI Rage (stylized as RAGE or rage) is a series of graphics chipsets developed by ATI Technologies offering graphical user interface (GUI) 2D acceleration, video acceleration, and 3D acceleration developed by ATI Technologies. It is the successor to the ATI Mach series of 2D accelerators.
-
