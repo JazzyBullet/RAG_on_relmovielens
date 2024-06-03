@@ -1,0 +1,126 @@
+In everyday use and in kinematics, the speed (commonly referred to as v) of an object is the magnitude of the change of its position over time or the magnitude of the change of its position per unit of time; it is thus a scalar quantity. The average speed of an object in an interval of time is the distance travelled by the object divided by the duration of the interval; the instantaneous speed is the limit of the average speed as the duration of the time interval approaches zero. Speed is the magnitude of velocity (a vector), which indicates additionally the direction of motion.
+Speed has the dimensions of distance divided by time. The SI unit of speed is the metre per second (m/s), but the most common unit of speed in everyday usage is the kilometre per hour (km/h) or, in the US and the UK, miles per hour (mph). For air and marine travel, the knot is commonly used.
+The fastest possible speed at which energy or information can travel, according to special relativity, is the speed of light in vacuum c = 299792458 metres per second (approximately 1079000000 km/h or 671000000 mph). Matter cannot quite reach the speed of light, as this would require an infinite amount of energy. In relativity physics, the concept of rapidity replaces the classical idea of speed.
+
+
+== Definition ==
+
+
+=== Historical definition ===
+Italian physicist Galileo Galilei is usually credited with being the first to measure speed by considering the distance covered and the time it takes. Galileo defined speed as the distance covered per unit of time. In equation form, that is
+
+where 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ is speed, 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+ is distance, and 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ is time. A cyclist who covers 30 metres in a time of 2 seconds, for example, has a speed of 15 metres per second. Objects in motion often have variations in speed (a car might travel along a street at 50 km/h, slow to 0 km/h, and then reach 30 km/h).
+
+
+=== Instantaneous speed ===
+Speed at some instant, or assumed constant during a very short period of time, is called instantaneous speed. By looking at a speedometer, one can read the instantaneous speed of a car at any instant. A car travelling at 50 km/h generally goes for less than one hour at a constant speed, but if it did go at that speed for a full hour, it would travel 50 km. If the vehicle continued at that speed for half an hour, it would cover half that distance (25 km). If it continued for only one minute, it would cover about 833 m.
+In mathematical terms, the instantaneous speed 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ is defined as the magnitude of the instantaneous velocity 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle {\boldsymbol {v}}}
+  
+, that is, the derivative of the position 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle {\boldsymbol {r}}}
+  
+ with respect to time:
+
+If 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  
+ is the length of the path (also known as the distance) travelled until time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+, the speed equals the time derivative of 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  
+:
+
+In the special case where the velocity is constant (that is, constant speed in a straight line), this can be simplified to 
+  
+    
+      
+        v
+        =
+        s
+        
+          /
+        
+        t
+      
+    
+    {\displaystyle v=s/t}
+  
+.  The average speed over a finite time interval is the total distance travelled divided by the time duration.
+
+
+=== Average speed ===
+
+Different from instantaneous speed, average speed is defined as the total distance covered divided by the time interval. For example, if a distance of 80 kilometres is driven in 1 hour, the average speed is 80 kilometres per hour. Likewise, if 320 kilometres are tr

@@ -1,0 +1,34 @@
+Stainless steel, also known as inox, corrosion-resistant steel (CRES) and rustless steel,  is an alloy of iron that is resistant to rusting and corrosion. It contains iron with chromium and other elements such as molybdenum, carbon, nickel and nitrogen depending on its specific use and cost. Stainless steel's resistance to corrosion results from the 10.5%, or more, chromium content which forms a passive film that can protect the material and self-heal in the presence of oxygen.: 3 
+The alloy's properties, such as luster and resistance to corrosion, are useful in many applications. Stainless steel can be rolled into sheets, plates, bars, wire, and tubing. These can be used in cookware, cutlery, surgical instruments, major appliances, vehicles, construction material in large buildings, industrial equipment (e.g., in paper mills, chemical plants, water treatment), and storage tanks and tankers for chemicals and food products.
+The biological cleanability of stainless steel is superior to both aluminium and copper, and comparable to glass. Its cleanability, strength, and corrosion resistance have prompted the use of stainless steel in pharmaceutical and food processing plants.
+Different types of stainless steel are labeled with an AISI three-digit number. The ISO 15510 standard lists the chemical compositions of stainless steels of the specifications in existing ISO, ASTM, EN, JIS, and GB standards in a useful interchange table.
+
+
+== Properties ==
+
+
+=== Corrosion resistance ===
+Although stainless steel does rust, this only affects the outer few layers of atoms, its chromium content shielding deeper layers from oxidation.
+The addition of nitrogen also improves resistance to pitting corrosion and increases mechanical strength. Thus, there are numerous grades of stainless steel with varying chromium and molybdenum contents to suit the environment the alloy must endure. Corrosion resistance can be increased further by the following means:
+
+increasing chromium content to more than 11%
+adding nickel to at least 8%
+adding molybdenum (which also improves resistance to pitting corrosion)
+
+
+=== Strength ===
+The most common type of stainless steel, 304, has a tensile yield strength around 210 MPa (30,000 psi) in the annealed condition. It can be strengthened by cold working to a strength of 1,050 MPa (153,000 psi) in the full-hard condition.
+The strongest commonly available stainless steels are precipitation hardening alloys such as 17-4 PH and  Custom 465. These can be heat treated to have tensile yield strengths up to 1,730 MPa (251,000 psi).
+
+
+=== Melting point ===
+Stainless steel is a steel, and as such its melting point is near that of ordinary steel, and much higher than the melting points of aluminium or copper.
+As with most alloys, the melting point of stainless steel is expressed in the form of a range of temperatures, and not a single temperature. This temperature range goes from 1,400 to 1,530 °C (2,550 to 2,790 °F; 1,670 to 1,800 K; 3,010 to 3,250 °R) depending on the specific consistency of the alloy in question.
+
+
+=== Conductivity ===
+Like steel, stainless steels are relatively poor conductors of electricity, with significantly lower electrical conductivities than copper. In particular, the  non-electrical contact resistance (ECR) of stainless steel arises as a result of the dense protective oxide layer and limits its functionality in applications as electrical connectors. Copper alloys and nickel-coated connectors tend to exhibit lower ECR values and are preferred materials for such applications. Nevertheless, stainless steel connectors are employed in situations where ECR poses a lower design criteria and corrosion resistance is required, for example in high temperatures and oxidizing environments.
+
+
+=== Magnetism ===
+Martensitic, duplex and ferritic stainless steels are magnetic, while austenitic stainless steel is usually non-magnetic. Ferritic steel owes its magnetism to its body-centered cubic crystal structure, in which i

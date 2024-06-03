@@ -1,0 +1,31 @@
+A dune is a landform composed of wind- or water-driven sand. It typically takes the form of a mound, ridge, or hill. An area with dunes is called a dune system or a dune complex.  A large dune complex is called a dune field, while broad, flat regions covered with wind-swept sand or dunes, with little or no vegetation, are called ergs or sand seas. Dunes occur in different shapes and sizes, but most kinds of dunes are longer on the stoss (upflow) side, where the sand is pushed up the dune, and have a shorter slip face in the lee side. The valley or trough between dunes is called a dune slack.
+Dunes are most common in desert environments, where the lack of moisture hinders the growth of vegetation that would otherwise interfere with the development of dunes. However, sand deposits are not restricted to deserts, and dunes are also found along sea shores, along streams in semiarid climates, in areas of glacial outwash, and in other areas where poorly cemented sandstone bedrock disintegrates to produce an ample supply of loose sand.  Subaqueous dunes can form from the action of water flow (fluvial processes) on sand or gravel beds of rivers, estuaries, and the sea-bed.
+Some coastal areas have one or more sets of dunes running parallel to the shoreline directly inland from the beach. In most cases, the dunes are important in protecting the land against potential ravages by storm waves from the sea. Artificial dunes are sometimes constructed to protect coastal areas.  The dynamic action of wind and water can sometimes cause dunes to drift, which can have serious consequences. For example, the town of Eucla, Western Australia, had to be relocated in the 1890s because of dune drift.
+
+The modern word "dune" came into English from French around 1790, which in turn came from Middle Dutch dūne.
+
+
+== Formation ==
+
+A universally precise distinction does not exist between ripples, dunes, and draas, which are all deposits of the same type of materials. Dunes are generally defined as greater than 7 cm tall and may have ripples, while ripples are deposits that are less than 3 cm tall.  A draa is a very large aeolian landform, with a length of several kilometers and a height of tens to hundreds of meters, and which may have superimposed dunes.
+
+Dunes are made of sand-sized particles, and may consist of quartz, calcium carbonate, snow, gypsum, or other materials. The upwind/upstream/upcurrent side of the dune is called the stoss side; the downflow side is called the lee side. Sand is pushed (creep) or bounces (saltation) up the stoss side, and slides down the lee side. A side of a dune that the sand has slid down is called a slip face (or slipface).
+The Bagnold formula gives the speed at which particles can be transported.
+
+
+== Aeolian dunes ==
+
+
+=== Aeolian dune shapes ===
+Five basic dune types are recognized: crescentic, linear, star, dome, and parabolic. Dune areas may occur in three forms: simple (isolated dunes of basic type), compound (larger dunes on which smaller dunes of same type form), and complex (combinations of different types).
+
+
+==== Barchan or crescentic ====
+
+Barchan dunes are crescent-shaped mounds which are generally wider than they are long. The lee-side slipfaces are on the concave sides of the dunes. These dunes form under winds that blow consistently from one direction (unimodal
+winds). They form separate crescents when the sand supply is comparatively small. When the sand supply is greater, they may merge into barchanoid ridges, and then transverse dunes (see below).
+Some types of crescentic dunes move more quickly over desert surfaces than any other type of dune. A group of dunes moved more than 100 metres per year between 1954 and 1959 in China's Ningxia Province, and similar speeds have been recorded in the Western Desert of Egypt. The largest crescentic dunes on Earth, with mean crest-to-crest widths of more than three kilometres, are in China's Taklamakan Desert.
+
+
+==== Transverse dunes ====
+Abundant barchan dunes may

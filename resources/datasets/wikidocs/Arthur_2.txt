@@ -1,0 +1,29 @@
+ARTHUR (an acronym for "artillery hunting radar") is a counter-battery radar system originally developed jointly for and in close co-operation with the Norwegian and Swedish armed forces by Ericsson Microwave Systems in both Sweden and Norway. It is also used by the British Army, under the names mobile artillery monitoring battlefield radar or mobile artillery monitoring battlefield asset (MAMBA).
+It is a mobile, passive electronically scanned array C-band radar for the purpose of enemy field artillery acquisition and was developed for the primary role as the core element of a brigade or division level counter battery sensor system. The vehicle carrying the radar was originally a Bandvagn 206 developed and produced by Hägglund & Söner, but is now more often delivered on trucks with ISO fasteners.
+The radar is now developed by Saab AB Electronic Defense Systems (after EMW was sold to Saab in June 2006) and Saab Technologies Norway AS.
+
+
+== Role ==
+The ARTHUR detects hostile artillery by tracking projectiles in flight. The original ARTHUR Mod A can locate guns at 15–20 km and 120 mm mortars at 30–35 km with a circular error probable of 0.45% of range. This is accurate enough for effective counter-battery fire by friendly artillery batteries. ARTHUR can operate as a stand-alone, medium-range weapons locating radar or a long-range weapon locating system, consisting of two to four radars working in coordination. This flexibility enables the system to maintain a constant surveillance of an area of interest.
+The upgraded ARTHUR Mod B meets the British Army's MAMBA requirement for locating guns, mortars or rockets. It can locate guns at 20–25 km and 120 mm mortars at 35–40 km with a circular probable error of 0.35% of range. MAMBA was successfully used by the British Army in Iraq and Afghanistan, with an availability of 90%.
+ARTHUR Mod C has a larger antenna and can detect guns at 31 km, mortars at 55 km and rockets at 50–60 km depending on their size, and locate targets at a rate of 100 per minute with CEP 0.2% of range for guns and rockets and 0.1% for mortars.
+ARTHUR WLR Mod D will have several improvements, including an instrumented range of up to 100 km, an accuracy of 0.15% of range, and will cover an arc of 120°. The detection range is between 0.8 and 100 km and could possibly increase to 200 km. More than 100 targets can be tracked at the same time.
+It can be carried by a C-130 or slung under a heavy lift helicopter such as a Chinook. Its air mobility allows it for use by light and rapid reaction forces such as airborne and marine units.
+
+
+=== Nordic Battle Group ===
+The use of the ARTHUR in Nordic Battle Groups will primarily concentrate on preventing the use of artillery barrages in civilian areas, since the radar can identify an artillery unit guilty of targeting civilians. It will also be used to warn friendly mission troops of incoming indirect fire.
+
+
+== Operational modes ==
+
+ARTHUR can be operated in two main modes: weapon locating and fire direction. Weapon locating is used to determine the location of the guns, mortars or rocket launchers that fired and their target area. Fire direction is used to adjust the fire of own artillery onto target coordinates.
+
+
+=== Weapon locating ===
+When locating enemy artillery, the radar tracks the up-going trajectory of shells, calculates their points of origin and impact and, with other information, displays it to the radar operator(s). Depending on national tactics, techniques, procedures, the commander's orders and the situation, this information may be used to alert any troops in the impact area and engage the hostile batteries with counter-battery fire. If the users have digital communications networks these messages may be sent automatically. 
+The ARTHUR can determine whether the artillery piece is of artillery-type, rocket-type or mortar-type based upon the curve of the trajectory, the munition's speed, and its range.
+
+
+=== Fire direction ===
+When in fire direction mode the rad

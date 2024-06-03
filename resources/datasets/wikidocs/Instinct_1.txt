@@ -1,0 +1,32 @@
+Instinct is the inherent inclination of a living organism towards a particular complex behaviour, containing innate (inborn) elements. The simplest example of an instinctive behaviour is a fixed action pattern (FAP), in which a very short to medium length sequence of actions, without variation, are carried out in response to a corresponding clearly defined stimulus. 
+Any behaviour is instinctive if it is performed without being based upon prior experience (that is, in the absence of learning), and is therefore an expression of innate biological factors. Sea turtles, newly hatched on a beach, will instinctively move toward the ocean.  A marsupial climbs into its mother's pouch upon being born. Other examples include animal fighting, animal courtship behaviour, internal escape functions, and the building of nests. Though an instinct is defined by its invariant innate characteristics, details of its performance can be changed by experience; for example, a dog can improve its listening skills by practice.
+Instincts are inborn complex patterns of behaviour that exist in most members of the species, and should be distinguished from reflexes, which are simple responses of an organism to a specific stimulus, such as the contraction of the pupil in response to bright light or the spasmodic movement of the lower leg when the knee is tapped. The absence of volitional capacity must not be confused with an inability to modify fixed action patterns. For example, people may be able to modify a stimulated fixed action pattern by consciously recognizing the point of its activation and simply stop doing it, whereas animals without a sufficiently strong volitional capacity may not be able to disengage from their fixed action patterns, once activated.
+Instinctual behaviour in humans has been studied.
+
+
+== Early theorists ==
+
+
+=== Jean Henri Fabre ===
+Jean Henri Fabre (1823–1915) is said to be the first person to study small animals (other than birds) and insects, and he specifically specialized in the instincts of insects. Fabre considered an instinct to be a linked set of behaviours that an organism undergoes unconsciously in response to external conditions.
+
+
+==== Insect and animal behaviour ====
+Fabre concluded a significant difference between humans and other animals is that most animals cannot reason. He came to this conclusion after observing how insects and wild birds continued to repeat a certain behaviour in response to a novel situation. While these instinctive behaviours appeared complex, the insects and animals did not adjust their behaviour despite it not helping them in that novel situation.
+The following are some insect and animal behaviours that Fabre observed and labelled "instinctive", for they do not involve reasoning:
+
+Maternal instincts
+Metamorphosis
+Mimicry
+Molting
+Playing dead
+Taxis
+
+
+==== Fixed patterns ====
+Fabre believed instincts were "fixed patterns", meaning these linked sets of behaviours do not change in response to novel environmental situations. One specific example that helped him arrive at this conclusion is his study of various wasp species. All of the wasp species he studied performed a certain pattern of behaviour when catching their prey, which Fabre called a fixed pattern. Then Fabre intervened in the wasps' process of catching prey, and only one of the species adjusted their behaviour in response to this unfamiliar interception. Fabre explained this contradiction by arguing that any individuals which stray from the norms of their species are merely an exception, while also admitting that there could be some room for growth within a species' instincts.
+Fabre's belief that instincts are fixed opposes the theory of evolution. He rejected that one species could evolve into another, and also rejected that the consciousness humans possess could be achieved through the evolution of unconscious traits.
+
+
+=== Wilhelm Wundt ===
+Wilhelm Wundt (1832–1920) is known for founding the first psychology laboratory, which oc

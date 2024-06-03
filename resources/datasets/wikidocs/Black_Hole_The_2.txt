@@ -1,0 +1,28 @@
+A supermassive black hole (SMBH or sometimes SBH) is the largest type of black hole, with its mass being on the order of hundreds of thousands, or millions to billions, of times the mass of the Sun (M☉). Black holes are a class of astronomical objects that have undergone gravitational collapse, leaving behind spheroidal regions of space from which nothing can escape, including light. Observational evidence indicates that almost every large galaxy has a supermassive black hole at its center. For example, the Milky Way galaxy has a supermassive black hole at its center, corresponding to the radio source Sagittarius A*. Accretion of interstellar gas onto supermassive black holes is the process responsible for powering active galactic nuclei (AGNs) and quasars. 
+Two supermassive black holes have been directly imaged by the Event Horizon Telescope: the black hole in the giant elliptical galaxy Messier 87 and the black hole at the Milky Way’s center (Sagittarius A*).
+
+
+== Description ==
+Supermassive black holes are classically defined as black holes with a mass above 100,000 (105) solar masses (M☉); some have masses of several billion M☉. Supermassive black holes have physical properties that clearly distinguish them from lower-mass classifications. First, the tidal forces in the vicinity of the event horizon are significantly weaker for supermassive black holes. The tidal force on a body at a black hole's event horizon is inversely proportional to the square of the black hole's mass: a person at the event horizon of a 10 million M☉ black hole experiences about the same tidal force between their head and feet as a person on the surface of the Earth. Unlike with stellar-mass black holes, one would not experience significant tidal force until very deep into the black hole's event horizon.
+It is somewhat counterintuitive to note that the average density of a SMBH within its event horizon (defined as the mass of the black hole divided by the volume of space within its Schwarzschild radius) can be smaller than the density of water. This is because the Schwarzschild radius (
+  
+    
+      
+        
+          r
+          
+            s
+          
+        
+      
+    
+    {\displaystyle r_{\text{s}}}
+  
+) is directly proportional to its mass. Since the volume of a spherical object (such as the event horizon of a non-rotating black hole) is directly proportional to the cube of the radius, the density of a black hole is inversely proportional to the square of the mass, and thus higher mass black holes have a lower average density.
+The Schwarzschild radius of the event horizon of a nonrotating and uncharged supermassive black hole of around 1 billion M☉ is comparable to the semi-major axis of the orbit of planet Uranus, which is about 19 AU.
+Some astronomers refer to black holes of greater than 5 billion M☉ as ultramassive black holes (UMBHs or UBHs), but the term is not broadly used. Possible examples include the black holes at the cores of TON 618, NGC 6166, ESO 444-46 and NGC 4889, which are among the most massive black holes known.
+Some studies have suggested that the maximum natural mass that a black hole can reach, while being luminous accretors (featuring an accretion disk), is typically on the order of about 50 billion M☉. However, a 2020 study suggested even larger black holes, dubbed stupendously large black holes (SLABs), with masses greater than 100 billion M☉, could exist based on used models; some estimates place the black hole at the core of Phoenix A in this category.
+
+
+== History of research ==
+The story of how supermassive black holes were found began with the investigation by Maarten Schmidt of the radio source 3C 273 in 1963. Initially this was thought to be a star, but the spectrum proved puzzling. It was determined to be hydrogen emission lines that had been red shifted, indicating the object was moving away from the Earth. Hubble's law showed that the object was located several billion light-years away, and thus must be 

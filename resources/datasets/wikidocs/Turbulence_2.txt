@@ -1,0 +1,31 @@
+Wake turbulence is a disturbance in the atmosphere that forms behind an aircraft as it passes through the air. It includes several components, the most significant of which are wingtip vortices and jet-wash, the rapidly moving gases expelled from a jet engine.
+Wake turbulence is especially hazardous in the region behind an aircraft in the takeoff or landing phases of flight. During take-off and landing, an aircraft operates at a high angle of attack. This flight attitude maximizes the formation of strong vortices. In the vicinity of an airport, there can be multiple aircraft, all operating at low speed and low altitude; this provides an extra risk of wake turbulence with a reduced height from which to recover from any upset.
+
+
+== Definition ==
+Wake turbulence is a type of clear-air turbulence. In the case of wake turbulence created by the wings of a heavy aircraft, the rotating vortex-pair lingers for a significant amount of time after the passage of the aircraft, sometimes more than a minute. One of these rotating vortices can seriously upset or even invert a smaller aircraft that encounters it, either in the air or on the ground.
+
+
+=== In fixed-wing level flight ===
+The vortex circulation is outward, upward, and around the wingtips when viewed from either ahead or behind the aircraft. Tests with large aircraft have shown that vortices remain spaced less than a wingspan apart, drifting with the wind, at altitudes greater than a wingspan from the ground. Tests have also shown that the vortices sink at a rate of several hundred feet per minute, slowing their descent and diminishing in strength with time and distance behind the generating aircraft.
+At altitude, vortices sink at a rate of 90–150 m (300–490 ft) per minute and stabilize about 150–270 m (490–890 ft) below the flight level of the generating aircraft. Therefore, aircraft operating at altitudes greater than 600 m (2,000 ft) are considered to be at less risk.
+When the vortices of larger aircraft sink close to the ground — within 100–200 ft (30–61 m) — they tend to move laterally over the ground at a speed of 2–3 kn (3.7–5.6 km/h; 2.3–3.5 mph). A crosswind decreases the lateral movement of the upwind vortex and increases the movement of the downwind vortex.
+
+
+=== Helicopters ===
+Helicopters also produce wake turbulence. Helicopter wakes may be significantly stronger than those of a fixed-wing aircraft of the same weight. The strongest wake will occur when the helicopter is operating at slower speeds (20 to 50 knots). Light helicopters with two-blade rotor systems produce a wake as strong as heavier helicopters with more than two blades. The strong rotor wake of the Bell Boeing V-22 Osprey tiltrotor can extend further and has contributed to a crash.
+
+
+== Hazard avoidance ==
+Wingtip devices may slightly lessen the power of wingtip vortices. However, such changes are not significant enough to change the distances or times at which it is safe to follow other aircraft.
+
+
+=== Wake turbulence categories ===
+
+ICAO mandates wake turbulence categories based upon the maximum takeoff weight (MTOW) of the aircraft. These are used for separation of aircraft during take-off and landing.
+
+There are a number of separation criteria for take-off, landing, and en-route phases of flight based upon wake turbulence categories. Air Traffic Controllers will sequence aircraft making instrument approaches with regard to these criteria. The aircraft making a visual approach is advised of the relevant recommended spacing and are expected to maintain their separation.
+
+
+=== Parallel or crossing runways ===
+During takeoff and landing, an aircraft's wake sinks toward the ground and moves laterally away from the runway when the wind is calm. A three-to-five-knot (3–6 mph; 6–9 km/h) crosswind will tend to keep the upwind side of the wake in the runway area and may cause the downwind side to drift toward another runway. Since the wingtip vortices exist at the outer edge of an airplane's wake, this can be 

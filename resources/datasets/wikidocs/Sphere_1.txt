@@ -1,0 +1,68 @@
+A sphere (from Greek σφαῖρα, sphaîra) is a geometrical object that is a three-dimensional analogue to a two-dimensional circle. Formally, a sphere is the set of points that are all at the same distance r from a given point in three-dimensional space. That given point is the center of the sphere, and r is the sphere's radius. The earliest known mentions of spheres appear in the work of the ancient Greek mathematicians.
+The sphere is a fundamental object in many fields of mathematics. Spheres and nearly-spherical shapes also appear in nature and industry. Bubbles such as soap bubbles take a spherical shape in equilibrium. The Earth is often approximated as a sphere in geography, and the celestial sphere is an important concept in astronomy. Manufactured items including pressure vessels and most curved mirrors and lenses are based on spheres. Spheres roll smoothly in any direction, so most balls used in sports and toys are spherical, as are ball bearings.
+
+
+== Basic terminology ==
+
+As mentioned earlier r is the sphere's radius; any line from the center to a point on the sphere is also called a radius.
+If a radius is extended through the center to the opposite side of the sphere, it creates a diameter. Like the radius, the length of a diameter is also called the diameter, and denoted d. Diameters are the longest line segments that can be drawn between two points on the sphere: their length is twice the radius, d = 2r. Two points on the sphere connected by a diameter are antipodal points of each other.
+A unit sphere is a sphere with unit radius (r = 1). For convenience, spheres are often taken to have their center at the origin of the coordinate system, and spheres in this article have their center at the origin unless a center is mentioned.
+
+A great circle on the sphere has the same center and radius as the sphere, and divides it into two equal hemispheres.
+Although the figure of Earth is not perfectly spherical, terms borrowed from geography are convenient to apply to the sphere.
+A particular line passing through its center defines an axis (as in Earth's axis of rotation).
+The sphere-axis intersection defines two antipodal poles (north pole and south pole). The great circle equidistant to the poles is called the equator. Great circles through the poles are called lines of longitude or meridians. Small circles on the sphere that are parallel to the equator are circles of latitude (or parallels). In geometry unrelated to astronomical bodies, geocentric terminology should be used only for illustration and noted as such, unless there is no chance of misunderstanding.
+Mathematicians consider a sphere to be a two-dimensional closed surface embedded in three-dimensional Euclidean space. They draw a distinction between a sphere and a ball, which is a three-dimensional manifold with boundary that includes the volume contained by the sphere. An open ball excludes the sphere itself, while a closed ball includes the sphere: a closed ball is the union of the open ball and the sphere, and a sphere is the boundary of a (closed or open) ball. The distinction between ball and sphere has not always been maintained and especially older mathematical references talk about a sphere as a solid. The distinction between "circle" and "disk" in the plane is similar.
+Small spheres or balls are sometimes called spherules, e.g. in Martian spherules.
+
+
+== Equations ==
+In analytic geometry, a sphere with center (x0, y0, z0) and radius r is the locus of all points (x, y, z) such that
+
+  
+    
+      
+        (
+        x
+        −
+        
+          x
+          
+            0
+          
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        y
+        −
+        
+          y
+          
+            0
+          
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        z
+        −
+        
+          z
+          
+            0
+          
+        
+        
+          )
+          

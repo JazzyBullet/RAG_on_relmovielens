@@ -1,0 +1,67 @@
+The Bat! is an email client for the Microsoft Windows operating system, developed by Moldovan software company Ritlabs. It is sold as shareware and offered in three editions: Home Edition, Professional Edition, and Voyager which is a portable version and is included with Professional Edition.
+
+
+== Developers ==
+Ritlabs, SRL is based in Chişinău, Moldova. It was founded as RIT Research Labs in 1992 by Sergey Demchenko and Slava Filimonov, and were the creators of the DOS Navigator file manager.
+Alongside The Bat!, Ritlabs also offer a mail server software called BatPost.
+
+
+== Features ==
+
+
+=== Protocols and data security ===
+The Bat! supports POP3 and IMAP alongside their SSL variants, and SMTP including secure STARTTLS connections. Microsoft Exchange Server is also supported via MAPI. 
+The internal PGP implementation based on OpenSSL lets users encrypt messages and sign them with digital signatures. Digital keys manager is included. PGP up to version 10.0.2 is supported. The Bat! supports S/MIME via Internal Implementation or Microsoft CryptoAPI, Secure Socket Layer (SSL) v3.0 / Transport Layer Security (TLS) v1.0, v1.1, and 1.2 (as of version 8.5) with AES algorithm.
+The Bat! v9.1 supports TLS AEAD AES-GCM cipher suites for secure connections with mail servers. The Bat! v9.2.3 is in compliance with the Google's security standards related to the OAuth 2.0 protocol.
+The Bat! checks attached file extensions and blocks their launching if they are suspicious. The Bat! warns users of double extension attachments and allows users to see the real extension. The Bat!'s internal viewer was replaced in version 9.2.1 with the Chromium web browser rendering engine to ensure HTML formatting is properly rendered, prevent script execution, and provide anti-phishing information.
+
+
+==== Database encryption ====
+The Bat! Professional has the option to encrypt the message database, address books and configuration files stored on the computer. During the first program start, encryption can be activated and the master password can be set. The AES algorithm is used for encryption in the CBC process (Cipher Block Chaining) with a 128-bit key.
+
+
+=== Message management ===
+The Bat! provides virtual folders, advanced filtering, extensive search, a macro language, templates, tags, and color groups to assist in managing email.
+Email templates contents may be dynamically changed through the use of macros, which can also be used to automatically execute other user-defined functions such as cursor positioning, addressing changes, identity changes, active account changes and other.
+
+
+=== Filtering ===
+A filtering system that sorts incoming, outgoing, read, and replied messages to folders; auto-responds; replies with custom templates; forwards, redirects, prints, or exports messages; sends read confirmations; runs external programs and more.
+
+
+=== Language ===
+Originally available in English, Russian, German, Polish and Dutch, the software interface has since been expanded to a total of 18 languages.
+Support for IDNs that contain characters from non-Latin alphabets such as Arabic, Chinese, Cyrillic and Greek. IDN support includes Latin alphabet-based characters with diacritics, such as those found in French and German.
+
+
+=== Import function ===
+The Bat! enables email import from the following programs and file formats:
+
+UNIX mailbox format (mbox)
+Outlook Express v4.xx, 5.xx, 6.0
+Microsoft 365/Office Outlook
+Mozilla Thunderbird
+Netscape Communicator v4.xx
+Netscape Mail v2.xx, 3.xx
+Eudora Lite/Pro
+Pegasus Mail
+Address books can be imported in the following formats:
+
+Outlook Express (Windows Address Book)
+Microsoft 365/Office Outlook (Contacts Folder)
+Google Contacts
+LDIF files
+Electronic business cards (Vcard)
+Comma-separated text files (CSV)
+Tab-delimited text files (TAB)
+Initialization files (INI)
+Eudora Address Book
+Pegasus Tag File
+CardDAV address books
+
+
+=== RSS aggregator ===
+Other than email, The Bat! also has a built-in feed reader using RSS.
+
+
+=== Them

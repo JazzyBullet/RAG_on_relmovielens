@@ -1,0 +1,20 @@
+DuckDuckGo is an American software company that offers a number of products intended to help people protect their online privacy. The flagship product is a search engine that has been praised by privacy advocates. Subsequent products include extensions for all major web browsers and a custom DuckDuckGo web browser.
+Headquartered in Paoli, Pennsylvania, DuckDuckGo is a privately held company with about 200 employees. The company's name is a reference to the children's game duck, duck, goose.
+
+
+== History ==
+
+
+=== Early years ===
+DuckDuckGo was founded by Gabriel Weinberg and launched on February 29, 2008, in Valley Forge, Pennsylvania. Weinberg is an entrepreneur who previously launched Names Database, a now-defunct social network. Self-funded by Weinberg until October 2011, DuckDuckGo was then "backed by Union Square Ventures and a handful of angel investors." Union Square partner Brad Burnham stated, "We invested in DuckDuckGo because we became convinced that it was not only possible to change the basis of competition in search, it was time to do it." In addition, Trisquel, Linux Mint, and the Midori web browser switched to use DuckDuckGo as their default search engine. DuckDuckGo gains revenue via advertisements and affiliate programs. The search engine is written in Perl and runs on nginx, FreeBSD, and Linux. DuckDuckGo is built primarily upon search APIs from various vendors. Because of this, TechCrunch characterized the service as a "hybrid" search engine. Weinberg explained the beginnings of the name with respect to the children's game duck, duck, goose. He said of the origin of the name: "Really it just popped in my head one day and I just liked it. It is certainly influenced/derived from duck duck goose, but other than that there is no relation, e.g., a metaphor." DuckDuckGo was featured on TechCrunch's Elevator Pitch Friday in 2008, and it was a finalist in the 2008 BOSS Mashable Challenge.
+In 2010, DuckDuckGo began using privacy to differentiate itself from its competitors.
+In July 2010, Weinberg started a DuckDuckGo community website (duck.co) to allow the public to report problems, discuss means of spreading the use of the search engine, request features, and discuss open sourcing the code. The company registered the domain name ddg.gg on February 22, 2011, and acquired duck.com in December 2018, which are used as shortened URL aliases that redirect to duckduckgo.com, and is also used as the domain for their e-mail protection service.
+
+
+=== Growth in the 2010s ===
+
+By May 2012, the search engine was attracting 1.5 million searches a day. Weinberg reported that it had earned US$115,000 in revenue in 2011 and had three employees, plus a small number of contractors. Compete.com estimated 266,465 unique visitors to the site in February 2012. On April 12, 2011, Alexa reported a 3-month growth rate of 51%. DuckDuckGo's own traffic statistics show that in August 2012 there were 1,393,644 visits per day, up from an average of 39,406 visits per day in April 2010 (the earliest data available). In a lengthy profile in November 2012, The Washington Post indicated that searches on DuckDuckGo numbered up to 45,000,000 per month in October 2012. The article concluded:
+"Weinberg's non-ambitious goals make him a particularly odd and dangerous competitor online. He can do almost everything that Google or Bing can't because it could damage their business models, and if users figure out that they like the DuckDuckGo way better, Weinberg could damage the big boys without even really trying. It's asymmetrical digital warfare, and his backers at Union Square Ventures say Google is vulnerable."
+
+GNOME released Web 3.10 on September 26, 2013, and starting with this version, the default search engine is DuckDuckGo.
+At its keynote speech at WWDC 2014 on September 18, 2014, Apple announced that DuckDuckGo would be included as an option for search on both iOS 8 and OS X Yosemite in its Safari browser. On March 10, the Pale Moon web browser, st

@@ -1,0 +1,60 @@
+Tic disorders are defined in the Diagnostic and Statistical Manual of Mental Disorders (DSM) based on type (motor or phonic) and duration of tics (sudden, rapid, nonrhythmic movements). Tic disorders are defined similarly by the World Health Organization (ICD-10 codes).
+
+
+== Classification ==
+
+
+=== DSM-5 ===
+The fifth revision of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), published in May 2013, classifies Tourette syndrome and tic disorders as motor disorders listed in the neurodevelopmental disorder category.
+Tic disorders, in ascending order of severity, are:
+
+307.20 Other specified tic disorder (specify reason)
+307.20 Unspecified tic disorder
+307.21 Provisional tic disorder
+307.22 Persistent (chronic) motor or vocal tic disorder (specify motor or vocal)
+307.23 Tourette's disorder
+Developmental coordination disorder and stereotypic movement disorder are also classified as motor disorders.
+
+
+=== ICD-10 ===
+ICD10 diagnosis codes are:
+
+F95.0  Transient tic disorder
+F95.1  Chronic motor or vocal tic disorder
+F95.2  Combined vocal and multiple motor tic disorder [Gilles de la Tourette]
+F95.8  Other tic disorders
+F95.9  Tic disorder, unspecified
+
+
+== Diagnosis ==
+
+Tics should be distinguished from other causes of tourettism, stereotypies, chorea, dyskinesias, myoclonus and obsessive-compulsive disorder.
+
+
+== Treatment ==
+Education, and a "watch and wait" strategy, are the only treatment needed for many, and most individuals with tics do not seek treatment. When needed, management of tic disorders is similar to management of Tourette syndrome. The first line of treatment is behavioural therapy, followed by medication (most often aripiprazole) if the former is unsuccessful.
+Although behavioural therapy is the recommended first treatment, many people with tics do not access it due to the lack of trained psychotherapists.
+
+
+== Epidemiology ==
+Tic disorders are more commonly diagnosed in males than females.
+At least one in five children experience some form of tic disorder, most frequently between the ages of seven and twelve. Tourette syndrome is the more severe expression of a spectrum of tic disorders, which are thought to be due to the same genetic vulnerability. Nevertheless, most cases of Tourette syndrome are not severe. Although a significant amount of investigative work indicates genetic linkage of the various tic disorders, further study is needed to confirm the relationship.
+
+
+== History ==
+
+
+=== DSM-IV-TR ===
+In the fourth revision of the DSM (DSM-IV-TR), tic disorders were classified  as follows:
+
+Transient tic disorder consisted of multiple motor and/or phonic tics with duration of at least 4 weeks, but less than 12 months.
+Chronic tic disorder was either single or multiple motor or phonic tics, but not both, which were present for more than a year.
+Tourette syndrome was diagnosed when both motor and phonic tics were present for more than a year.
+Tic disorder NOS was diagnosed when tics were present, but did not meet the criteria for any specific tic disorder.
+
+
+=== From DSM-IV-TR to DSM-5 ===
+DSM-5 was published in 2013, updating DSM-IV-TR, which was published in 2000. The following changes were made:
+
+The word stereotyped was removed from tic definition: stereotypies and stereotypic movement disorder are frequently misdiagnosed as tics or Tourette syndrome. The definition of tic was made consistent for all tic disorders, and the word stereotyped was removed to help distinguish between stereotypies (common in autism spectrum disorders) and tic disorders.
+Provisional tic disorder approximately replaced transient tic disorder: because initially presenting tics may eventually be diagnosed as chronic tic disorder or Tourette's, transient suggested it could only be defined in retrospect (though that perception did not follow the DSM-IV-TR definition). The term provisional "satisfies experts with a more systematic epidemiological approach to disorders", but should not imply that treatment might not be c

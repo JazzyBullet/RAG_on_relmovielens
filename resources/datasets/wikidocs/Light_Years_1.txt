@@ -1,0 +1,20 @@
+A light-year, alternatively spelled light year (ly), is a unit of length used to express astronomical distances and is equal to exactly  9,460,730,472,580.8 km (Scientific notation: 94,607.304725808 x 108 km) , which is approximately 5.88 trillion mi. As defined by the International Astronomical Union (IAU), a light-year is the distance that light travels in a vacuum in one Julian year (365.25 days). Because it includes the word "year", the term is sometimes misinterpreted as a unit of time.
+The light-year is most often used when expressing distances to stars and other distances on a galactic scale, especially in non-specialist contexts and popular science publications. The unit most commonly used in professional astronomy is the parsec (symbol: pc, about 3.26 light-years).
+
+
+== Definitions ==
+As defined by the International Astronomical Union (IAU), the light-year is the product of the Julian year (365.25 days, as opposed to the 365.2425-day Gregorian year or the 365.24219-day Tropical year that both approximate) and the speed of light (299792458 m/s). Both of these values are included in the IAU (1976) System of Astronomical Constants, used since 1984. From this, the following conversions can be derived. The IAU-recognized abbreviation for light-year is "ly", although other standards like ISO 80000:2006 (now superseded) have used "l.y." and localized abbreviations are frequent, such as "al" in French, Spanish, and Italian (from année-lumière, año luz and anno luce, respectively), "Lj" in German (from Lichtjahr), etc.
+
+Before 1984, the tropical year (not the Julian year) and a measured (not defined) speed of light were included in the IAU (1964) System of Astronomical Constants, used from 1968 to 1983. The product of Simon Newcomb's J1900.0 mean tropical year of 31556925.9747 ephemeris seconds and a speed of light of 299792.5 km/s produced a light-year of 9.460530×1015 m (rounded to the seven significant digits in the speed of light) found in several modern sources was probably derived from an old source such as C. W. Allen's 1973 Astrophysical Quantities reference work, which was updated in 2000, including the IAU (1976) value cited above (truncated to 10 significant digits).
+Other high-precision values are not derived from a coherent IAU system. A value of 9.460536207×1015 m found in some modern sources is the product of a mean Gregorian year (365.2425 days or 31556952 s) and the defined speed of light (299792458 m/s). Another value, 9.460528405×1015 m, is the product of the J1900.0 mean tropical year and the defined speed of light.
+Abbreviations used for light-years and multiples of light-years are
+
+"ly" for one light-year
+"kly" for a kilolight-year (1,000 light-years)
+"Mly" for a megalight-year (1,000,000 light-years)
+"Gly" for a gigalight-year (1,000,000,000 light-years)
+
+
+== History ==
+The light-year unit appeared a few years after the first successful measurement of the distance to a star other than the Sun, by Friedrich Bessel in 1838. The star was 61 Cygni, and he used a 160-millimetre (6.2 in) heliometre designed by Joseph von Fraunhofer. The largest unit for expressing distances across space at that time was the astronomical unit, equal to the radius of the Earth's orbit at 150 million kilometres (93 million miles). In those terms, trigonometric calculations based on 61 Cygni's parallax of 0.314 arcseconds, showed the distance to the star to be 660,000 astronomical units (9.9×1013 km; 6.1×1013 mi). Bessel added that light takes 10.3 years to traverse this distance. He recognized that his readers would enjoy the mental picture of the approximate transit time for light, but he refrained from using the light-year as a unit. He may have resisted expressing distances in light-years because it would reduce the accuracy of his parallax data due to multiplying with the uncertain parameter of the speed of light.
+The speed of light was not yet precisely known in 1838; the estimate of its value changed in 1849 (Fizeau) and 18

@@ -1,0 +1,33 @@
+A game is a structured type of play, usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or games) or art (such as jigsaw puzzles or games involving an artistic layout such as Mahjong, solitaire, or some video games).
+Games are sometimes played purely for enjoyment, sometimes for achievement or reward as well. They can be played alone, in teams, or online; by amateurs or by professionals. The players may have an audience of non-players, such as when people are entertained by watching a chess championship. On the other hand, players in a game may constitute their own audience as they take their turn to play. Often, part of the entertainment for children playing a game is deciding who is part of their audience and who is a player. A toy and a game are not the same. Toys generally allow for unrestricted play whereas games present rules for the player to follow. 
+Key components of games are goals, rules, challenge, and interaction. Games generally involve mental or physical stimulation, and often both. Many games help develop practical skills, serve as a form of exercise, or otherwise perform an educational, simulational, or psychological role.
+Attested as early as 2600 BC, games are a universal part of human experience and present in all cultures. The Royal Game of Ur, Senet, and Mancala are some of the oldest known games.
+
+
+== Definitions ==
+
+
+=== Ludwig Wittgenstein ===
+Ludwig Wittgenstein was probably the first academic philosopher to address the definition of the word game. In his Philosophical Investigations, Wittgenstein argued that the elements of games, such as play, rules, and competition, all fail to adequately define what games are. From this, Wittgenstein concluded that people apply the term game to a range of disparate human activities that bear to one another only what one might call family resemblances. As the following game definitions show, this conclusion was not a final one and today many philosophers, like Thomas Hurka, think that Wittgenstein was wrong and that Bernard Suits' definition is a good answer to the problem.
+
+
+=== Roger Caillois ===
+French sociologist Roger Caillois, in his book Les jeux et les hommes (Games and Men)(1961), defined a game as an activity that must have the following characteristics:
+
+fun: the activity is chosen for its light-hearted character
+separate: it is circumscribed in time and place
+uncertain: the outcome of the activity is unforeseeable
+non-productive: participation does not accomplish anything useful
+governed by rules: the activity has rules that are different from everyday life
+fictitious: it is accompanied by the awareness of a different reality
+
+
+=== Chris Crawford ===
+Game designer Chris Crawford defined the term in the context of computers. Using a series of dichotomies:
+
+Creative expression is art if made for its own beauty, and entertainment if made for money.
+A piece of entertainment is a plaything if it is interactive. Movies and books are cited as examples of non-interactive entertainment.
+If no goals are associated with a plaything, it is a toy. (Crawford notes that by his definition, (a) a toy can become a game element if the player makes up rules, and (b) The Sims and SimCity are toys, not games.) If it has goals, a plaything is a challenge.
+If a challenge has no "active agent against whom you compete", it is a puzzle; if there is one, it is a conflict. (Crawford admits that this is a subjective test. Video games with noticeably algorithmic artificial intelligence can be played as puzzles; these include the patterns used to evade ghosts in Pac-Man.)
+Finally, if the player can only outperform the opponent, but not attack them to interfere with their performance, the conflict is a competition. (Competitions include racing and figure skating.) However, if attacks are allowed, then the conflict qualifies as a game.
+Crawford's definition ma

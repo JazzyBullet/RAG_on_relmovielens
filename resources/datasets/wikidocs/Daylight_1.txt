@@ -1,0 +1,22 @@
+Daylight is the combination of all direct and indirect sunlight during the daytime. This includes direct sunlight, diffuse sky radiation, and (often) both of these reflected by Earth and terrestrial objects, like landforms and buildings. Sunlight scattered or reflected by astronomical objects is generally not considered daylight. Therefore, daylight excludes moonlight, despite it being reflected indirect sunlight.
+
+
+== Definition ==
+Daylight is present at a particular location, to some degree, whenever the Sun is above the local horizon. (This is true for slightly more than 50% of the Earth at any given time. For an explanation of why it is not exactly half, see here).  However, the outdoor illuminance can vary from 120,000 lux for direct sunlight at noon, which may cause eye pain, to less than 5 lux for thick storm clouds with the Sun at the horizon (even <1 lux for the most extreme case), which may make shadows from distant street lights visible. It may be darker under unusual circumstances like a solar eclipse or very high levels of atmospheric particulates, which include smoke (see New England's Dark Day), dust, and volcanic ash.
+
+
+== Intensity in different conditions ==
+
+For comparison, nighttime illuminance levels are:
+
+For a table of approximate daylight intensity in the Solar System, see sunlight.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Length of Day and Twilight – Deriving the formulas to calculate the length of day

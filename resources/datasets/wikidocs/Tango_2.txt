@@ -1,0 +1,59 @@
+The TANGO control system is a free open source device-oriented controls toolkit for controlling any kind of hardware or software and building SCADA systems. It is used for controlling synchrotrons, lasers, physics experiments in over 20 sites. It is being actively developed by a consortium of research institutes.
+TANGO is a distributed control system. It runs on a single machine as well as hundreds of machines. TANGO uses two network protocols - the omniorb implementation of CORBA and Zeromq. The basic communication model is the client-server model. Communication between clients and servers can be synchronous, asynchronous or event driven. CORBA is used for synchronous and asynchronous communication and Zeromq is used for event-driven communication (since version 8 of TANGO).
+TANGO is based on the concept of Devices. Devices implement object oriented and service oriented approaches to software architecture. The Device model in TANGO implements commands/methods, attributes / data fields and properties for configuring Devices. In TANGO all control objects are Devices.
+
+
+== Device Servers ==
+
+TANGO is a software for building control systems which need to provide network access to hardware. Hardware can range from single bits of digital input/output up to sophisticated detector systems or entire plant control systems (SCADAs). Hardware access is managed in a process called a Device Server. The Device Server contains Devices belonging to different Device Classes which implement the hardware access. At Device Server startup time Devices (instances of Device Classes) are created which then represent logical instances of hardware  in the control system. Clients "import" the Devices via a database and send requests to the devices using TANGO. Devices can store configuration and setup values in a Mysql database permanently.
+Hundreds of Device Classes have been written by the community.
+TANGO manages complexity using hierarchies.
+
+
+== Bindings ==
+TANGO supports bindings to the following languages :
+
+C, C++, Java, Python, MATLAB, LabVIEW, IGOR Pro
+
+
+== Licensing ==
+TANGO is distributed under 2 licenses. The libraries are licensed under the GNU Lesser General Public License (LGPLv3). Tools and device servers are (unless otherwise stated) under the GNU General Public License (GPLv3). The LGPL licence allows the TANGO libraries in products which are not GNU GPL.
+
+
+== Projects using TANGO ==
+Some of the projects using TANGO (in addition to the consortium) :
+
+the diagnostics of the Laser Mégajoule
+
+
+== Consortium ==
+The consortium is a group of institutes who are actively developing TANGO. To join the consortium an institute has to sign the Memorandum of Understanding and actively commit resources to the development of TANGO. The consortium currently consists of the following institutes :
+
+ESRF - European Synchrotron Radiation Facility, Grenoble, France
+SOLEIL - Soleil Synchrotron, Paris, France
+ELETTRA - Elettra Synchrotron, Trieste, Italy
+ALBA - Alba Synchrotron, Barcelona, Spain
+DESY - PETRA III Synchrotron, Hamburg, Germany
+MAXIV - MAXIV Synchrotron, Lund, Sweden
+FRMII - FRMII neutron source, Munich, Germany
+SOLARIS - National Synchrotron Radiation Centre SOLARIS, Kraków, Poland
+ANKA - ANKA Synchrotron, Karlsruhe, Germany
+INAF - Istituto Nazionale di Astrofisica, IT
+The goal of the consortium is to guarantee the development of TANGO.
+
+
+== See also ==
+
+EPICS—Experimental Physics and Industrial Control System
+SCADA—Supervisory Control And Data Acquisition
+
+
+== References ==
+Refer to the following publications on TANGO for more information :
+
+TANGO - an object oriented control system based on CORBA, ICALEPCS 1999, Trieste (Italy)
+TANGO a CORBA based Control System, ICALEPCS 2003, Gyeongju (Korea)
+Ubiquitous TANGO, ICALEPCS 2007, Knoxville (USA)
+Future of TANGO, ICALEPCS 2007, Knoxville (USA)
+TANGO papers presented at ICALEPCS 2009, Kobe (Japan)
+TANGO papers presented at ICALEPCS 2011. Grenoble (France)

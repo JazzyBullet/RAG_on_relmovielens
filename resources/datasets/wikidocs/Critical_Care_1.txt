@@ -1,0 +1,24 @@
+Intensive care medicine, also called critical care medicine, is a medical specialty that deals with seriously or critically ill patients who have, are at risk of, or are recovering from conditions that may be life-threatening. It includes providing life support, invasive monitoring techniques, resuscitation, and end-of-life care. Doctors in this specialty are often called intensive care physicians, critical care physicians, or intensivists.
+Intensive care relies on multidisciplinary teams composed of many different health professionals. Such teams often include doctors, nurses, physical therapists, respiratory therapists, and pharmacists, among others. They usually work together in intensive care units (ICUs) within a hospital.
+
+
+== Scope ==
+
+Patients are admitted to the intensive care unit if their medical needs are greater than what the general hospital ward can provide. Indications for the ICU include blood pressure support for cardiovascular instability (hypertension/hypotension), sepsis, post-cardiac arrest syndrome or certain cardiac arrhythmias. Other ICU needs include airway or ventilator support due to respiratory compromise. The cumulative effects of multiple organ failure, more commonly referred to as multiple organ dysfunction syndrome, also requires advanced care. Patients may also be admitted to the ICU for close monitoring or intensive needs following a major surgery.
+There are two common ICU structures: closed and open. In a closed unit, the intensivist takes on the primary role for all patients in the unit. In an open ICU, the primary physician, who may or may not be an intensivist, can differ for each patient. There is increasingly strong evidence that closed units provide better patient outcomes. Patient management in intensive care differs between countries. Open units are the most common structure in the United States, but closed units are often found at large academic centers. Intermediate structures that fall between open and closed units also exist.
+
+
+=== Types of intensive care units ===
+Intensive care is usually provided in a specialized unit of a hospital called the intensive care unit (ICU) or critical care unit (CCU). Many hospitals also have designated intensive care areas for certain specialities of medicine. The naming is not rigidly standardized, and types of units are dictated by the needs and available resources of each hospital. These include:
+
+coronary intensive care unit (CCU or sometimes CICU) for heart disease
+medical intensive care unit (MICU)
+surgical intensive care unit (SICU)
+pediatric intensive care unit (PICU)
+pediatric cardiac intensive care unit (PCICU)
+neuroscience critical care unit (NCCU)
+overnight intensive-recovery (OIR)
+shock/trauma intensive-care unit (STICU)
+neonatal intensive care unit (NICU)
+ICU in the emergency department (E-ICU)
+Medical studies suggest a relation between ICU volume and quality of care for mechanically ventilated patients. After adjustment for severity of illness, demographic variables, and characteristics of the ICUs (including staffing by intensivists), higher ICU volume was significantly associated with lower ICU and hospital mortality rates. For example, adjusted ICU mortality (for a patient at average predicted risk for ICU death) was 21.2% in hospitals with 87 to 150 mechanically ventilated patients annually, and 14.5% in hospitals with 401 to 617 mechanically ventilated patients annually. Hospitals with intermediate numbers of patients had outcomes between these extremes. ICU delirium, formerly and inaccurately referred to as ICU psychosis, is a syndrome common in intensive care and cardiac units where patients who are in unfamiliar, monotonous surroundings develop symptoms of delirium (Maxmen & Ward, 1995). This may include interpreting machine noises as human voices, seeing walls quiver, or hallucinating that someone is tapping them on the shoulder. There exists systematic reviews in which interventions of sleep promotion related outcomes in t

@@ -1,0 +1,21 @@
+A space–time code (STC) is a method employed to improve the reliability of data transmission in wireless communication systems using multiple transmit antennas. STCs rely on transmitting multiple, redundant copies of a data stream to the receiver in the hope that at least some of them may survive the physical path between transmission and reception in a good enough state to allow reliable decoding.
+Space time codes may be split into two main types:
+
+Space–time trellis codes (STTCs) distribute a trellis code over multiple antennas and multiple time-slots and provide both coding gain and diversity gain.
+Space–time block codes (STBCs) act on a block of data at once (similarly to block codes) and also provide diversity gain but doesn't provide coding gain.
+Space–time line codes (STLCs) and STBCs are symmetric with respect to the transmit-and-receive processes, like a maximum-ratio combining (MRC) and maximum-ratio transmission (MRT). The STLC scheme provides full diversity gain even when there is no full channel state information (CSI) at the receiver.
+STC may be further subdivided according to whether the receiver knows the channel impairments. In coherent STC, the receiver knows the channel impairments through training or some other form of estimation. These codes have been studied more widely, and division algebras over number fields have now become the standard tool for constructing such codes.
+In noncoherent STC the receiver does not know the channel impairments but knows the statistics of the channel. In differential space–time codes neither the channel nor the statistics of the channel are available.
+
+
+== See also ==
+Diversity scheme – the concept from which STC arose.
+MIMO – the term for wireless communication systems employing multiple antennas at both a transmitter and a receiver.
+
+
+== References ==
+
+
+== General references ==
+Louay M.A. Jalloul and Sam. P. Alex, "Evaluation Methodology and Performance of an IEEE 802.16e System", Presented to the IEEE Communications and Signal Processing Society, Orange County Joint Chapter (ComSig), December 7, 2006. Available at: http://chapters.comsoc.org/comsig/meet.html
+Sam P. Alex and Louay M.A. Jalloul, "Performance Evaluation of MIMO in IEEE802.16e/WiMAX", IEEE Journal of Selected Topics in Signal Processing, VOL. 2, NO. 2, April, 2008.

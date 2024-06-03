@@ -1,0 +1,24 @@
+A lost and found (American English) or lost property (British English), or lost articles (also Canadian English) is an office in a public building or area where people can go to retrieve lost articles that may have been found by others. Frequently found at museums, amusement parks and schools, a lost and found will typically be a clearly marked box or room in a location near the main entrance.
+Some lost and found offices will try to contact the owners of any lost items if there are any personal identifiers available. Practically all will either sell, give away, or discard items after a certain period has passed to clear their storage.
+
+
+== History ==
+In Japan, the lost-and-found property system dates to a code written in the year 718.
+The first modern lost and found office was organized in Paris in 1805. Napoleon ordered his prefect of police to establish it as a central place "to collect all objects found in the streets of Paris", according to Jean-Michel Ingrandt, who was appointed the office's director in 2001. However, it was not until 1893 that Louis Lépine, then prefect of police, organized efforts to actively track down the owners of lost items.
+
+
+== Organization ==
+
+Lost-and-found offices at large organizations can handle a large and varied collection of articles. Transport for London's lost property offices (which handle items lost on the city's Tube, buses and taxis) handles over 130,000 items a year, including 24,000 bags and 10,000 mobile phones. Among the more peculiar items that have been handed in include a wedding dress, ashes in an urn, a longcase clock, a kitchen sink, and several wheelchairs.  In Japan, a combination of infrastructure, laws and cultural norms result in a very strong lost-and-found system; Tokyo's lost-and-found system processes over 4 million items annually.
+Other large organizations may lack a central lost-and-found office but have several offices attached to different administrative units. This is the case, for instance, at the University of Illinois, where different campus units have both distinct offices and different unofficial retention and resolution policies (rules for how long to keep items and what to do with them once that period has expired). In addition to such distributed offices, a cross-unit office might also exist; again referring to the University of Illinois, this cross-functional unit rests in the Campus Police (Division of Public Safety).
+
+
+== Computing ==
+Some file systems contain a special directory, called "lost+found" under Unix, where a file system check places lost and potentially corrupted files when the correct location cannot be determined, and so requires manual intervention by the user.
+
+
+== See also ==
+Theft by finding
+
+
+== References ==

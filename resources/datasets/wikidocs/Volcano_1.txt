@@ -1,0 +1,25 @@
+A volcano is a rupture in the crust of a planetary-mass object, such as Earth, that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface.
+On Earth, volcanoes are most often found where tectonic plates are diverging or converging, and because most of Earth's plate boundaries are underwater, most volcanoes are found underwater. For example, a mid-ocean ridge, such as the Mid-Atlantic Ridge, has volcanoes caused by divergent tectonic plates whereas the Pacific Ring of Fire has volcanoes caused by convergent tectonic plates. Volcanoes can also form where there is stretching and thinning of the crust's plates, such as in the East African Rift and the Wells Gray-Clearwater volcanic field and Rio Grande rift in North America. Volcanism away from plate boundaries has been postulated to arise from upwelling diapirs from the core–mantle boundary, 3,000 kilometers (1,900 mi) deep within Earth. This results in hotspot volcanism, of which the Hawaiian hotspot is an example. Volcanoes are usually not created where two tectonic plates slide past one another.
+Large eruptions can affect atmospheric temperature as ash and droplets of sulfuric acid obscure the Sun and cool Earth's troposphere. Historically, large volcanic eruptions have been followed by volcanic winters which have caused catastrophic famines.
+Other planets besides Earth have volcanoes. For example, volcanoes are very numerous on Venus. In 2009, a paper was published suggesting a new definition for the word 'volcano' that includes processes such as cryovolcanism. It suggested that a volcano be defined as 'an opening on a planet or moon's surface from which magma, as defined for that body, and/or magmatic gas is erupted.'
+This article mainly covers volcanoes on Earth. See § Volcanoes on other celestial bodies and Cryovolcano for more information.
+
+
+== Etymology ==
+The word volcano is derived from the name of Vulcano, a volcanic island in the Aeolian Islands of Italy whose name in turn comes from Vulcan, the god of fire in Roman mythology. The study of volcanoes is called volcanology, sometimes spelled vulcanology.
+
+
+== Plate tectonics ==
+
+According to the theory of plate tectonics, Earth's lithosphere, its rigid outer shell, is broken into sixteen larger and several smaller plates. These are in slow motion, due to convection in the underlying ductile mantle, and most volcanic activity on Earth takes place along plate boundaries, where plates are converging (and lithosphere is being destroyed) or are diverging (and new lithosphere is being created).
+During the development of geological theory, certain concepts that allowed the grouping of volcanoes in time, place, structure and composition have developed that ultimately have had to be explained in the theory of plate tectonics. For example, some volcanoes are polygenetic with more than one period of activity during their history; other volcanoes that become extinct after erupting exactly once are monogenetic (meaning "one life") and such volcanoes are often grouped together in a geographical region.
+
+
+=== Divergent plate boundaries ===
+
+At the mid-ocean ridges, two tectonic plates diverge from one another as hot mantle rock creeps upwards beneath the thinned oceanic crust. The decrease of pressure in the rising mantle rock leads to adiabatic expansion and the partial melting of the rock, causing volcanism and creating new oceanic crust. Most divergent plate boundaries are at the bottom of the oceans, and so most volcanic activity on Earth is submarine, forming new seafloor. Black smokers (also known as deep sea vents) are evidence of this kind of volcanic activity. Where the mid-oceanic ridge is above sea level, volcanic islands are formed, such as Iceland.
+
+
+=== Convergent plate boundaries ===
+
+Subduction zones are places where two plates, usually an oceanic plate and a continental plate, collide. The oceanic plate subducts (dives beneath the continental plate), forming a deep ocean trench just

@@ -1,0 +1,23 @@
+A chain reaction is a sequence of reactions where a reactive product or by-product causes additional reactions to take place. In a chain reaction, positive feedback leads to a self-amplifying chain of events.
+Chain reactions are one way that systems which are not in thermodynamic equilibrium can release energy or increase entropy in order to reach a state of higher entropy. For example, a system may not be able to reach a lower energy state by releasing energy into the environment, because it is hindered or prevented in some way from taking the path that will result in the energy release. If a reaction results in a small energy release making way for more energy releases in an expanding chain, then the system will typically collapse explosively until much or all of the stored energy has been released.
+A macroscopic metaphor for chain reactions is thus a snowball causing a larger snowball until finally an avalanche results ("snowball effect"). This is a result of stored gravitational potential energy seeking a path of release over friction. Chemically, the equivalent to a snow avalanche is a spark causing a forest fire. In nuclear physics, a single stray neutron can result in a prompt critical event, which may finally be energetic enough for a nuclear reactor meltdown or (in a bomb) a nuclear explosion.
+Numerous chain reactions can be represented by a mathematical model based on Markov chains.
+
+
+== Chemical chain reactions ==
+
+
+=== History ===
+In 1913, the German chemist Max Bodenstein first put forth the idea of chemical chain reactions. If two molecules react, not only molecules of the final reaction products are formed, but also some unstable molecules which can further react with the parent molecules with a far larger probability than the initial reactants. (In the new reaction, further unstable molecules are formed besides the stable products, and so on.)
+In 1918, Walther Nernst proposed that the photochemical reaction between hydrogen and chlorine is a chain reaction in order to explain what is known as the quantum yield phenomena. This means that one photon of light is responsible for the formation of as many as 106 molecules of the product HCl. Nernst suggested that the photon dissociates a Cl2 molecule into two Cl atoms which each initiate a long chain of reaction steps forming HCl.
+In 1923, Danish and Dutch scientists J. A. Christiansen and Hendrik Anthony Kramers, in an analysis of the formation of polymers, pointed out that such a chain reaction need not start with a molecule excited by light, but could also start with two molecules colliding violently due to thermal energy as previously proposed for initiation of chemical reactions by van' t Hoff.
+Christiansen and Kramers also noted that if, in one link of the reaction chain, two or more unstable molecules are produced, the reaction chain would branch and grow. The result is in fact an exponential growth, thus giving rise to explosive increases in reaction rates, and indeed to chemical explosions themselves. This was the first proposal for the mechanism of chemical explosions.
+A quantitative chain chemical reaction theory was created later on by Soviet physicist Nikolay Semyonov in 1934. Semyonov shared the Nobel Prize in 1956 with Sir Cyril Norman Hinshelwood, who independently developed many of the same quantitative concepts.
+
+
+=== Typical steps ===
+The main types of steps in chain reaction are of the following types.
+
+Initiation (formation of active particles or chain carriers, often free radicals, in either a thermal or a photochemical step)
+Propagation (may comprise several elementary steps in a cycle, where the active particle through reaction forms another active particle which continues the reaction chain by entering the next elementary step). In effect the active particle serves as a catalyst for the overall reaction of the propagation cycle. Particular cases are:
+chain branching (a propagation step where one active particle enters the step and two or more

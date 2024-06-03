@@ -1,0 +1,22 @@
+Fog is a visible aerosol consisting of tiny water droplets or ice crystals suspended in the air at or near the Earth's surface. Fog can be considered a type of low-lying cloud usually resembling stratus, and is heavily influenced by nearby bodies of water, topography, and wind conditions. In turn, fog affects many human activities, such as shipping, travel, and warfare.
+Fog appears when water vapor (water in its gaseous form) condenses. During condensation, molecules of water vapor combine to make tiny water droplets that hang in the air. Sea fog, which shows up near bodies of saline water, is formed as water vapor condenses on bits of salt. Fog is similar to, but less transparent than, mist.
+
+
+== Definition ==
+The term fog is typically distinguished from the more generic term cloud in that fog is low-lying, and the moisture in the fog is often generated locally (such as from a nearby body of water, like a lake or the ocean, or from nearby moist ground or marshes).
+By definition, fog reduces visibility to less than 1 km (0.62 mi), whereas mist causes lesser impairment of visibility.
+For aviation purposes in the United Kingdom, a visibility of less than 5 km (3.1 mi) but greater than 999 m (3,278 ft) is considered to be mist if the relative humidity is 95% or greater; below 95%, haze is reported.
+
+
+== Formation ==
+
+Fog forms when the difference between air temperature and dew point is less than 2.5 °C (4.5 °F).
+Fog begins to form when water vapor condenses into tiny water droplets that are suspended in the air. Some examples of ways that water vapor is condensed include wind convergence into areas of upward motion; precipitation or virga falling from above; daytime heating evaporating water from the surface of oceans, water bodies, or wet land; transpiration from plants; cool or dry air moving over warmer water; and lifting air over mountains. Water vapor normally begins to condense on condensation nuclei such as dust, ice, and salt in order to form clouds. Fog, like its elevated cousin stratus, is a stable cloud deck which tends to form when a cool, stable air mass is trapped underneath a warm air mass.
+Fog normally occurs at a relative humidity near 100%. This occurs from either added moisture in the air, or falling ambient air temperature. However, fog can form at lower humidities, and can sometimes fail to form with relative humidity at 100%. At 100% relative humidity, the air cannot hold additional moisture, thus, the air will become supersaturated if additional moisture is added.
+Fog commonly produces precipitation in the form of drizzle or very light snow. Drizzle occurs when the humidity of fog attains 100% and the minute cloud droplets begin to coalesce into larger droplets. This can occur when the fog layer is lifted and cooled sufficiently, or when it is forcibly compressed from above by descending air. Drizzle becomes freezing drizzle when the temperature at the surface drops below the freezing point.
+The thickness of a fog layer is largely determined by the altitude of the inversion boundary, which in coastal or oceanic locales is also the top of the marine layer, above which the air mass is warmer and drier. The inversion boundary varies its altitude primarily in response to the weight of the air above it, which is measured in terms of atmospheric pressure. The marine layer, and any fog-bank it may contain, will be "squashed" when the pressure is high, and conversely, may expand upwards when the pressure above it is lowering.
+
+
+== Types ==
+Fog can form in a number of ways, depending on how the cooling that caused the condensation occurred.
+Radiation fog is formed by the cooling of land after sunset by infrared thermal radiation in calm conditions with a clear sky. The cooling ground then cools adjacent air by conduction, causing the air temperature to fall and reach the dew point, forming fog. In perfect calm, the fog layer can be less than a meter thick, but turbulence can promote a thicker layer. Radiation fog o

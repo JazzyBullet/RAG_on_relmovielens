@@ -1,0 +1,20 @@
+Noon (or midday) is 12 o'clock in the daytime. It is written as 12 noon, 12:00 m. (for meridiem, literally 12:00 midday), 12 p.m. (for post meridiem, literally "after midday"), 12 pm, or 12:00 (using a 24-hour clock) or 1200 (military time).
+Solar noon is the time when the Sun appears to contact the local celestial meridian. This is when the Sun reaches its apparent highest point in the sky, at 12 noon apparent solar time and can be observed using a sundial. The local or clock time of solar noon depends on the date, longitude, and time zone, with Daylight Saving Time tending to place solar noon closer to 1:00pm.
+
+
+== Etymology ==
+The word noon is derived from Latin nona hora, the ninth canonical hour of the day, in reference to the Western Christian liturgical term Nones (liturgy), (number nine), one of the seven fixed prayer times in traditional Christian denominations. The Roman and Western European medieval monastic day began at 6:00 a.m. (06:00) at the equinox by modern timekeeping, so the ninth hour started at what is now 3:00 p.m. (15:00) at the equinox. In English, the meaning of the word shifted to midday and the time gradually moved back to 12:00 local time – that is, not taking into account the modern invention of time zones. The change began in the 12th century and was fixed by the 14th century.
+
+
+== Solar noon ==
+
+Solar noon, also known as the local apparent solar noon and Sun transit time (informally high noon), is the moment when the Sun contacts the observer's meridian (culmination or meridian transit), reaching its highest position above the horizon on that day and casting the shortest shadow. This is also the origin of the terms ante meridiem (a.m.) and post meridiem (p.m.), as noted below. The Sun is directly overhead at solar noon at the Equator on the equinoxes, at the Tropic of Cancer (latitude 23°26′10.0″ N) on the June solstice and at the Tropic of Capricorn (23°26′10.0″ S) on the December solstice. In the Northern Hemisphere, north of the Tropic of Cancer, the Sun is due south of the observer at solar noon; in the Southern Hemisphere, south of the Tropic of Capricorn, it is due north.
+The elapsed time from the local solar noon of one day to the next is exactly 24 hours on only four instances in any given year. This occurs when the effects of Earth's obliquity of ecliptic and its orbital speed around the Sun offset each other. These four days for the current epoch are centered on 11 February, 13 May, 26 July, and 3 November. It occurs at only one particular line of longitude in each instance. This line varies year to year, since Earth's true year is not an integer number of days. This event time and location also varies due to Earth's orbit being gravitationally perturbed by the planets. These four 24-hour days occur in both hemispheres simultaneously. The precise UTC times for these four days also mark when the opposite line of longitude, 180° away, experiences precisely 24 hours from local midnight to local midnight the next day. Thus, four varying great circles of longitude define from year to year when a 24-hour day (noon to noon or midnight to midnight) occurs.
+The two longest time spans from noon to noon occur twice each year, around 20 June (24 hours plus 13 seconds) and 21 December (24 hours plus 30 seconds).
+The shortest time spans occur twice each year, around 25 March (24 hours minus 18 seconds) and 13 September (24 hours minus 22 seconds).
+For the same reasons, solar noon and "clock noon" are usually not the same. The equation of time shows that the reading of a clock at solar noon will be higher or lower than 12:00 by as much as 16 minutes. Additionally, due to the political nature of time zones, as well as the application of daylight saving time, it can be off by more than an hour.
+
+
+== Nomenclature ==
+
+In the US, noon is commonly indicated by 12 p.m., and midnight by 12 a.m. While some argue that such usage is "improper" based on the Latin meaning (a.m. stands for ante meridiem and p.m. fo

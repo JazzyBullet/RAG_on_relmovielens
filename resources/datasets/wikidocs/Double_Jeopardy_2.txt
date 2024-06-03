@@ -1,0 +1,20 @@
+The Double Jeopardy Clause of the Fifth Amendment to the United States Constitution provides: "[N]or shall any person be subject for the same offence to be twice put in jeopardy of life or limb..." The four essential protections included are prohibitions against, for the same offense:
+
+retrial after an acquittal;
+retrial after a conviction;
+retrial after certain mistrials; and
+multiple punishment
+Jeopardy attaches in jury trial when the jury is empaneled and sworn in, in a bench trial when the court begins to hear evidence after the first witness is sworn in, or when a court accepts a defendant's plea unconditionally.  Jeopardy does not attach in a retrial of a conviction that was reversed on appeal on procedural grounds (as opposed to evidentiary insufficiency grounds), in a retrial for which "manifest necessity" has been shown following a mistrial, and in the seating of another grand jury if the prior one refuses to return an indictment.
+
+
+== "Same offense" ==
+In United States v. Felix, the U.S. Supreme Court ruled: "a[n]...offense and a conspiracy to commit that offense are not the same offense for double jeopardy purposes."
+Sometimes the same conduct may violate different statutes. If all elements of a lesser offense are relied on to prove a greater offense, the two crimes are the "same offense" for double jeopardy purposes, and the doctrine will bar the second prosecution. This ruling in Felix distinguished between the test in Blockburger and the ruling in Grady v. Corbin regarding the "same conduct" vs "same offense" test, which was later overruled and  reverted to Blockburger in United States v. Dixon.  In Blockburger v. United States, the Supreme Court held that "where the same act or transaction constitutes a violation of two distinct statutory provisions, the test to be applied to determine whether there are two offenses or only one, is whether each provision requires proof of an additional fact which the other does not". The test was applied in Brown v. Ohio, where the defendant had first been convicted of operating an automobile without the owner's consent, and later of stealing the same automobile. The Supreme Court concluded that the same evidence was necessary to prove both offenses, and that in effect there was only one offense. Therefore, it overturned the second conviction.
+In other cases, the same conduct may constitute multiple offenses under the same statute, for instance where one robs many individuals at the same time. There is no explicit bar to separate prosecutions for different offenses arising under the same "criminal transaction", but it is not permissible for the prosecution to re-litigate facts already determined by a jury. In Ashe v. Swenson, the defendant was accused of robbing seven poker players during a game. John Ashe was first tried for, and acquitted of, robbing only one of the players; the defense did not contest that a robbery actually took place. The state then tried the defendant for robbing the second player; stronger identification evidence led to a conviction. The Supreme Court, however, overturned the conviction. It was held that in the first trial, since the defense had not presented any evidence that there was no robbery, the jury's acquittal had to be based on the conclusion that the defendant's alibi was valid. Since one jury had held that the defendant was not present at the crime scene, the State could not re-litigate the issue.
+
+
+== "Twice put in jeopardy" ==
+
+
+=== Retrial after acquittal ===
+Once acquitted, a defendant may not be retried for the same offense: "A verdict of acquittal, although not followed by any judgment, is a bar to a subsequent prosecution for the same offense." This applies in all cases where a verdict of not guilty is entered by the Court against a defendant. Be it an acquittal returned by the finder of fact (jury during a trial by jury, the judge during a bench trial), a direct acquittal by a judge on motion from the defense,  or a ruling that the evi

@@ -1,0 +1,20 @@
+Mesa Associates' Tactical Integrated Light-Force Deployment Assembly (MATILDA) is a remote controlled surveillance and reconnaissance robot, created and designed by the 'Mesa Robotics Corporation'. It is available in many different models such as the Urban Warrior, Block II, and Scout, which feature different combinations of components for increased utility. These options include a sensor mount, manipulator arm, weapon mount, fiber optic reel, remote trailer release, and disrupter mount. When purchased the basic system includes the platform, the control unit, and battery charger.
+
+
+== History ==
+One key focus that MATILDA designers had was on function over mobility by identifying specific UGV applications that they wanted it to have, including target surveillance, explosive device neutralisation, material pickup and transport, weapon transport and firing, and law enforcement. Another key focus was on low cost. In order to achieve their vision, they refined platform weight ratios until they achieved a design that fit both key focuses. The designers also had specific obstacles that they wanted their robot to be able to overcome, such as stair climbing, payload transporting, great battery life, tunnel navigation, video camera, and manipulator arm capabilities. In order to make the assembly applicable to national defense, the designers built different models of the MATILDA. This was to make sure the robot helps each form of security's specific needs. The designers also wanted to let the assembly be open-ended, meaning that users could attach any attachments they needed. In order to achieve this, the designers built the robot to be compatible with an assortment of attachments like manipulator arms, saws, claws, and cameras.
+
+
+== Hardware ==
+The MATILDA robot is relatively low-profile and lightweight. It's capable of speeds up to 2 mph (3.2 km/h) and has a payload capacity of 125 pounds (57 kg). It can also pull as much as 225 pounds (102 kg) or up to 500 pounds (230 kg) using an optional four-wheel tactical trailer with remote release. MATILDA is an all weather robot with a 6- to 10-hour extended battery operating time and can climb a 50-degree stair incline. The robot comes equipped with a pan–tilt–zoom camera, capable of producing both color and black and white resolution, a rear fixed black and white resolution camera, two-way audio (audio crossover), and HD radio capabilities.
+
+
+=== Specifications ===
+
+
+== Models ==
+MATILDA comes in many different models such as Urban Warrior, Block 2, and Scout Model. Each of these models is designed for a specific situation. The "Urban Warrior" is designed for military use when it comes to aggressive situations such as bomb control, drone control, and rugged terrain. The Block 2 model is designed for a more tactical use for law enforcement and the fire department. This model is a jack of traits; it comes with the technology to be aggressive to a certain extent, but also comes with the ability to do reconnaissance. The scout model is designed for pure reconnaissance and surveillance. This model is expected to be used the battlefield to get information or infiltrate enemy bases.
+
+
+== Uses and applications ==
+As military action grows more advanced and lethal, robotic platforms help soldiers perform tasks without endangering their lives but still accomplish their tasks efficiently. As a result, MATILDA can be used for various tasks such as: reconnaissance, bomb control, door breaching, weapon control, remote mine detection, and the remote launching of unmanned aerial vehicles. With bomb control, soldiers lives are often put at risk so MATILDA aims to solve this issue by having the capability to perform life-threatening tasks without the loss of human life. These activities are known as unexploded ordnance, or UXO activities. Military personnel can use MATILDA to detect and neutralize different types of UXOs, such as man-to-man and land-mine situations, in all types of weather. Additionally, to su
