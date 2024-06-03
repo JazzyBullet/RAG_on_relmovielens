@@ -1,0 +1,27 @@
+"The rich get richer and the poor get poorer" is an aphorism attributed to Percy Bysshe Shelley. In A Defence of Poetry (1821, not published until 1840) Shelley remarked that the promoters of utility had exemplified the saying, "To him that hath, more shall be given; and from him that hath not, the little that he hath shall be taken away. The rich have become richer, and the poor have become poorer; and the vessel of the State is driven between the Scylla and Charybdis of anarchy and despotism." It describes a positive feedback loop (a corresponding negative feedback loop would be e.g. progressive tax).
+"To him that hath" etc. is a reference to Matthew 25:29 (the parable of the talents, see also Matthew effect). The aphorism is commonly evoked, with variations in wording, as a synopsis of the effect of free market capitalism producing excessive inequality.
+
+
+== Predecessors ==
+Andrew Jackson, the seventh President of the U.S. (1829–1837), in his 1832 bank veto, said that "when the laws undertake ... to make the rich richer and the potent more powerful, the humble members of society ... have a right to complain of the injustice to their Government." The phrase also has connections to Martial's epigrams. In one of his epigrams, he states, "You will always be poor, if you are poor, Aemiliane. Now money is given to none except the rich."
+The phrase also resembles two Bible verses from the Gospel of Matthew:
+
+For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath ...For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.
+
+
+== "Ain't We Got Fun" ==
+The phrase was popularized in 1921 in the wildly successful song "Ain't We Got Fun?", and the phrase is sometimes attributed to the song's lyricists, Gus Kahn and Raymond B. Egan.
+The line is sometimes mistakenly attributed to F. Scott Fitzgerald. It appears in The Great Gatsby, as "the rich get richer and the poor get—children!" The character Gatsby orders the character Klipspringer, sitting at the piano, "Don't talk so much, old sport... Play!" and Klipspringer breaks into the Whiting, Kahn and Egan song.
+
+
+== In economics ==
+Thomas Piketty's book Capital in the Twenty-First Century (2014) presents a body of empirical data spanning several hundred years that supports his central thesis that the owners of capital accumulate wealth more quickly than those who provide labour, a phenomenon widely described with the term "the rich-get-richer".
+
+
+== In modern politics ==
+In the United States, the phrase has been used frequently to describe socioeconomic trends under the Ronald Reagan and George H. W. Bush presidencies, and in the United Kingdom to refer to the Thatcher era. In 1990, Thatcher responded to a question posed in the House of Commons by the Liberal Democrat MP Simon Hughes about wealth inequality in the UK by saying "he would rather that the poor were poorer, provided that the rich were less rich. ... What a policy. Yes, he would rather have the poor poorer, provided that the rich were less rich. That is the Liberal policy." It has also been used in the UK to refer to the 2010–2015 coalition and 2015–2016 governments led by David Cameron.
+
+
+== Other uses ==
+In statistics, the phrase "the rich get richer" is often used as an informal description of the behavior of Chinese restaurant processes and other preferential attachment processes, where the probability of the next outcome in a series taking on a particular value is proportional to the number of outcomes already having that particular value.  This is useful for modeling many real-world processes that are akin to "popularity contests", where the popularity of a particular choice causes new participants to adopt the same choice (which can lead to the outsized influence of the first few participants).
+Product recommendations and information about past

@@ -2,17 +2,3 @@ Ghost in the Shell (Japanese: 攻殻機動隊, Hepburn: Kōkaku Kidōtai, lit.�
 The manga was followed by two sequels, Ghost in the Shell 1.5: Human-Error Processor, and Ghost in the Shell 2: Man-Machine Interface.
 The mangas contain Shirow's thoughts on design and philosophy, including sociological issues, the consequences of technological advances and themes on the nature of consciousness and identity. Several artbooks have been released to detail the concept art and the world of Ghost in the Shell. All three volumes have received mainly positive reviews.
 
-
-== Synopsis ==
-
-
-=== Setting ===
-Primarily set in the mid-twenty-first century in the fictional Japanese city of Niihama, Niihama Prefecture, otherwise known as New Port City, the manga and the many anime adaptations follow the members of Public Security Section 9, a special-operations task-force made up of former military officers and police detectives. Political intrigue and counter-terrorism operations are standard fare for Section 9, but the various actions of corrupt officials, companies, and cyber-criminals in each scenario are unique and require the diverse skills of Section 9's staff to prevent a series of incidents from escalating.
-In this cyberpunk iteration of a possible future, computer technology has advanced to the point that many members of the public possess cyberbrains, technology that allows them to interface their biological brain with various networks. The level of cyberization varies from simple minimal interfaces to almost complete replacement of the brain with cybernetic parts, in cases of severe trauma. This can also be combined with various levels of prostheses, with a fully prosthetic body enabling a person to become a cyborg. The heroine of Ghost in the Shell, Major Motoko Kusanagi, is such a cyborg, having had a terrible accident befall her as a child that ultimately required that she use a full-body prosthesis to house her cyberbrain. This high level of cyberization, however, opens the brain up to attacks from highly skilled hackers, with the most dangerous being those who will hack a person to bend to their whims.
-
-
-=== Story ===
-
-Ghost in the Shell begins in 2029, and features Section 9, led by Chief Daisuke Aramaki and Major Motoko Kusanagi, as they investigate the Puppeteer, a cyber-criminal wanted for committing a large number of crimes by proxy through "ghost hacking" humans with cyberbrains. As the investigation continues, Section 9 discovers that the Puppet Master is actually an advanced artificial intelligence created by a department of the Japanese government, taking up residence in a robot body. After destroying the latest host of the Puppeteer, Section 9 believes all is well, until the Major discovers the Puppet Master in her own mind. After hearing the Puppeteer's wishes to reach its next step in evolution, Kusanagi allows it to become one with her own ghost.
-In Ghost in the Shell 1.5: Human-Error Processor the Major leaves Section 9 to work as a private contractor, with the remaining members of the unit, Batou, Togusa, Ishikawa, Saito, Paz, Borma and Azuma, continuing their work as covert operatives, occasionally meeting up with the Major in her various guises.
-Ghost in the Shell 2: Man-Machine Interface takes place in the year 2035, where the Major, now known as Motoko Aramaki, works as a security expert for Poseidon Industrial, now an entity composed of multiple identities that she controls via the network in other prosthetic bodies th

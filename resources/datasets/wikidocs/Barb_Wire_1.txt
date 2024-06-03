@@ -4,35 +4,3 @@ The first patent in the United States for barbed wire was issued in 1867 to Luci
 Wire fences are cheaper and easier to erect than their alternatives (one such alternative is Osage orange, a thorny bush that is time-consuming to transplant and grow). When wire fences became widely available in the United States in the late 19th century, it became more affordable to fence much larger areas than before, and intensive animal husbandry was made practical on a much larger scale.
 An example of the costs of fencing with lumber immediately prior to the invention of barbed wire can be found with the first farmers in the Fresno, California, area, who spent nearly $4,000 (equivalent to $102,000 in 2023) to have wood for fencing delivered and erected to protect 2,500 acres (1,000 ha) of wheat crop from free-ranging livestock in 1872.
 
-
-== Design ==
-
-Materials
-
-Zinc-coated steel wire. Galvanized steel wire is the most widely used steel wire during barbed wire production. It has commercial type, Class 1 type and Class 3 type. Or it is also well known as electric galvanized steel wire and hot dipped galvanized steel wire.
-Zinc-aluminum alloy coated steel wire. Barbed wire is available with zinc, 5% or 10% aluminum alloy and mischmetal steel wire, which is also known as Galfan wire.
-Polymer-coated steel wire. Zinc steel wire or zinc-aluminum steel wire with PVC, PE or other organic polymer coating.
-Stainless steel wire. It is available with SAE 304, 316 and other materials.
-Strand structure
-
-Single strand. Simple and light duty structure with single line wire (also known as strand wire) and barbs.
-Double strand. Conventional structure with double strand wire (line wire) and barbs.
-Barb structure
-
-Single barb. Also known as 2-point barbed wire. It uses single barb wire twisted on the line wire (strand wire).
-Double barb. Also known as 4-point barbed wire. Two barb wires twisted on the line wire (strand wire).
-Twist type
-
-Conventional twist. The strand wire (line wire) are twisted in single direction, which is also known as traditional twist. Besides, the barb wires are twisted between the two strand wire (line wire).
-Reverse twist. The strand wire (line wire) are twisted in opposite direction. Besides, the barb wires are twisted outside of the two line wire.
-
-
-=== Nominal diameter ===
-
-
-== History ==
-
-
-=== Before 1865 ===
-Fencing consisting of flat and thin wire was first proposed in France, by Leonce Eugene Grassin-Baledans in 1860. His design consisted of bristling points, creating a fence that was painful to cross. In April 1865 Louis François Janin proposed a double wire with diamond-shaped metal barbs; Francois was granted a patent. Michael Kelly from New York had a similar idea, and proposed that the fencing should be used specifically for deterring animals.
-More patents followed, and in 1867 alone there were six patents issued for barbed wire. Only two of them addressed livestock deterrence, one of which was from American Lucien B. Smith of Ohio. Before 1870, westward movement in the United States was largely across the plains with little or no settlement occurring. After the American Civil War the plains were

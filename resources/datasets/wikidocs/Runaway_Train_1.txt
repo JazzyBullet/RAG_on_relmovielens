@@ -3,16 +3,3 @@ A deadman's control, if the brakes are working, can prevent unattended rolling s
 A railway air brake can fail if valves on the pipe between each wagon are accidentally closed; the 1953 Pennsylvania Railroad train wreck and the 1988 Gare de Lyon train accident were results of a valve accidentally closed by the crew, reducing braking power.
 A parked train or cut off cars may also run away if not properly tied down with a sufficient number of hand brakes.
 
-
-== Incidents ==
-Accidents and incidents involving defective or improperly-set railway brakes include:
-
-
-== See also ==
-Dark territory
-Positive train control
-Railroad Safety Appliance Act
-Category:Runaway train disasters
-
-
-== References ==

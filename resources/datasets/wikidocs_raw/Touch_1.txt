@@ -1,0 +1,29 @@
+Touch is perceiving the environment using skin. Specialized receptors in the skin send signals to the brain indicating light and soft pressure, hot and cold, body position and pain. It is a subset of the sensory nervous system, which also includes the visual, auditory, olfactory, gustatory and vestibular senses.
+In physiology touch is called the Somatosensory system, a network of neural structures in the brain and body that produce the perception of touch (haptic perception), as well as temperature (thermoception), body position (proprioception), and pain (nociception).
+Somatosensation begins when mechano- and thermosensitive structures in the skin or internal organs sense physical stimuli such as pressure on the skin (see mechanotransduction, nociception). Activation of these structures, or receptors, leads to activation of peripheral sensory neurons that convey signals to the spinal cord as patterns of action potentials. Sensory information is then processed locally in the spinal cord to drive reflexes, and is also conveyed to the brain for conscious perception of touch and proprioception. Note, somatosensory information from the face and head enters the brain through peripheral sensory neurons in the cranial nerves, such as the trigeminal nerve.
+The neural pathways that go to the brain are structured such that information about the location of the physical stimulus is preserved. In this way, neighboring neurons in the somatosensory cerebral cortex in the brain represent nearby locations on the skin or in the body, creating a map, also called a cortical homunculus.
+
+
+== Society and culture ==
+
+Haptic technology can provide touch sensation in virtual and real environments. In the field of speech therapy, tactile feedback can be used to treat speech disorders.
+Affectionate touch is present in everyday life and can take multiple forms. These actions, however, seem to carry specific functions even though the evolutionary benefit from such a wide range of behaviours is not entirely understood. Researchers investigated the expression patterns and characteristics of 8 different affectionate touch actions - embracing, holding, kissing, leaning, petting, squeezing, stroking, and tickling - in a self-report study. It was found that the affectionate touch has distinct target areas on the body, different associated affect, comfort-value, and expression frequency based on the type of touch action that is performed.
+Besides the rather obvious sensory consequences of touch, it can also affect higher-level aspects of cognition such as social judgements and decision-making. This effect might arise due to a physical-to-mental scaffolding process in early development, whereby sensorimotor experiences are linked to the emergence of conceptual knowledge. Such links might be maintained throughout life, and so touching an object may cue the physical sensation to its related conceptual processing. Indeed, it was found that different physical properties - weight, texture, and hardness - of a touched object can influence social judgement and decision-making. For example, participants described a passage of a social interaction to be harsher when they touched a hard wooden block instead of a soft blanket prior to the task. Building on these findings, the ability of touch to have an unconscious influence on such higher-order thoughts may provide a novel tool for marketing and communication strategies.
+
+
+== Touch Communication ==
+
+
+=== Tactile Signing ===
+Tactile signing is a common means of communication used by people with deafblindness. It is based on a sign language or another system of manual communication.
+
+
+=== Emotion Communication ===
+Humans can communicate specific emotions through touch alone including anger, fear, disgust, love, gratitude, and sympathy via touch at much-better-than-chance levels.
+
+
+== Somatosensory System overview ==
+
+
+=== Sensory receptors ===
+The four mechanoreceptors in the skin  each respond to different stimuli for shor

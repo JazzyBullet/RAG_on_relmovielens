@@ -3,22 +3,3 @@ Because Earth's environment is relatively close to water's triple point, water e
 Water covers about 71% of the Earth's surface, with seas and oceans making up most of the water volume (about 96.5%). Small portions of water occur as groundwater (1.7%), in the glaciers and the ice caps of Antarctica and Greenland (1.7%), and in the air as vapor, clouds (consisting of ice and liquid water suspended in air), and precipitation (0.001%). Water moves continually through the water cycle of evaporation, transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea.
 Water plays an important role in the world economy. Approximately 70% of the fresh water used by humans goes to agriculture. Fishing in salt and fresh water bodies has been, and continues to be, a major source of food for many parts of the world, providing 6.5% of global protein. Much of the long-distance trade of commodities (such as oil, natural gas, and manufactured products) is transported by boats through seas, rivers, lakes, and canals. Large quantities of water, ice, and steam are used for cooling and heating in industry and homes. Water is an excellent solvent for a wide variety of substances, both mineral and organic; as such, it is widely used in industrial processes and in cooking and washing. Water, ice, and snow are also central to many sports and other forms of entertainment, such as swimming, pleasure boating, boat racing, surfing, sport fishing, diving, ice skating, snowboarding, and skiing.
 
-
-== Etymology ==
-The word water comes from Old English wæter, from Proto-Germanic *watar (source also of Old Saxon watar, Old Frisian wetir, Dutch water, Old High German wazzar, German Wasser, vatn, Gothic 𐍅𐌰𐍄𐍉 (wato)), from Proto-Indo-European *wod-or, suffixed form of root *wed- ('water'; 'wet'). Also cognate, through the Indo-European root, with Greek ύδωρ (ýdor; from Ancient Greek ὕδωρ (hýdōr), whence English 'hydro-'), Russian вода́ (vodá), Irish uisce, and Albanian ujë.
-
-
-== History ==
-
-
-=== On Earth ===
-
-
-== Properties ==
-
-Water (H2O) is a polar inorganic compound. At room temperature it is a tasteless and odorless liquid, nearly colorless with a hint of blue. This simplest hydrogen chalcogenide is by far the most studied chemical compound and is described as the "universal solvent" for its ability to dissolve many substances. This allows it to be the "solvent of life": indeed, water as found in nature almost always includes various dissolved substances, and special steps are required to obtain chemically pure water. Water is the only common substance to exist as a solid, liquid, and gas in normal terrestrial conditions.
-
-
-=== States ===
-
-Along with oxidane, water is one of the two official names for the chemical compound H2O; it is also the liquid phase of H2O. The other two common states of matter of water are the solid phase, ice, and the gaseous phase, water vapor or steam. The addition or removal of heat can cause phase transitions: freezing (wat

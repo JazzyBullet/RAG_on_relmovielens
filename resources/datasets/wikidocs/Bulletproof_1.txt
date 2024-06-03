@@ -1,25 +1,2 @@
 Bulletproofing is the process of making an object capable of stopping a bullet or similar high velocity projectiles (e.g. shrapnel). The term bullet resistance is often preferred because few, if any, practical materials provide complete protection against all types of bullets, or multiple hits in the same location, or simply sufficient kinetic (movement) energy to overcome it.
 
-
-== Origins ==
-In 1887, George E. Goodfellow, of Tombstone, Arizona, documented three cases where bullets had failed to penetrate silk articles of clothing. He described the shooting death of Charlie Storms by gambler Luke Short. Although Storms was shot in the heart, "not a drop of blood" exited the wound. Goodfellow found that, though the bullet did indeed kill Storms, it failed to pass through a silk handkerchief. The handkerchief essentially caught the bullet, but not sufficiently to stop the bullet penetrating Storms. 
-Another example was the killing of Billy Grounds by Assistant City Marshal Billy Breakenridge. Goodfellow examined Grounds and found that two buckshot grains had penetrated his Mexican felt hat band, embroidered with silver wire, penetrating his head and flattening against the posterior wall of the skull. Another of the grains had passed through two heavy wool shirts and a blanket-lined canvas coat and vest before coming to rest deep in his chest. However, Goodfellow was fascinated to find two shotgun pellets in the folds of a Chinese silk neckerchief around Grounds' neck but no holes or wounds.
-He also described a wound to Curly Bill Brocius, who had been shot through the right side of the neck, narrowly missing his carotid artery. A portion of his silk neckerchief was carried into the wound by the bullet, preventing a more serious injury, but the scarf was undamaged. The Tombstone Epitaph reported, "A silken armor may be the next invention."
-
-
-== Invention and design ==
-
-In 1887, Goodfellow wrote an article for the Southern California Practitioner titled "Notes on the Impenetrability of Silk to Bullets". In the process of doing so, he experimented with designs for bullet-resistant clothing made of multiple layers of silk. By 1900, gangsters were wearing $800 silk vests to protect themselves. 
-Bullet designs vary widely, not only according to the particular firearm used (e.g. a 9×19mm Parabellum caliber hollowpoint handgun cartridge will have inferior penetration power compared to a 7.62×39mm rifle cartridge), but also within individual cartridge designs. As a result, so-called "bullet-proof" panels may successfully prevent penetration by standard 7.62×39mm bullets containing lead cores, however the same panels may easily be defeated by 7.62×39mm armor-piercing bullets containing hardened steel penetrators. 
-Bullet-resistant materials (also called ballistic materials or, equivalently, anti-ballistic materials) are usually rigid, but may be supple. They may be complex, such as Kevlar, UHMWPE, Lexan, or carbon fiber composite materials, or basic and simple, such as steel or titanium. Bullet resistant materials are often used in law enforcement and military applications to protect personnel from death or serious injury. In 2018, the US military began conducting research into the feasibility of using artificial silk as body armor.
-
-
-== Uses ==
-
-Bullet-resistant body armor has been in use since about 1984. When law enforcement began wearing body armor, there was a dramatic drop in officer deaths, saving over 3,000 lives.
-
-The National Institute of Justice first developed standards for ballistic resistant body armor in the 1970s. The standards have been revised five times since 1984. The National Law Enforcement and Corrections Technology Center tests body armor to assess its compliance with the standards and publishes the results. There are many applications for bulletproofing, some of which include:
-
-
-== Classification ==
-There are various tests which items must pass before being classified as bullet-resistant. These tests specify the d

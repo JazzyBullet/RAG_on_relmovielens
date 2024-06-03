@@ -2,22 +2,3 @@ Scolopacidae is a large family of shorebirds, or waders, which mainly includes m
 Sandpipers have long bodies and legs, and narrow wings. Most species have a narrow bill, but otherwise the form and length are quite variable. They are small to medium-sized birds, measuring 12 to 66 cm (4.7–26.0 in) in length. The bills are sensitive, allowing the birds to feel the mud and sand as they probe for food. They generally have dull plumage, with cryptic brown, grey, or streaked patterns, although some display brighter colours during the breeding season.
 Most species nest in open areas, and defend their territories with aerial displays. The nest itself is a simple scrape in the ground, in which the bird typically lays three or four eggs. The young of most species are precocial.
 
-
-== Taxonomy ==
-The family Scolopacidae was introduced (as Scolopacea) by the French polymath Constantine Samuel Rafinesque in 1815. The family contains 98 extant or recently extinct species divided into 15 genera. For more details, see the article List of sandpiper species.
-The following genus level cladogram of the Scolopacidae is based on a study by David Černý and Rossy Natale that was published in 2022.
-
-
-== Evolution ==
-The early fossil record is scant for a group that was probably present at the non-avian dinosaur's extinction. "Totanus" teruelensis (Late Miocene of Los Mansuetos (Spain) is sometimes considered a scolopacid – maybe a shank – but may well be a larid; little is known of it.
-Paractitis has been named from the Early Oligocene of Saskatchewan (Canada), while Mirolia is known from the Middle Miocene at Deiningen in the Nördlinger Ries (Germany). Most living genera would seem to have evolved throughout the Oligocene to Miocene with the waders perhaps a bit later; see the genus accounts for the fossil record.
-In addition there are some indeterminable remains that might belong to extant genera or their extinct relatives:
-
-Scolopacidae gen. et sp. indet. (Middle Miocene of Františkovy Lázně, Czech Republic – Late Miocene of Kohfidisch, Austria)
-Scolopacidae gen. et sp. indet. (Edson Early Pliocene of Sherman County, USA)
-
-
-== Description ==
-
-The sandpipers exhibit considerable range in size and appearance, the wide range of body forms reflecting a wide range of ecological niches. Sandpipers range in size from the least sandpiper, at as little as 18 grams (0.040 pounds) and 11 cm (4.3 in) in length, to the Far Eastern curlew, at up to 66 cm (26 in) in length, and the Eurasian curlew, at up to 1.3 kg (2.9 lb). Within species there is considerable variation in patterns of sexual dimorphism. Males are larger than females in ruffs and several sandpipers, but are smaller than females in the knots, curlews, phalaropes and godwits. The sexes are similarly sized in the snipes, woodcock and tringine sandpipers. Compared to the other large family of wading birds, the plovers (Charadriidae), they tend to have smaller eyes, more slender heads, and longer thinner bills. Some are quite long-legged, and most species have three forward pointing toes with a smaller hind toe (the exception is the sanderling, which lacks a hind toe).
-Sandpipers are more geared towards tactile foraging methods than the plovers, which favour more visual foraging methods, and this is reflected in the high density of tactile receptors in the tips of their bills. These receptors are housed in a slight horny swelling at the tip of the bill (except for the surfbird and the two turnstones). Bill shape is highly variable within the family, reflecting differences in feeding ecology. Bill length relative to head length varies from three times the length of the head in the long-billed 

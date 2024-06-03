@@ -1,0 +1,27 @@
+North is one of the four compass points or cardinal directions. It is the opposite of south and is perpendicular to east and west. North is a noun, adjective, or adverb indicating direction or geography. 
+
+
+== Etymology ==
+The word north is related to the Old High German nord, both descending from the Proto-Indo-European unit *ner-, meaning "left; below" as north is to left when facing the rising sun. Similarly, the other cardinal directions are also related to the sun's position.
+The Latin word borealis comes from the Greek boreas "north wind, north", which, according to Ovid, was personified as the wind-god Boreas, the father of Calais and Zetes. Septentrionalis is from septentriones, "the seven plow oxen", a name of Ursa Major. The Greek ἀρκτικός (arktikós) is named for the same constellation, and is the source of the English word Arctic.
+Other languages have other derivations. For example, in Lezgian, kefer can mean both "disbelief" and "north", since to the north of the Muslim Lezgian homeland there are areas formerly inhabited by non-Muslim Caucasian and Turkic peoples. In many languages of Mesoamerica, north also means "up". In Hungarian, the word for north is észak, which is derived from éjszaka ("night"), since above the Tropic of Cancer, the Sun never shines from the north, except inside the Arctic Circle during the summer midnight sun.
+North is sometimes abbreviated as N.
+
+
+== Mapping and navigation ==
+By convention, the top or upward-facing side of a map is north.
+To go north using a compass for navigation, set a bearing or azimuth of 0° or 360°. Traveling directly north traces a meridian line upwards.
+North is specifically the direction that, in Western culture, is considered the fundamental direction:
+
+North is used (explicitly or implicitly) to define all other directions.
+The (visual) top edges of maps usually correspond to the northern edge of the area represented, unless explicitly stated otherwise or landmarks are considered more useful for that territory than specific directions.
+On any rotating astronomical object, north often denotes the side appearing to rotate counterclockwise when viewed from afar along the axis of rotation. However, the International Astronomical Union (IAU) defines the geographic north pole of a planet or any of its satellites in the Solar System as the planetary pole that is in the same celestial hemisphere, relative to the invariable plane of the Solar System, as Earth's north pole. This means some objects, such as Uranus, rotate in the retrograde direction: when seen from the IAU north, the spin is clockwise.
+
+
+== Magnetic north and declination ==
+Magnetic north is of interest because it is the direction indicated as north on a properly functioning (but uncorrected) magnetic compass.  The difference between it and true north is called the magnetic declination (or simply the declination where the context is clear).  For many purposes and physical circumstances, the error in direction that results from ignoring the distinction is tolerable; in others a mental or instrument compensation, based on assumed knowledge of the applicable declination, can solve all the problems. But simple generalizations on the subject should be treated as unsound, and as likely to reflect popular misconceptions about terrestrial magnetism.
+Maps intended for usage in orienteering by compass will clearly indicate the local declination for easy correction to true north. Maps may also indicate grid north, which is a navigational term referring to the direction northwards along the grid lines of a map projection.
+
+
+== Roles of north as prime direction ==
+The visible rotation of the night sky around the visible celestial pole provides a vivid metaphor of that direction corresponding to "up".  Thus the choice of the north as corresponding to "up" in the northern hemisphere, or of south in that role in the southern, is, before worldwide communication, anything but an arbitrary one - at least for night-time astron

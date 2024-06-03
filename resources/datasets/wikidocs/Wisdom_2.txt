@@ -1,26 +1,3 @@
 The third molar, commonly called wisdom tooth, is the most posterior of the three molars in each quadrant of the human dentition. The age at which wisdom teeth come through (erupt) is variable, but this generally occurs between late teens and early twenties. Most adults have four wisdom teeth, one in each of the four quadrants, but it is possible to have none, fewer, or more, in which case the extras are called supernumerary teeth. Wisdom teeth may become stuck (impacted) against other teeth if there is not enough space for them to come through normally. Impacted wisdom teeth are still sometimes removed for orthodontic treatment, believing that they move the other teeth and cause crowding, though this is not held anymore as true.
 Impacted wisdom teeth may suffer from tooth decay if oral hygiene becomes more difficult. Wisdom teeth which are partially erupted through the gum may also cause inflammation and infection in the surrounding gum tissues, termed pericoronitis. More conservative treatments, such as operculectomies, may be appropriate for some cases. However, impacted wisdom teeth are commonly extracted to treat or prevent these problems. Some sources oppose the prophylactic removal of disease-free impacted wisdom teeth, including the National Institute for Health and Care Excellence in the UK.
 
-
-== History ==
-Although formally known as third molars, the common name is wisdom teeth because they appear so late – much later than the other teeth, at an age where people are presumably "wiser" than as a child, when the other teeth erupt. The term probably came as a translation of the Latin dens sapientiae. Their eruption has been known to cause dental issues for millennia; it was noted at least as far back as Aristotle:
-
-The last teeth to come in man are molars called 'wisdom-teeth', which come at the age of twenty years, in the case of both sexes. Cases have been known in women upwards of eighty years old where at the very close of life the wisdom-teeth have come up, causing great pain in their coming; and cases have been known of the like phenomenon in men too. This happens, when it does happen, in the case of people where the wisdom-teeth have not come up in early years.
-The oldest known impacted wisdom tooth belonged to a European woman who lived between 13,000 and 11,000 BCE, in the Magdalenian period. Nonetheless, molar impaction was relatively rare prior to the modern era. With the Industrial Revolution, the affliction became ten times more common, owing to the new prevalence of soft, processed foods.
-
-
-== Structure ==
-
-
-=== Tooth morphology ===
-Morphology of wisdom teeth can be variable.
-Maxillary (upper) third molars commonly have a triangular crown with a deep central fossa from which multiple irregular fissures originate. Their roots are commonly fused together and can be irregular in shape.
-Mandibular (lower) third molars are the smallest molar teeth in the permanent dentition. The crown usually takes on a rounded rectangular shape that features four or five cusps with an irregular fissure pattern. Roots are greatly reduced in size and can be fused together.
-
-
-=== Dental notation ===
-There are several notation systems used in dentistry to identify teeth.  Under the Palmer/Zsigmondy system, the right and left maxillary wisdom teeth are represented by 8┘ and └8, while 8┐and ┌8 represent the right and left mandibular wisdom teeth. Under the FDI notational system, the right and left maxillary third molars are numbered 18 and 28, respectively, and the right and left mandibular third molars are numbered 48 and 38. According to the Universal Numbering System the right and left upper wisdom teeth are numbered 1 and 16 and the right and left lower wisdom teeth are 17 and 32.
-
-
-=== Variation ===
-Agenesis of wisdom teeth differs by population, ranging from practically zero in Aboriginal Tasmanians to nearly 100% in indigenous Mexicans (see research paper with world map showing prevalence). The difference is related to the PA

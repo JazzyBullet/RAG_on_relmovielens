@@ -1,22 +1,3 @@
 A coma is a deep state of prolonged unconsciousness in which a person cannot be awakened, fails to respond normally to painful stimuli, light, or sound, lacks a normal wake-sleep cycle and does not initiate voluntary actions. The person may experience respiratory and circulatory problems due to the body's inability to maintain normal bodily functions. People in a coma often require extensive medical care to maintain their health and prevent complications such as pneumonia or blood clots. Coma patients exhibit a complete absence of wakefulness and are unable to consciously feel, speak or move. Comas can be derived by natural causes, or can be medically induced.
 Clinically, a coma can be defined as the consistent inability to follow a one-step command. It can also be defined as a score of ≤ 8 on the Glasgow Coma Scale (GCS) lasting ≥ 6 hours. For a patient to maintain consciousness, the components of wakefulness and awareness must be maintained. Wakefulness describes the quantitative degree of consciousness, whereas awareness relates to the qualitative aspects of the functions mediated by the cortex, including cognitive abilities such as attention, sensory perception, explicit memory, language, the execution of tasks, temporal and spatial orientation and reality judgment. From a neurological perspective, consciousness is maintained by the activation of the cerebral cortex—the gray matter that forms the outer layer of the brain—and by the reticular activating system (RAS), a structure located within the brainstem.
 
-
-== Etymology ==
-The term 'coma', from the Greek κῶμα koma, meaning deep sleep, had already been used in the Hippocratic corpus (Epidemica) and later by Galen (second century AD). Subsequently, it was hardly used in the known literature up to the middle of the 17th century. The term is found again in Thomas Willis' (1621–1675) influential De anima brutorum (1672), where lethargy (pathological sleep), 'coma' (heavy sleeping), carus (deprivation of the senses) and apoplexy (into which carus could turn and which he localized in the white matter) are mentioned. The term carus is also derived from Greek, where it can be found in the roots of several words meaning soporific or sleepy. It can still be found in the root of the term 'carotid'. Thomas Sydenham (1624–89) mentioned the term 'coma' in several cases of fever (Sydenham, 1685).
-
-
-== Signs and symptoms ==
-General symptoms of a person in a comatose state are:
-
-Inability to voluntarily open the eyes
-A non-existent sleep-wake cycle
-Lack of response to physical (painful) or verbal stimuli
-Depressed brainstem reflexes, such as pupils not responding to light
-Abnormal, difficulty, or irregular breathing or no breathing at all when coma was caused by cardiac arrest
-Scores between 3 and 8 on the Glasgow Coma Scale
-
-
-== Causes ==
-Many types of problems can cause a coma. Forty percent of comatose states result from drug poisoning. Certain drug use under certain conditions can damage or weaken the synaptic functioning in the ascending reticular activating system (ARAS) and keep the system from properly functioning to arouse the brain. Secondary effects of drugs, which include abnormal heart rate and blood pressure, as well as abnormal breathing and sweating, may also indirectly harm the functioning of the ARAS and lead to a coma. Given that drug poisoning is the cause for a large portion of patients in a coma, hospitals first test all comatose patients by observing pupil size and eye movement, through the vestibular-ocular reflex. (See Diagnosis below.)
-The second most common cause of coma, which makes up about 25% of cases, is lack of oxygen, generally resulting from cardiac arrest. The Central Nervous System (CNS) requires a great deal of oxygen for its neurons. Oxygen deprivation in the brain, also known as hypoxia, causes sodium and calcium from outside of the neurons to decrease and intracellular calcium to increase, which harms neuron communication. Lack of oxygen in the bra

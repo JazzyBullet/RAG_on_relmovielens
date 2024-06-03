@@ -4,19 +4,3 @@ The most effective method of reducing the risk of SIDS is putting a child less t
 Rates of SIDS vary nearly tenfold in developed countries from one in a thousand to one in ten thousand. Globally, it resulted in about 19,200 deaths in 2015, down from 22,000 deaths in 1990. SIDS was the third leading cause of death in children less than one year old in the United States in 2011. It is the most common cause of death between one month and one year of age. About 90% of cases happen before six months of age, with it being most frequent between two months and four months of age. It is more common in boys than girls. Rates of SIDS have decreased in areas with "safe sleep" campaigns by up to 80%.
 Recent estimates suggest that less than 10% of SIDS are homicides.
 
-
-== Definition ==
-
-The syndrome applies only to infants under one. SIDS is a diagnosis of exclusion and should be applied to only those cases in which an infant's death is sudden and unexpected, and remains unexplained after the performance of an adequate postmortem investigation, including:
-
-an autopsy (by an experienced pediatric pathologist, if possible);
-investigation of the death scene and circumstances of the death; and
-exploration of the medical history of the infant and family.
-After investigation, some of these infant deaths are found to be caused by suffocation, hyperthermia or hypothermia, neglect or some other defined cause.
-Australia and New Zealand shifted to sudden unexpected death in infancy (SUDI) for professional, scientific, and coronial clarity.
-
-The term SUDI is now often used instead of sudden infant death syndrome (SIDS) because some coroners prefer to use the term 'undetermined' for a death previously considered to be SIDS. This change is causing diagnostic shift in the mortality data. In addition, the US Centers for Disease Control and Prevention have proposed that such deaths be called sudden unexpected infant deaths (SUID) and that SIDS is a subset of SUID.
-
-
-=== Age ===
-SIDS has a four-parameter lognormal age distribution that spares infants shortly after birth 

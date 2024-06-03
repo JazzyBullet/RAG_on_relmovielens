@@ -1,23 +1,3 @@
 Retroactive continuity, or retcon for short, is a literary device in which facts in the world of a fictional work that have been established through the narrative itself are adjusted, ignored, supplemented, or contradicted by a subsequently published work that recontextualizes or breaks continuity with the former. The term is also used as a verb, as in "retconned" or "retconning".
 There are various motivations for applying retroactive continuity, including:
 
-To accommodate desired aspects of sequels or derivative works which would otherwise be ruled out.
-To respond to negative fan reception of previous stories.
-To correct and overcome errors or problems identified in the prior work since its publication.
-To change or clarify how the prior work should be interpreted.
-To match reality, when assumptions or projections of the future are later proven wrong.
-Retcons are used by authors to increase their creative freedom, on the assumption that the changes are unimportant to the audience compared to the new story which can be told. Retcons can be diegetic or nondiegetic. For instance, by using time travel or parallel universes, an author may diegetically reintroduce a popular character they had previously killed off. More subtle and nondiegetic methods would be ignoring or expunging minor plot points to remove narrative elements the author doesn't have interest in writing.
-Retcons are common in pulp fiction, and especially in comic books by long-established publishers such as DC and Marvel. The long history of popular titles and the number of writers who contribute stories can often create situations that demand clarification or revision. Retcons also often appear in manga, soap operas, serial dramas, movie sequels, cartoons, professional wrestling angles, video games, radio series, and other forms of serial fiction. They are also used in role playing games such as Dungeons & Dragons.
-
-
-== Origins ==
-An early published use of the phrase "retroactive continuity" is found in theologian E. Frank Tupper's 1973 book The Theology of Wolfhart Pannenberg: "Pannenberg's conception of retroactive continuity ultimately means that history flows fundamentally from the future into the past, that the future is not basically a product of the past."
-A printed use of "retroactive continuity" referring to the altering of history in a fictional work is in All-Star Squadron #18 (February 1983) from DC Comics. The series was set on DC's Earth-Two, an alternate universe in which Golden Age comic characters age in real time. All-Star Squadron was set during World War II on Earth-Two; as it was in the past of an alternate universe, all its events had repercussions on the contemporary continuity of the DC multiverse. Each issue changed the history of the fictional world in which it was set. In the letters column, a reader remarked that the comic "must make you [the creators] feel at times as if you're painting yourself into a corner", and, "Your matching of Golden Age comics history with new plotlines has been an artistic (and I hope financial!) success." Writer Roy Thomas responded, "we like to think that an enthusiastic ALL-STAR booster at one of Adam Malin's Creation Conventions in San Diego came up with the best name for it a few months back: 'Retroactive Continuity'. Has kind of a ring to it, don't you think?"
-
-
-== Types ==
-
-
-=== Alteration ===
-Retcons sometimes add information that seemingly contradicts previous information. This frequently takes the form of a character who was shown to have died but is later revealed to have somehow survived.  This is a common practice in horror films, which may end with the death of a monster that goes on to appear in one or more sequels. The technique is so common in superhero comics that the term "comic book death" has been coined for it.
-An early example of this type of retcon is the return of Sherlock Holmes, whom writer Arthur Conan Doyle apparently killed off in "The Final Problem" in 1893, only to bring him bac

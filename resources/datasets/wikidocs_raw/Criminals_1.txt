@@ -1,0 +1,25 @@
+In ordinary language, a crime is an unlawful act punishable by a state or other authority. The term crime does not, in modern criminal law, have any simple and universally accepted definition, though statutory definitions have been provided for certain purposes. The most popular view is that crime is a category created by law; in other words, something is a crime if declared as such by the relevant and applicable law. One proposed definition is that a crime or offence (or criminal offence) is an act harmful not only to some individual but also to a community, society, or the state ("a public wrong"). Such acts are forbidden and punishable by law.
+The notion that acts such as murder, rape, and theft are to be prohibited exists worldwide. What precisely is a criminal offence is defined by the criminal law of each relevant jurisdiction. While many have a catalogue of crimes called the criminal code, in some common law nations no such comprehensive statute exists.
+The state (government) has the power to severely restrict one's liberty for committing a crime. In modern societies, there are procedures to which investigations and trials must adhere. If found guilty, an offender may be sentenced to a form of reparation such as a community sentence, or, depending on the nature of their offence, to undergo imprisonment, life imprisonment or, in some jurisdictions, death. 
+Usually, to be classified as a crime, the "act of doing something criminal" (actus reus) must – with certain exceptions – be accompanied by the "intention to do something criminal" (mens rea).
+While every crime violates the law, not every violation of the law counts as a crime. Breaches of private law (torts and breaches of contract) are not automatically punished by the state, but can be enforced through civil procedure.
+
+
+== Definition ==
+The exact definition of crime is a philosophical issue without an agreed upon answer. Fields such as law, politics, sociology, and psychology define crime in different ways. Crimes may be variously considered as wrongs against individuals, against the community, or against the state. The criminality of an action is dependent on its context; acts of violence will be seen as crimes in many circumstances but as permissible or desirable in others. Crime was historically seen as a manifestation of evil, but this has been superseded by modern criminal theories.
+
+
+=== Legalism ===
+
+Legal and political definitions of crime consider actions that are banned by authorities or punishable by law. Crime is defined by the criminal law of a given jurisdiction, including all actions that are subject to criminal procedure. There is no limit to what can be considered a crime in a legal system, so there may not be a unifying principle used to determine whether an action should be designated as a crime. From a legal perspective, crimes are generally wrong actions that are severe enough to warrant punishment that infringes on the perpetrator's liberties. 
+English criminal law and the related common law of Commonwealth countries can define offences that the courts alone have developed over the years, without any actual legislation: common law offences. The courts used the concept of malum in se to develop various common law offences.
+
+
+=== Sociology ===
+As a sociological concept, crime is associated with actions that cause harm and violate social norms. Under this definition, crime is a type of social construct, and societal attitudes determine what is considered criminal. 
+In legal systems based on legal moralism, the predominant moral beliefs of society determine the legal definition as well as the social definition of crime. This system is less prominent in liberal democratic societies that prioritize individualism and multiculturalism over other moral beliefs.
+Paternalism defines crime not only as harm to others or to society, but also as harm to the self.
+
+
+=== Psychology ===
+Psychological definitions consider the state of mind of perpetrators and th

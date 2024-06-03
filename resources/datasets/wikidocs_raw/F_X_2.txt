@@ -1,0 +1,38 @@
+The Mitsubishi F-X (unofficially called F-3) is a sixth-generation stealth fighter in development for the Japan Air Self-Defense Force (JASDF). It is Japan's first domestically developed stealth fighter jet and will replace the Mitsubishi F-2 by the mid-2030s. Its development is to also bolster the nation's defense industry and potentially enter the international arms market amid Japan's change in defense posture. In October 2020, Mitsubishi Heavy Industries was selected as the lead developer.
+On 9 December 2022 the governments of Japan, the United Kingdom, and Italy jointly announced that they would develop and deploy a common fighter jet under a project called the Global Combat Air Programme (GCAP); merging development of the latter two nations' BAE Systems Tempest with the F-X. In Japan, Mitsubishi Heavy Industries will be the prime contractor, with IHI Corporation handling the engines and Mitsubishi Electric handling the electronics. In the UK, BAE Systems will handle the aircraft, Rolls-Royce the engines and Leonardo UK the electronics. Leonardo and Avio Aero will participate in the development from Italy, and MBDA will also participate in the missile development.
+By around 2024, detailed development and cost sharing for each company will be clarified, and production will begin around 2030, with the first aircraft to be deployed in 2035. In addition, joint development with the United States will begin in fiscal 2023 for an unmanned aircraft accompanying the F-3.
+
+
+== Development ==
+
+
+=== Origins ===
+
+The F-X program began when the United States banned exports of the Lockheed Martin F-22 Raptor as part of the 1997 Obey amendment in order to safeguard its technology. With Japan no longer able to purchase the F-22, a domestically developed fighter was chosen instead to replace Japan's aging fleet of fighter jets. Between December 2009 and August 2010, the Ministry of Defense (MoD) conducted a study of developing a future fighter jet to replace the F-2. The research conducted called for a new fighter jet that would be a generation ahead of contemporary fifth-generation fighters. The concept fighter was named the i3 Fighter (Informed, Intelligent, Instantaneous). Some technology and capabilities the concept fighter is to possess include advanced radar systems to counter stealth technology of other fighters, receiving targeting information from other platforms (drones, fighters and/or airborne early warning and control aircraft), use of fly-by-optics (much like the Kawasaki P-1) to process information faster, stealth technology, gallium nitride semiconductors to improve radar performance, and a new, more powerful engine.
+
+
+=== Mitsubishi X-2 demonstrator ===
+
+Much of the development of the F-X program correlates with the development of the Mitsubishi X-2 Shinshin. The development of the X-2 demonstrator allows Japan to obtain new information and develop new technology related to their next generation fighter jet. The X-2 made its maiden flight on 22 April 2016. The X-2's testing concluded in March 2018.
+
+
+=== Continued development and procurement strategy ===
+
+
+==== Aircraft components ====
+Concurrent to the X-2's development and testing, evaluations were made on various researches related to the F-X. These researches and tests continue as Japan sought international collaboration on the F-X.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+In mid-September 2019, flight tests were conducted on integrated sensors to be used for the F-X. The sensors were tested on board an F-2 fighter and the results are said to be good.
+
+
+==== F-X program and international collaboration ====
+In March 2017, Japan and U.K. signed an agreement to explore the possibility on co-developing a future fighter jet. By March 2018, a MoD representative has stated that the Japanese government is deciding whether to develop the F-X domestically, through joint-development, or develop it based on an existing fighter design. At the time the Japanese government sent out proposals to

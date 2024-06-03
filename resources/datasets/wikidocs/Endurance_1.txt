@@ -4,23 +4,3 @@ When a person is able to accomplish or withstand more effort than previously, th
 The term stamina is sometimes used synonymously and interchangeably with endurance. Endurance may also refer to an ability to persevere through a difficult situation, to "endure hardship".
 In military settings, endurance is the ability of a force to sustain high levels of combat potential relative to its opponent over the duration of a campaign.
 
-
-== Philosophy ==
-Aristotle noted similarities between endurance and self control: To have self control is to resist the temptation of things that seem immediately appealing, while to endure is to resist the discouragement of things that seem immediately uncomfortable.
-
-
-== Endurance training ==
-
-Different types of endurance performance can be trained in specific ways. Adaptation of exercise plans should follow individual goals.
-Calculating the intensity of exercise the individual capabilities should be considered. Effective training starts within half the individual performance capability. Performance capability is expressed by maximum heart rate. Best results can be achieved in the range between 55% and 65% of maximum heart rate. Aerobic, anaerobic and further thresholds are not to be mentioned within extensive endurance exercises. Training intensity is measured via the heart rate.
-
-
-=== Endurance-trained effects are mediated by epigenetic mechanisms ===
-Between 2012 and 2019 at least 25 reports indicated a major role of epigenetic mechanisms in skeletal muscle responses to exercise.
-
-Gene expression in muscle is largely regulated, as in tissues generally, by regulatory DNA sequences, especially enhancers. Enhancers are non-coding sequences in the genome that activate the expression of distant target genes, by looping around and interacting with the promoters of their target genes (see Figure "Regulation of transcription in mammals"). As reported by Williams et al., the average distance in the loop between the connected enhancers and promoters of genes is 239,000 nucleotide bases. 
-
-
-==== Endurance exercise-induced long-term alteration of gene expression by histone acetylation or deacetylation ====
-
-After exercise, epigenetic alterations to enhancers alter long-term expression of hundreds of muscle genes. This includes genes producing proteins and other products secreted into the systemic circulation, many of which may act as endocrine messengers. Of

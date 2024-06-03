@@ -1,29 +1,2 @@
 The IBM 7950, also known as Harvest, was a one-of-a-kind adjunct to the Stretch computer which was installed at the United States National Security Agency (NSA). Built by IBM, it was delivered in 1962 and operated until 1976, when it was decommissioned. Harvest was designed to be used for cryptanalysis.
 
-
-== Development ==
-In April 1958, the final design for the NSA-customized version of IBM's Stretch computer had been approved, and the machine was installed in February 1962. The design engineer was James H. Pomerene, and it was built by IBM in Poughkeepsie, New York. Its electronics (fabricated of the same kind of discrete transistors used for Stretch) were physically about twice as big as the Stretch to which it was attached.  Harvest added a small number of instructions to Stretch, and could not operate independently.
-An NSA-conducted evaluation found that Harvest was more powerful than the best commercially available machine by a factor of 50 to 200, depending on the task.
-
-
-== Architecture ==
-
-The equipment added to the Stretch computer consisted of the following special peripherals:
-
-IBM 7951 — Stream coprocessor
-IBM 7952 — High-performance core storage
-IBM 7955 — Magnetic tape system, also known as TRACTOR
-IBM 7959 — High-speed I/O exchange
-With the stream processing unit, Harvest was able to process 3 million characters a second.
-The TRACTOR tape system, part of the HARVEST system, was unique for its time. It included six tape drives, which handled 1.75-inch-wide (44 mm) tape in cartridges, along with a library mechanism that could fetch a cartridge from a library, mount it on a drive, and return it to the library.  The transfer rates and library mechanism were balanced in performance such that the system could read two streams of data from tape, and write a third, for the entire capacity of the library, without any time wasted for tape handling.
-
-
-== Programming ==
-Harvest's most important mode of operation was called "setup" mode, in which the processor was configured with several hundred bits of information and the processor then operated by streaming data from memory — possibly taking two streams from memory — and writing a separate stream back to memory.  The two streams could be combined, used to find data in tables, or counted to determine the frequency of various values. A value could be anything from 1 to 16 contiguous bits, without regard to alignment, and the streams could be as simple as data laid out in memory, or data read repeatedly, under the control of multiple nested "do"-loop descriptors, which were interpreted by the hardware.
-Two programming languages, Alpha and Beta (not be confused with Simula-inspired BETA programming language) were designed for programming it, and IBM provided a compiler for the former around the time the machine was delivered.
-
-
-== Usage ==
-One purpose of the machine was to search text for key words from a watchlist. From a single foreign cipher system, Harvest was able to scan over seven million decrypts for any occurrences of over 7,000 key words in under four hours.
-The computer was also used for codebreaking, and this was enhanced by an early distributed networking system codenamed Rye, which allowed remote access to Harvest. According to a 1965 NSA report, "RYE has made it possible for the agency to locate many more potentially exploitable cryptographic systems and 'bust' situations. Many messages that would have taken hours or days to read by hand methods, if indeed the process were feasible at all, can now be 'set' and machine decrypted in a matter of minutes". Harvest was also used for decipherment of solved systems; the report goes on to say that, "Decrypting a large batch of messages in a solved system [is] also being routinely handled by this system".  The Harvest-RYE system became an influential example for computer security; a 1972 review identified NSA’s RYE as one of two “examples of early attempts at achieving ‘multi-level’ security.”
-Harvest remained in use un

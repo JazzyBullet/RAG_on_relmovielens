@@ -4,36 +4,3 @@ The normal boiling point (also called the atmospheric boiling point or the atmos
 The heat of vaporization is the energy required to transform a given quantity (a mol, kg, pound, etc.) of a substance from a liquid into a gas at a given pressure (often atmospheric pressure).
 Liquids may change to a vapor at temperatures below their boiling points through the process of evaporation. Evaporation is a surface phenomenon in which molecules located near the liquid's edge, not contained by enough liquid pressure on that side, escape into the surroundings as vapor. On the other hand, boiling is a process in which molecules anywhere in the liquid escape, resulting in the formation of vapor bubbles within the liquid.
 
-
-== Saturation temperature and pressure ==
-
-A saturated liquid contains as much thermal energy as it can without boiling (or conversely a saturated vapor contains as little thermal energy as it can without condensing).
-Saturation temperature means boiling point. The saturation temperature is the temperature for a corresponding saturation pressure at which a liquid boils into its vapor phase. The liquid can be said to be saturated with thermal energy. Any addition of thermal energy results in a phase transition.
-If the pressure in a system remains constant (isobaric), a vapor at saturation temperature will begin to condense into its liquid phase as thermal energy (heat) is removed. Similarly, a liquid at saturation temperature and pressure will boil into its vapor phase as additional thermal energy is applied.
-The boiling point corresponds to the temperature at which the vapor pressure of the liquid equals the surrounding environmental pressure. Thus, the boiling point is dependent on the pressure. Boiling points may be published with respect to the NIST, USA standard pressure of 101.325 kPa (or 1 atm), or the IUPAC standard pressure of 100.000 kPa. At higher elevations, where the atmospheric pressure is much lower, the boiling point is also lower. The boiling point increases with increased pressure up to the critical point, where the gas and liquid properties become identical. The boiling point cannot be increased beyond the critical point. Likewise, the boiling point decreases with decreasing pressure until the triple point is reached. The boiling point cannot be reduced below the triple point.
-If the heat of vaporization and the vapor pressure of a liquid at a certain temperature are known, the boiling point can be calculated by using the Clausius–Clapeyron equation, thus:
-
-  
-    
-      
-        
-          T
-          
-            B
-          
-        
-        =
-        
-          
-            (
-            
-              
-                
-                  1
-                  
-                    T
-                    
-                      0
-                    
-                  
-        

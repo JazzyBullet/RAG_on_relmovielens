@@ -1,28 +1,3 @@
 Frequency is a 2001 rhythm game developed by Harmonix and published by Sony Computer Entertainment for the PlayStation 2. It was released on November 20, 2001.
 A sequel, Amplitude, was released in 2003.
 
-
-== Gameplay ==
-In the game, a player portrays a virtual avatar called a "FreQ", and travels down an octagonal tunnel, with each wall containing a musical track. These tracks contain sequences of notes. As the player hits buttons corresponding to the note placement on the track, the "sonic energy" from within is released and the music plays. If the player plays two measures of the track without any errors, the track is "captured" and the music plays automatically until the next pre-determined section of the song. All songs featured in the game are edited for ease of play.
-Some tracks are bonus tracks and only open up when all notes are played, allowing the user to pick up "freestyle" points. Powerups are available which allow the immediate capturing of the track or the doubling of points. If a player continually misses notes, their energy meter reduces until the game is over.
-High scores are achieved in the game by quickly moving from track to track, as they are completed, which increases a point multiplier. Tracks with more notes are worth more points, so choosing those over simple tracks is advantageous as well.
-The game features eight different 'arenas' that the player could attempt the song in. These arenas, as well as the tracks and notes, take on the appearance of Tron-style graphics, including limited video screens that would show the player's FreQ if the player was doing well, or static if the player was about to run out of power. Depending on the arena chosen, the track would curve and loop around indefinitely until the end of the song. One arena is noted for being a completely straight track, thus working well as a practice arena for some of the more difficult songs.
-Frequency allowed players to create remixes of any of the songs in the game. While the player was limited to the instruments and structure of the song, the remix could include different melodies or beat lines, change in tempo, and modulation of the sound of an instrument. Remixes could then be saved and played as normal songs, though no high score records are kept for these.
-Frequency was one of the first games to be supported by the PS2 Network Adapter, allowing for up to four players to play against each other as well as to trade their remixes. Online play was added with an online-capable demo version (4 songs), supplied with the network adapter. The original disk could also be swapped after loading the demo disk, allowing online play with all songs. Multiplayer mode has all players attempting to complete the song on the same track, allowing for players to fight for the highest score. New powerups only available in multiplayer mode are able to disrupt the performance of another player. However, Sony has shut down the matchmaking server for online play and has made no provisions for third-party replacements.
-
-
-== Songs ==
-Some of the songs are actually "in-house" productions by Kasson Crooker, who served as a musical director for the game and is also a former member of the band Freezepop. Some of his aliases include: DJ HMX (HMX standing for Harmonix, the game's developer), Symbion Project, and Komputer Kontroller. Several of the artist featured in the game would contribute to its sequel Amplitude. These artists include The Crystal Method, BT, Akrobatik, Chris Child (Kodomo, of Surgecore), Melissa Kaplan, Freezepop, as well as Crooker himself returning with his various pseudonyms.
-
-† - denotes an original track created specifically for Frequency
-The Crystal Method - "The Winner"
-Akrobatik - "Exterminator"
-No Doubt - "Ex-Girlfriend (Psycho Ex Remix)"
-Orbit - "XLR8R"
-Freezepop - "Science Genius Girl"
-Dub Pistols - "Official Chemical"
-Lo Fidelity Allstars - "Lo Fi's In Ibiza"
-Fear Factory - "Frequency"†
-Paul Oakenfold - "See It"†
-Ethan Eves - "Selecta"†
-Po

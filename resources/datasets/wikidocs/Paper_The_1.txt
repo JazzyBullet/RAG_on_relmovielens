@@ -1,26 +1,3 @@
 Paper is a thin sheet material produced by mechanically or chemically processing cellulose fibres derived from wood, rags, grasses, or other vegetable sources in water, draining the water through a fine mesh leaving the fibre evenly distributed on the surface, followed by pressing and drying. Although paper was originally made in single sheets by hand, almost all is now made on large machines—some making reels 10 metres wide, running at 2,000 metres per minute and up to 600,000 tonnes a year. It is a versatile material with many uses, including printing, painting, graphics, signage, design, packaging, decorating, writing, and cleaning. It may also be used as filter paper, wallpaper, book endpaper, conservation paper, laminated worktops, toilet tissue, currency, and security paper, or in a number of industrial and construction processes.
 The papermaking process developed in east Asia, probably China, at least as early as 105 CE, by the Han court eunuch Cai Lun, although the earliest archaeological fragments of paper derive from the 2nd century BCE in China. The modern pulp and paper industry is global, with China leading its production and the United States following.
 
-
-== History ==
-
-The oldest known archaeological fragments of the immediate precursor to modern paper date to the 2nd century BCE in China. The pulp papermaking process is ascribed to Cai Lun, a 2nd-century CE Han court eunuch.
-It has been said that knowledge of papermaking was passed to the Islamic world after the Battle of Talas in 751 CE when two Chinese papermakers were captured as prisoners. Although the veracity of this story is uncertain, paper started to be made in Samarkand soon after. In the 13th century, the knowledge and uses of paper spread from the Middle East to medieval Europe, where the first water-powered paper mills were built. Because paper was introduced to the West through the city of Baghdad, it was first called bagdatikos. In the 19th century, industrialization greatly reduced the cost of manufacturing paper. In 1844, the Canadian inventor Charles Fenerty and the German inventor Friedrich Gottlob Keller independently developed processes for pulping wood fibres.
-
-
-== Early sources of fibre ==
-
-Before the industrialisation of paper production the most common fibre source was recycled fibres from used textiles, called rags. The rags were from hemp, linen and cotton. A process for removing printing inks from recycled paper was invented by German jurist Justus Claproth in 1774. Today this method is called deinking. It was not until the introduction of wood pulp in 1843 that paper production was not dependent on recycled materials from ragpickers.
-
-
-== Etymology ==
-
-The word paper is etymologically derived from Latin papyrus, which comes from the Greek πᾰ́πῡρος (pápūros), the word for the Cyperus papyrus plant. Papyrus is a thick, paper-like material produced from the pith of the Cyperus papyrus plant, which was used in ancient Egypt and other Mediterranean cultures for writing before the introduction of paper. Although the word paper is etymologically derived from papyrus, the two are produced very differently and the development of the first is distinct from the development of the second. Papyrus is a lamination of natural plant fibre, while paper is manufactured from fibres whose properties have been changed by maceration.
-
-
-== Papermaking ==
-
-
-=== Chemical pulping ===
-
-To make pulp from wood, a chemical pulping process separates lignin from cellulose fibre. A cooking liquor is used to dissolve the lignin, which is then washed from the cellulose; this preserves the length of the cellulose fibres. Paper made from chemical pulps are also known as wood-free papers (not to be confused with tree-free paper); this is because they do not contain lignin, which deteriorates over time. The pulp can also be bleached to produce white paper, but this consumes 5% of the fibres. Chemical pulping processes are not used to make paper made from cotton, which is

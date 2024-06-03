@@ -3,27 +3,3 @@ Police conduct rising to the level of entrapment is broadly discouraged and thus
 Depending on the law in the jurisdiction, the prosecution may be required to prove beyond a reasonable doubt that the defendant was not entrapped or the defendant may be required to prove that they were entrapped as an affirmative defense.
 In the practice of journalism and whistle-blowing entrapment means "deceptive and trust-breaking techniques ... applied to trick someone to commit a legal or moral transgression."
 
-
-== Etymology and usage ==
-The word entrapment, from the verb "to entrap", meaning to catch in a trap, was first used in this sense in 1899 in the United States Court of Appeals for the Tenth Circuit case of People v Braisted.
-The 1828 edition of Noah Webster's American Dictionary of the English Language defines entrap as:
-
-To catch as in a trap; to insnare [sic]; used chiefly or wholly in a figurative sense. To catch by artifices; to involve in difficulties or distresses; to entangle; to catch or involve in contraindications; in short, to involve in any difficulties from which an escape is not easy or possible. We are entrapped by the devices of evil men. We are sometimes entrapped in our own words.
-
-
-== Canada ==
-The Supreme Court of Canada developed the doctrine of entrapment in three major decisions: R. v. Amato, [1982] 2 S.C.R. 418, R. v. Mack, [1988] 2 S.C.R. 903, and R. v. Barnes, [1991] 1 S.C.R. 449.
-There are two different forms of entrapment in Canadian law.
-
-Random virtue testing: This form of entrapment occurs when the police offer an individual the opportunity to commit a crime without reasonable suspicion that either that individual or where that individual is located is associated with the criminal activity under investigation. If police have such a reasonable suspicion, they are still limited to providing only an opportunity to commit the offence.
-Inducement of an offence: This form of entrapment occurs when the police go beyond merely providing an opportunity to commit an offence but actually induce the commission of the offense. Some factors a court may consider when deciding whether police have induced the offence include the type of crime being investigated, whether an average person would have been induced, the persistence and number of attempts made by the police, the type of inducement used (fraud, deceit, reward, etc.), and the existence of express or implied threats.
-The question of entrapment is considered only after there has been a finding of guilt. If, after finding the accused guilty, the court determines that the accused was entrapped, the court enters a judicial stay of proceedings. That is similar to an acquittal.
-
-
-=== History ===
-In 2013, a British Columbia couple were found guilty of attempting to blow up the British Columbia Parliament Buildings. In 2016, the verdict was overturned because the couple were found to have been entrapped into the plot by the Royal Canadian Mounted Police.
-It was the first time entrapment had been successfully argued in a terrorism case. Three previous attempts failed.
-
-
-== Germany ==
-In German law, it is normally forbidden to induce or persuade someone to commit a crime or to attempt to do so. However, the German Federal Court of Justice has held that entrapment by undercover police agents is not a reason to 

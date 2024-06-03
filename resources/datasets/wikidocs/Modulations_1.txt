@@ -5,17 +5,3 @@ Another purpose of modulation is to transmit multiple channels of information th
 A modulator is a device or circuit that performs modulation. A demodulator (sometimes detector) is a circuit that performs demodulation, the inverse of modulation. A modem (from modulator–demodulator), used in bidirectional communication, can perform both operations. The lower frequency band occupied by the modulation signal is called the baseband, while the higher frequency band occupied by the modulated carrier is called the passband.
 In analog modulation, an analog modulation signal is "impressed" on the carrier. Examples are amplitude modulation (AM) in which the amplitude (strength) of the carrier wave is varied by the modulation signal, and frequency modulation (FM) in which the frequency of the carrier wave is varied by the modulation signal. These were the earliest types of modulation, and are used to transmit an audio signal representing sound in AM and FM radio broadcasting. More recent systems use digital modulation, which impresses a digital signal consisting of a sequence of binary digits (bits), a bitstream, on the carrier, by means of mapping bits to elements from a discrete alphabet to be transmitted. This alphabet can consist of a set of real or complex numbers, or sequences, like oscillations of different frequencies, so-called frequency-shift keying (FSK) modulation. A more complicated digital modulation method that employs multiple carriers, orthogonal frequency-division multiplexing (OFDM), is used in WiFi networks, digital radio stations and digital cable television transmission.
 
-
-== Analog modulation methods ==
-
-In analog modulation, the modulation is applied continuously in response to the analog information signal. Common analog modulation techniques include:
-
-Amplitude modulation (AM) (here the amplitude of the carrier signal is varied in accordance with the instantaneous amplitude of the modulating signal)
-Double-sideband modulation (DSB)
-Double-sideband modulation with carrier (DSB-WC) (used on the AM radio broadcasting band)
-Double-sideband suppressed-carrier transmission (DSB-SC)
-Double-sideband reduced carrier transmission (DSB-RC)
-Single-sideband modulation (SSB, or SSB-AM)
-Single-sideband modulation with carrier (SSB-WC)
-Single-sideband modulation suppressed carrier modulation (SSB-SC)
-Vestigial sideband mo

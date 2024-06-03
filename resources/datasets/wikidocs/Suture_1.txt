@@ -2,17 +2,3 @@ Trilobites (; meaning "three lobes") are extinct marine arthropods that form the
 By the time trilobites first appeared in the fossil record, they were already highly diversified and geographically dispersed. Because trilobites had wide diversity and an easily fossilized mineralised exoskeleton, they left an extensive fossil record. The study of their fossils has facilitated important contributions to biostratigraphy, paleontology, evolutionary biology, and plate tectonics. Trilobites are placed within the clade Artiopoda, which includes many organisms that are morphologically similar to trilobites, but are largely unmineralised. The relationship of Artiopoda to other arthropods is uncertain.
 Trilobites evolved into many ecological niches; some moved over the seabed as predators, scavengers, or filter feeders, and some swam, feeding on plankton. Some even crawled onto land. Most lifestyles expected of modern marine arthropods are seen in trilobites, with the possible exception of parasitism (where scientific debate continues). Some trilobites (particularly the family Olenidae) are even thought to have evolved a symbiotic relationship with sulfur-eating bacteria from which they derived food. The largest trilobites were more than 70 centimetres (28 in) long and may have weighed as much as 4.5 kilograms (9.9 lb).
 
-
-== Evolution ==
-
-
-=== Trilobite relatives ===
-Trilobites belong to the Artiopoda, a group of extinct arthropods morphologically similar to trilobites, though only the trilobites had mineralised exoskeletons. Thus, other artiopodans are typically only found in exceptionally preserved deposits, mostly during the Cambrian period.
-The exact relationships of artiopods to other arthropods is uncertain. They have been considered closely related to chelicerates (which include horseshoe crabs and arachnids) as part of a clade called Arachnomorpha, while others consider them to be more closely related to Mandibulata (which contains insects, crustaceans and myriapods) as part of a clade called Antennulata.
-
-
-==== Fossil record of early trilobites ====
-
-The earliest trilobites known from the fossil record are redlichiids and ptychopariid bigotinids dated to around 520 million years ago. Contenders for the earliest trilobites include Profallotaspis jakutensis (Siberia), Fritzaspis spp. (western USA), Hupetina antiqua (Morocco) and Serrania gordaensis (Spain). Trilobites appeared at a roughly equivalent time in Laurentia, Siberia and West Gondwana.
-All Olenellina lack facial sutures (see below), and this is thought to represent the original state. The earliest sutured trilobite found so far (Lemdadella), occurs almost at the same time as the earliest Olenellina, suggesting the trilobites origin lies before the start of the Atdabanian, but without leaving fossils. Other groups show secondary lost facial sutures, such as all Agnostina and some Phacopina. Another common feature of the Olenellina also suggests this suborder to be the ancestral trilobite stock: early protaspid stages have not been found, supposedly because these were not calcified, and this also is supposed to represent the original state. Earlier trilobites may be found and could shed more light on their origins.
-Three specimens of a trilobite from Morocco, Megistaspis hammondi, dated 478 million years old contain

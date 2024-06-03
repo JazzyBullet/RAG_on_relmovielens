@@ -1,37 +1,3 @@
 Liver fluke is a collective name of a polyphyletic group of parasitic trematodes under the phylum Platyhelminthes.
 They are principally parasites of the liver of various mammals, including humans. Capable of moving along the blood circulation, they can occur also in bile ducts, gallbladder, and liver parenchyma. In these organs, they produce pathological lesions leading to parasitic diseases. They have complex life cycles requiring two or three different hosts, with free-living larval stages in water.
 
-
-== Biology ==
-The body of liver flukes is leaf-like and flattened. The body is covered with a tegument. They are hermaphrodites having complete sets of both male and female reproductive systems. They have simple digestive systems and primarily feed on blood. The anterior end is the oral sucker opening into the mouth. Inside, the mouth leads to a small pharynx which is followed by an extended intestine that runs through the entire length of the body. The intestine is heavily branched and the anus is absent. Instead, the intestine runs along an excretory canal that opens at the posterior end. Adult flukes produce eggs that are passed out through the excretory pore. The eggs infect different species of snails (as intermediate hosts) in which they grow into larvae. The larvae are released into the environment from where the definitive hosts (humans and other mammals) get the infection. In some species, another intermediate host is required, generally a cyprinid fish. In this case, the definitive hosts are infected from eating infected fish. Hence, they are food-borne parasites.
-
-
-== Pathogenicity ==
-Liver fluke infections cause serious medical and veterinary diseases. Fasciolosis of sheep, goats and cattle, is the major cause of economic losses in dairy and meat industry. Fasciolosis of humans produces clinical symptoms such as fever, nausea, swollen liver, extreme abdominal pain, jaundice and anemia.
-Clonorchiasis and opisthorchiasis (due to Opisthorchis viverrini) are particularly dangerous. They can survive for several decades in humans causing chronic inflammation of the bile ducts, epithelial hyperplasia, periductal fibrosis and bile duct dilatation. In many infections these symptoms cause further complications such as stone formation, recurrent pyogenic cholangitis and cancer (cholangiocarcinoma). Opisthorchiasis is the leading cause of cholangiocarcinoma in Thailand and Laos. Clonorchis sinensis and Opisthorchis viverrini are both categorized by the International Agency for Research on Cancer (IARC) as Group 1 carcinogens.
-
-
-== Species ==
-Species of liver fluke include:
-
-Clonorchis sinensis (the Chinese liver fluke, or the Oriental liver fluke)
-Dicrocoelium dendriticum (the lancet liver fluke)
-Dicrocoelium hospes
-Fasciola hepatica (the sheep liver fluke)
-Fascioloides magna (the giant liver fluke)
-Fasciola gigantica
-Fasciola jacksoni
-Metorchis conjunctus
-Metorchis albidus
-Protofasciola robusta
-Parafasciolopsis fasciomorphae
-Opisthorchis viverrini (Southeast Asian liver fluke)
-Opisthorchis felineus (Cat liver fluke)
-Opisthorchis guayaquilensis
-
-
-== See also ==
-The Integrated Opisthorchiasis Control Program
-
-
-== References ==

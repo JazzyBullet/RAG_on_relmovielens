@@ -4,34 +4,3 @@ Heat is energy in transfer to or from a thermodynamic system by a mechanism that
 Calorimetry is measurement of quantity of energy transferred as heat by its effect on the states of interacting bodies, for example, by the amount of ice melted or by change in temperature of a body.
 In the International System of Units (SI), the unit of measurement for heat, as a form of energy, is the joule (J).
 
-
-== Notation and units ==
-As a form of energy, heat has the unit joule (J) in the International System of Units (SI). In addition, many applied branches of engineering use other, traditional units, such as the British thermal unit (BTU) and the calorie. The standard unit for the rate of heating is the watt (W), defined as one joule per second.
-The symbol Q for heat was introduced by Rudolf Clausius and Macquorn Rankine in c. 1859.
-Heat released by a system into its surroundings is by convention a negative quantity (Q < 0); when a system absorbs heat from its surroundings, it is positive (Q > 0). Heat transfer rate, or heat flow per unit time, is denoted by 
-  
-    
-      
-        
-          
-            
-              Q
-              ˙
-            
-          
-        
-      
-    
-    {\displaystyle {\dot {Q}}}
-  
-, but it is not a time derivative of a function of state (which can also be written with the dot notation) since heat is not a function of state. Heat flux is defined as rate of heat transfer per unit cross-sectional area (watts per square metre).
-
-
-== History ==
-
-As a common noun, English heat or warmth (just as French chaleur, German Wärme, Latin calor, Greek θάλπος, etc.) refers to (the human perception of) either thermal energy or temperature. Speculation on thermal energy or "heat" as a separate form of matter has a long history, identified as caloric theory, phlogiston theory, and fire.
-Heat has been discussed in ordinary language by philosophers. An example is this 1720 quote from John Locke:
-
-Heat, is a very brisk agitation of the insensible parts of the object, which produces in us that sensation from whence we denominate the object hot; so what in our sensation is heat, in the object is nothing but motion. This appears by the way, whereby heat is produc’d: for we see that the rubbing of a brass nail upon a board, will make it very hot; and the axle-trees of carts and coaches are often hot, and sometimes to a degree, that it sets them on fire, by the rubbing of the nave of the wheel upon it.
-This source was repeatedly quoted by Joule.
-John Tyndall's Heat Considered as Mode of Motion (1863) was instrumental in popula

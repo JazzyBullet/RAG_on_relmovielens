@@ -1,0 +1,23 @@
+Fatal insomnia is an extremely rare neurodegenerative  prion disease that results in trouble sleeping as its hallmark symptom. The majority of cases are familial (fatal familial insomnia [FFI]), stemming from a mutation in the PRNP gene, with the remainder of cases occurring  sporadically (sporadic fatal insomnia [sFI]). The problems with sleeping typically start out gradually and worsen over time. Eventually, the patient will succumb to total insomnia (agrypnia excitata), most often leading to other symptoms such as speech problems, coordination problems, and dementia. It results in death within a few months to a few years and has no known cure.
+
+
+== Signs and symptoms ==
+The disease has four stages:
+
+Characterized by worsening insomnia, resulting in panic attacks, paranoia, and phobias. This stage lasts for about four months.
+Hallucinations and panic attacks become noticeable, continuing for about five months.
+Complete inability to sleep is followed by rapid loss of weight. This lasts for about three months.
+Dementia, during which the person becomes unresponsive or mute over the course of six months, is the final stage of the disease, after which death follows.
+Clinically, FFI manifests with a disordered sleep-wake cycle, dysautonomia, motor disturbances, and neuropsychiatric disorders.
+Other symptoms include profuse sweating, miosis (pinpoint pupils), sudden entrance into menopause or impotence, neck stiffness, and elevation of blood pressure and heart rate. The sporadic form of the disease often presents with double vision. Prolonged constipation is common as well. As the disease progresses, the person becomes stuck in a state of pre-sleep limbo, or hypnagogia, which is the state just before sleep in healthy individuals. During these stages, people commonly and repeatedly move their limbs as if they were  dreaming.
+The age of onset is variable, ranging from 13 to 60 years, with an average of 50. The disease can be detected prior to onset by genetic testing. Death usually occurs between 6–36 months from onset. The presentation of the disease varies considerably from person to person, even among people within the same family; in the sporadic form, for example, sleep problems are not commonly reported and early symptoms are ataxia, cognitive impairment, and double vision.
+
+
+== Cause ==
+
+Fatal familial insomnia is a rare hereditary prion disease that is associated with the D178N-129M PRNP gene that is caused by a mutation. The gene PRNP that provides instructions for making the prion protein PrPC is located on the short (p) arm of chromosome 20 at position p13. Both people with FFI and those with familial Creutzfeldt–Jakob disease (fCJD) carry a mutation at codon 178 of the prion protein gene. FFI is also invariably linked to the presence of the methionine codon at position 129 of the mutant allele, whereas fCJD is linked to the presence of the valine codon at that position. The disease occurs when there is a change of amino acid at position 178 when an asparagine (N) is found instead of the normal aspartic acid (D). This has to be accompanied with a methionine at position 129.
+FFI is an autosomal dominant disease that harbors a missense GAC to AAC mutation at codon 178 of the PRNP prion protein gene located on chromosome 20, along with the presence of the methionine polymorphism at position 129 of the mutant allele. Pathologically, FFI is characterized by predominant thalamic degeneration especially in the medio-dorsal and anterio-ventral nuclei. Phenotypic variability is a perplexing feature of FFI.
+
+
+== Pathophysiology ==
+Given its striking clinical and neuropathologic similarities with fatal familial insomnia (FFI), a genetic prion disease linked to a point mutation at codon 178 (D178N) in the PRNP coupled with methionine at codon 129, the MM2T subtype is also known as sporadic FI (sFI). Transmission studies using susceptible transgenic mice have consistently demonstrated that the same prion strain is associated with both 

@@ -2,23 +2,3 @@ The International Convention for the Safety of Life at Sea (SOLAS) is an interna
 Initially prompted by the sinking of the Titanic, the current version of SOLAS is the 1974 version, known as SOLAS 1974, which came into force on 25 May 1980, and has been amended several times. As of April 2022, SOLAS 1974 has 167 contracting states, which flag about 99% of merchant ships around the world in terms of gross tonnage.
 SOLAS in its successive forms is generally regarded as the most important of all international treaties concerning the safety of merchant ships.
 
-
-== Signatories ==
-The non-parties to SOLAS 1974 include numerous landlocked countries, as well as El Salvador, Micronesia and East Timor. Some others including Bolivia, Lebanon and Sri Lanka, all considered flag of convenience states, are deemed to have "potentially negative performance" regarding ratification.
-
-
-== Provisions ==
-SOLAS 1974 requires flag states to ensure that ships flagged by them comply with the minimum safety standards in the construction, equipment and operation of merchant ships. The treaty includes articles setting out general obligations, etc., followed by an annexe divided into twelve chapters, two new chapters were added in 2016 and 2017. Of these, chapter five (often called 'SOLAS V') is the only one that applies to all vessels on the sea, including private yachts and small craft on local trips as well as to commercial vessels on international passages. Many countries have turned these international requirements into national laws so that anybody on the sea who is in breach of SOLAS V requirements may find themselves subject to legal proceedings.
-
-Chapter I – General Provisions
-Surveying the various types of ships and certifying that they meet the requirements of the convention.
-Chapter II-1 – Construction – Subdivision and stability, machinery and electrical installations
-The subdivision of passenger ships into watertight compartments so that after damage to its hull, a vessel will remain afloat and stable. This includes compliance with the International Code on Intact Stability
-Chapter II-2 – Fire protection, fire detection and fire extinction
-Fire safety provisions for all ships with detailed measures for passenger ships, cargo ships and tankers under the FSS Code and requirements for the carriage of gas as a fuel under the IGF Code
-Chapter III – Life-saving appliances and arrangements
-Life-saving appliances and arrangements, including requirements for life boats, rescue boats and life jackets according to type of ship. The specific technical requirements are given in the International Life-Saving Appliance (LSA) Code.
-Chapter IV – Radiocommunications
-The Global Maritime Distress Safety System (GMDSS) requires passenger and cargo ships on international voyages to carry radio equipment, including satellite Emergency Position Indicating Radio Beacons (EPIRBs) and Search and Rescue Transponders (SARTs).
-Chapter V – Safety of navigation
-This chapter requires governments to ensure that all vessels are sufficiently and efficiently manned from a safety point of view. It places requirements on all vessels regarding voyage and passage planning, expecting a careful assessment of any proposed voyages by all who put to sea. Every mariner must take account of all potential dangers to navigation, weather forecasts, tidal predictions, the competence of the crew, and all other relevant factors. It also adds an obligation for all vessels' masters to offer assistance to those in distress and controls the use of lifesaving signals with specific requirements regarding danger and distress messages. It is different from the other chapters, which apply to certain classes of commercial shippi

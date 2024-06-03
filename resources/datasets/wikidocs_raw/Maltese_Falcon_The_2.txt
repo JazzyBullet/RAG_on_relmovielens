@@ -1,0 +1,20 @@
+Maltese Falcon is a full-rigged ship using DynaRig technology, which was built by Perini Navi in Tuzla, Istanbul, and commissioned by her first owner, Tom Perkins. She is one of the world's most complex and largest sailing yachts at 88 m (289 ft), similar in size to the Athena and Eos. The vessel dropped its BVI flag in 2008 and was purchased by Pleon Ltd, which put it to charter use.
+
+
+== Vessel ==
+
+The bare hull was built and launched on speculation in 1989-1990 by Perini Navi at its newly acquired shipyard in Tuzla, Istanbul, but found no takers in the aftermath of the Gulf War. Tom Perkins, a keen yachtsman and the owner of the two Andromeda La Dea Perini ketches, took an interest in the hull. In 2001 he hired Dutch yacht designers at Dykstra Naval Architects to investigate 19th-century clippers and propose a three-mast square rig for the project. The "DynaRig" concept, a 1960s invention by German hydraulics engineer Wilhelm Prölss intended to operate cargo ships with a fuel-saving philosophy and as few crew as possible, met with Perkins' approval, and the project was signed into build in Tuzla. The three self-standing rotating carbonfiber masts were not a Perini Navi deliverable; they were manufactured and fitted to the yacht at the Perini Navi premises in Tuzla under the direct responsibility of Perkins and the supervision of Insensys, Ltd, a British carbonfiber specialist. Ken Freivokh designed the vessel's interior decoration, and Perini Navi fitted her out.
+The yacht is easily controlled and has been seen to sail off her anchor and away from berths within harbors. The yacht's sophisticated computer detects parameters such as wind speed automatically and displays key data. An operator must always activate the controls, yet it is possible for a single person to operate the yacht. In a radio interview for the BBC World Service's Global Business programme broadcast in December 2007, Perkins claimed that he personally wrote some of the yacht's unique control software.
+On 4 November 2007, in a 60 Minutes profile, Perkins suggested the yacht cost more than $150 million but less than $300 million, refusing to be more specific.
+
+
+== Rig ==
+
+Damon Roberts of Insensys, Ltd. was responsible for designing and manufacturing the DynaRig of Maltese Falcon at the Perini Navi premises in Tuzla, Istanbul. The design, testing and manufacturing of the system was completed over a three-year period. Exhaustive finite element analysis and carbon fiber testing were carried out to ensure that the complete assembly would sustain the loads under sail.
+The DynaRig owes its origin to Wilhelm Prölss' research in the 1960s. The DynaRig consists of freestanding rotating masts with rigid yards and acts as a square rig.  Each of Maltese Falcon's masts supports six yards, which, unlike a conventional square rigger, have built-in camber of 12%. The fifteen square sails are set between the yards in such a way that when deployed there are no gaps in the sail plan of each mast, enabling them to act as a single airfoil. The furling sails are stored in the mast and can be deployed along tracks on the yards in 6 minutes. The sails are trimmed by rotating the masts. As there is no rigging, the masts and yards can be rotated without restriction for all points of sail, making Maltese Falcon a capable upwind clipper.
+The length of the masts measures approximately 57 m (187 ft) above the bottom bearing. As the rig can be tacked to allow flow in both directions, the mast rotates about deck and keel bearings and have symmetrical elliptical sections for better aerodynamics in both flows.
+Insensys also incorporated a fiber optical strain monitoring system into the spars to analyse real time loads under sail. A fiber Bragg grating system was embedded during wet layup of the carbonfiber structure. The loads are transmitted to the bridge monitors.
+
+
+== Prizelist ==
+Maltese Falcon has received industry prizes from shipowners and the press. It has also won the Perini Navi C

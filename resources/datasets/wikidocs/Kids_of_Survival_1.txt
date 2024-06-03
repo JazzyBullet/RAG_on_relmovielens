@@ -1,29 +1,2 @@
 Survival Kids, known as Stranded Kids in Europe and Survival Kids: Kotou no Boukensha ("Adventurer of the Solitary Island") in Japan, is a Game Boy Color game developed by Konami that was released in 1999. The gameplay revolves around surviving on a deserted island. The game features an open-ended structure that presents the player with multiple ways to progress through the game.
 
-
-== Gameplay ==
-The 2D view is characteristic of most adventure games of its generation such as The Legend of Zelda and Pokémon. The player must keep track of hunger, thirst and fatigue meters in addition to the traditional Health Points, which require the accomplishment of everyday tasks such as eating, drinking, and sleeping, as well as hunting, gathering, and finding a place to rest.
-Another important aspect of the game is the item-crafting system. Many elements of the environment can be picked up and collected, although most objects serve no purpose in their original form. However, the game allows the player to combine two or three objects in order to form tools, weapons, and other items to assist in the player character's survival, known in-game as "merging". For example, a vine and a flexible piece of tree can be combined to form a bow; a stick, bird feather and pointed rock can be combined to form arrows; and a flexible piece of tree can be combined with a discovered line of fishing gut to form a fishing rod.
-Many of the items, such as kindling, arrows and torches, degrade over time and ultimately break, making the building of additional items necessary. Foods, such as meats, can go rotten in just an in-game day, but the player can merge cooked meats with flora identified as spices in order to preserve them; although there are about 15 set types of flora in the game, their effects when eaten get switched around in every new game.
-The game features a non-linear structure, giving the player the freedom to progress through the game without specific goals in mind beyond attaining the basic necessities of survival. While the gameplay is free and unrestrained by any real plotline, there are a host of different endings dependent on discoveries the player makes, what objects the player has crafted, the current situation after a particular amount of time has elapsed, and so on.
-
-
-== Plot ==
-The background of the game's story is minimal. All that is truly known is that the player character, either a boy named Ken (Kou in Japan), or a girl named Mery (Nami in Japan) (the names are optional), has become stranded on a deserted island after a storm capsizes the player's boat, and must actively work to survive and possibly find a way to escape back to civilization. Interaction with other characters is scarce or entirely absent, depending on how the player chooses to progress throughout the game.
-
-
-== Reception ==
-
-The game received "favorable" reviews according to video game review aggregator GameRankings. Retro Gamer included it on their list of top ten Game Boy Color games.
-
-
-== Sequels ==
-A sequel, Survival Kids 2: Dasshutsu! Futago Shima ("Survival Kids 2: Escape the Twin Islands") was released on July 19, 2000. Like the original, it featured multiple endings, but also added multiple openings and Game Link Cable support.
-The series was continued on the Nintendo DS with Lost in Blue, Lost in Blue 2, and Lost in Blue 3 released worldwide in 2005, 2007, and 2008 respectively. The Japanese versions of the game retain the Survival Kids title. A Wii game titled Survival Kids Wii was released in 2008 for the series pre-release in Japan, and Lost in Blue: Shipwrecked for the North American release.
-
-
-== References ==
-
-
-== External links ==
-Survival Kids at MobyGames

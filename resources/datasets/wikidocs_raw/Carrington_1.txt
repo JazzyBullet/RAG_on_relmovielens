@@ -1,0 +1,29 @@
+The Carrington Event was the most intense geomagnetic storm in recorded history, peaking on 1–2 September 1859 during solar cycle 10. It created strong auroral displays that were reported globally and caused sparking and even fires in telegraph stations. The geomagnetic storm was most likely the result of a coronal mass ejection (CME) from the Sun colliding with Earth's magnetosphere.
+The geomagnetic storm was associated with a very bright solar flare on 1 September 1859. It was observed and recorded independently by British astronomers Richard Carrington and Richard Hodgson—the first records of a solar flare. A geomagnetic storm of this magnitude occurring today has the potential to cause widespread electrical disruptions, blackouts and damage due to extended cuts of the electrical power grid.
+
+
+== History ==
+
+
+=== Geomagnetic storm ===
+
+On 1 and 2 September 1859, one of the largest geomagnetic storms (as recorded by ground-based magnetometers) occurred. Estimates of the storm strength (Dst) range from −0.80 to −1.75 μT.
+The geomagnetic storm is thought to have been caused by a big coronal mass ejection (CME) that traveled directly toward Earth, taking 17.6 hours to make the 150×10^6 km (93×10^6 mi) journey. Typical CMEs take several days to arrive at Earth, but it is believed that the relatively high speed of this CME was made possible by a prior CME, perhaps the cause of the large aurora event on 29 August that "cleared the way" of ambient solar wind plasma for the Carrington Event.
+
+
+=== Associated solar flare ===
+Just before noon on 1 September 1859, the English amateur astronomers Richard Carrington and Richard Hodgson independently recorded the earliest observations of a solar flare. Carrington and Hodgson compiled independent reports which were published side by side in Monthly Notices of the Royal Astronomical Society and exhibited their drawings of the event at the November 1859 meeting of the Royal Astronomical Society.
+Because of a geomagnetic solar flare effect (a "magnetic crochet") observed in the Kew Observatory magnetometer record by Scottish physicist Balfour Stewart, and a geomagnetic storm observed the following day, Carrington suspected a solar–terrestrial connection. Worldwide reports of the effects of the geomagnetic storm of 1859 were compiled and published by American mathematician Elias Loomis, which support the observations of Carrington and Stewart.
+
+
+== Impact ==
+
+
+=== Auroras ===
+
+Auroras were seen around the world in the northern and southern hemispheres. The aurora borealis over the Rocky Mountains in the United States was so bright that the glow woke gold miners, who were reported to have begun to prepare breakfast because they thought it was morning. It was also reported that people in the north-eastern United States could read a newspaper by the aurora's light. The aurora was also visible from the poles to low latitude areas such as south-central Mexico, Cuba, Hawaii, Queensland, southern Japan and China, and even at lower latitudes very close to the equator, such as in Colombia.
+On Saturday 3 September 1859, the Baltimore American and Commercial Advertiser reported that
+
+Those who happened to be out late on Thursday night had an opportunity of witnessing another magnificent display of the auroral lights. The phenomenon was very similar to the display on Sunday night, though at times the light was, if possible, more brilliant, and the prismatic hues more varied and gorgeous. The light appeared to cover the whole firmament, apparently like a luminous cloud, through which the stars of the larger magnitude indistinctly shone. The light was greater than that of the moon at its full, but had an indescribable softness and delicacy that seemed to envelop everything upon which it rested. Between 12 and 1 o'clock, when the display was at its full brilliancy, the quiet streets of the city resting under this strange light, presented a beautiful as well as singular appearance.
+
+In 1909, an Australian gol

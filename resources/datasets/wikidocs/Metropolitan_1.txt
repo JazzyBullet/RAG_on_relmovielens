@@ -1,20 +1,2 @@
 The Metropolitan (stylised as MetropolitaN) was a premium passenger train service between the cities of Cologne and Hamburg in Germany. Meant as an alternative to air transport, the first-class-only trains were operated from 1 August 1999 until 11 December 2004 by the Metropolitan Express Train GmbH (MET GmbH) based in Bad Homburg, a wholly owned subsidiary of the DB Fernverkehr AG wholly owned subsidiary of Deutsche Bahn AG. Service was discontinued in December 2004 due to low usage and profitability; the trainsets were deployed in InterCity and Intercity Express traffic before being retired at the end of 2021, when they were offered for sale.
 
-
-== Operator ==
-The operating company, Metropolitan Express Train GmbH, was established in December 1996 as a subsidiary of DB Fernverkehr (then named DB Reise&Touristik), itself a subsidiary of Deutsche Bahn AG. MET GmbH was the fourth company besides DB Reise&Touristik (the first three companies being CityNightLine, Thalys, and Cisalpino) to operate long-distance trains in Germany after the 1994 rail reform. After the service was discontinued in December 2004, MET GmbH was dissolved and reacquired by DB Fernverkehr.
-
-
-== Rolling stock ==
-Metropolitan Express Train GmbH ordered two specially-made trainsets of seven cars each from the manufacturer FTD Fahrzeugtechnik Dessau in November 1997. The interiors of the cars were produced by Deutsche Werkstätten Hellerau. An option was available for two additional trainsets with different interiors. From a technical perspective, the Metropolitan trainsets are conventional push-pull trains consisting of a locomotive, cars, and a control car. Both sets consist of seven cars, each 26.4 m (87 ft) long. The train's total length, including the Class 101 locomotive, is 204 m (669 ft). The trainsets themselves are based on the ICE 2's cars.
-Before the beginning of production, Deutsche Bahn AG's board of directors considered removing two ICE 2 trainsets from production and modifying them with a special interior for the Metropolitan. Several cars were painted in Metropolitan colors and prepared for conversion. This plan was cancelled due to high costs and time constraints. The planned conversion of preexisting cars was also cancelled.
-The Metropolitan trains have an operational top speed of 220 km/h (140 mph), though they were not used at speeds higher than 200 km/h (120 mph) until 2009 when both seven-car trains were merged into a single eleven-car trainset. This is the fastest top speed of any conventional locomotive-hauled train in Germany; only Intercity Express trains have higher top speeds. The Metropolitan was presented at the 1999 ITB Berlin trade show. The first trainset was delivered on 14 June 1999; the second was delivered on 12 July. Both trains were based at the depot in Eidelstedt.
-
-
-=== Operational restrictions ===
-The Metropolitan cars are slightly larger than standard InterCity cars with an empty mass of 55 to 59 tonnes and a width of 2,824 mm (111.2 in). Depending on the number of seats and interior layout, the cars weigh between 59 and 63 tonnes when fully loaded. Prior to 2010, they were operationally grouped with the ICE 1 and ICE 2 trains as ICE-A, and from 2011 to 2021, they were grouped as IC-A and operationally dispatched as ICE, IC, or MET by DB Netz. These operational classifications permitted operation exclusively on lines approved for ICE 1 and ICE 2 trains. The trains are equipped to operate using 1 kV 16.7 Hz head-end power. The Metropolitan trainsets are not approved for operation on third-party networks. When the trainsets were operated using locomotives other than the four modified Class 101 locomotives, their speed was limited to 200 km/h (120 mph).
-
-
-== Operations ==
-The beginning of operations was preceded by investigations into ten routes where the train could compete with plane travel. The Cologne–Hamburg route received the highest value in the investigations, with the Frankfurt–Munich route placing second.
-Metrop

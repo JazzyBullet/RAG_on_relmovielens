@@ -1,0 +1,141 @@
+In geometry, a cube is a three-dimensional solid object bounded by six square faces, facets, or sides, with three meeting at each vertex. Viewed from a corner, it is a hexagon and its net is usually depicted as a cross.
+The cube is the  only regular hexahedron and is one of the five Platonic solids. It has 6 faces, 12 edges, and 8 vertices.
+The cube is also a square parallelepiped, an equilateral cuboid, a right rhombohedron, and a 3-zonohedron. It is a regular square prism in three orientations, and a trigonal trapezohedron in four orientations.
+The cube is dual to the octahedron. It has cubical or octahedral symmetry, and is the only convex polyhedron whose faces are all squares. Its generalization for higher-dimensional spaces is called a hypercube.
+
+
+== Orthogonal projections ==
+The cube has four special orthogonal projections, centered, on a vertex, edges, face and normal to its vertex figure. The first and third correspond to the A2 and B2 Coxeter planes.
+
+
+== Spherical tiling ==
+
+The cube can also be represented as a spherical tiling, and projected onto the plane via a stereographic projection. This projection is conformal, preserving angles but not areas or lengths. Straight lines on the sphere are projected as circular arcs on the plane.
+
+
+== Cartesian coordinates ==
+For a cube centered at the origin, with edges parallel to the axes and with an edge length of 2, the Cartesian coordinates of the vertices are
+
+(±1, ±1, ±1)
+while the interior consists of all points (x0, x1, x2) with −1 < xi < 1 for all i.
+
+
+=== As a configuration ===
+This configuration matrix represents the cube. The rows and columns correspond to vertices, edges, and faces. The diagonal numbers say how many of each element occur in the whole cube. The nondiagonal numbers say how many of the column's element occur in or at the row's element. For example, the 2 in the first column of the middle row indicates that there are 2 vertices in (i.e., at the extremes of) each edge; the 3 in the middle column of the first row indicates that 3 edges meet at each vertex.
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    
+                      
+                        
+                          8
+                        
+                        
+                          3
+                        
+                        
+                          3
+                        
+                      
+                      
+                        
+                          2
+                        
+                        
+                          12
+                        
+                        
+                          2
+                        
+                      
+                      
+                        
+                          4
+                        
+                        
+                          4
+                        
+                        
+                          6
+                        
+                      
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}{\begin{matrix}8&3&3\\2&12&2\\4&4&6\end{matrix}}\end{bmatrix}}}
+  
+
+
+== Equation in three dimensional space ==
+In analytic geometry, a cube's surface with center (x0, y0, z0) and edge length of 2a is the locus of all points (x, y, z) such that
+
+  
+    
+      
+        max
+        {
+        
+          |
+        
+        x
+        −
+        
+          x
+          
+            0
+          
+        
+        
+          |
+        
+        ,
+        
+          |
+        
+        y
+        −
+        
+          y
+          
+            0
+          
+        
+        
+          |
+        
+        ,
+        
+          |
+        
+        z
+        −
+        
+          z
+          
+            0
+          
+        
+        
+          |
+        
+        }
+        =
+        a
+        .
+      
+   

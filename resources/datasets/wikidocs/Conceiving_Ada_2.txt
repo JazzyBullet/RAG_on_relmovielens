@@ -5,11 +5,3 @@ When she was eighteen, her mathematical talents led her to a long working relati
 Between 1842 and 1843, Ada translated an article by the military engineer Luigi Menabrea (later Prime Minister of Italy) about the Analytical Engine, supplementing it with an elaborate set of seven notes, simply called "Notes".
 Lovelace's notes are important in the early history of computers, especially since the seventh one contained what many consider to be the first computer program—that is, an algorithm designed to be carried out by a machine. Other historians reject this perspective and point out that Babbage's personal notes from 1837 to 1840 contain the first programs for the engine. She also developed a vision of the capability of computers to go beyond mere calculating or number-crunching, while many others, including Babbage himself, focused only on those capabilities. Her mindset of "poetical science" led her to ask questions about the Analytical Engine (as shown in her notes), examining how individuals and society relate to technology as a collaborative tool. The coding language Ada is named for her.
 
-
-== Biography ==
-
-
-=== Childhood ===
-Lord Byron expected his child to be a "glorious boy" and was disappointed when Lady Byron gave birth to a girl. The child was named after Byron's half-sister, Augusta Leigh, and was called "Ada" by Byron himself. On 16 January 1816, at Lord Byron's command, Lady Byron left for her parents' home at Kirkby Mallory, taking their five-week-old daughter with her. Although English law at the time granted full custody of children to the father in cases of separation, Lord Byron made no attempt to claim his parental rights, but did request that his sister keep him informed of Ada's welfare.
-
-On 21 April, Lord Byron signed the deed of separation, although very reluctantly, and left England for good a few days later. Aside from an acrimonious separation, Lady Byron continued throughout her life to make allegations about her husband's immoral behaviour. This set of events made Lovelace infamous in Victorian society. Ada did not have a relationship with 

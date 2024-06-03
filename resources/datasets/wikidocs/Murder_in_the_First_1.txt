@@ -1,30 +1,3 @@
 Murder is the unlawful killing of another human without justification or valid excuse committed with the necessary intention as defined by the law in a specific jurisdiction. This state of mind may, depending upon the jurisdiction, distinguish murder from other forms of unlawful homicide, such as manslaughter.  Manslaughter is killing committed in the absence of malice, such as in the case of voluntary manslaughter brought about by reasonable provocation, or diminished capacity. Involuntary manslaughter, where it is recognized, is a killing that lacks all but the most attenuated guilty intent, recklessness.
 Most societies consider murder to be an extremely serious crime, and thus believe that a person convicted of murder should receive harsh punishments for the purposes of retribution, deterrence, rehabilitation, or incapacitation. In most countries, a person convicted of murder generally receives a long-term prison sentence, a life sentence, or capital punishment.
 
-
-== Etymology ==
-The modern English word "murder" descends from the Proto-Indo-European *mŕ̥-trom which meant "killing", a noun derived from *mer- "to die".
-Proto-Germanic, in fact, had two nouns derived from this word, later merging into the modern English noun: *murþrą "death, killing, murder" (directly from Proto-Indo-European*mŕ̥-trom), whence Old English morðor "secret or unlawful killing of a person, murder; mortal sin, crime; punishment, torment, misery"; and *murþrijô "murderer; homicide" (from the verb *murþrijaną "to murder"), giving Old English myrþra "homicide, murder; murderer". There was a third word for "murder" in Proto-Germanic, continuing Proto-Indo-European *mr̥tós "dead" (compare Latin mors), giving Proto-Germanic *murþą "death, killing, murder" and Old English morþ "death, crime, murder" (compare German Mord).
-The -d- first attested in Middle English mordre, mourdre, murder, murdre could have been influenced by Old French murdre, itself derived from the Germanic noun via Frankish *murþra (compare Old High German murdreo, murdiro), though the same sound development can be seen with burden (from burthen). The alternative murther (attested up to the 19th century) springs directly from the Old English forms. Middle English mordre is a verb from Anglo-Saxon myrðrian from Proto-Germanic *murþrijaną, or, according to the Oxford English Dictionary, from the noun.
-
-
-== Use of the term ==
-In many countries, out of concern for being accused of defamation, journalists are generally careful not to identify a suspect as a murderer until the suspect is convicted of murder in a court of law. After arrest, for example, journalists may instead write that the person was "arrested on suspicion of murder", or, after a prosecutor files charges, as an "accused murderer".
-Opponents of abortion consider abortion a form of murder. In some countries, a fetus is a legal person who can be murdered, and killing a pregnant woman is considered a double homicide.
-
-
-== Definition ==
-The eighteenth-century English jurist William Blackstone (citing Edward Coke), in his Commentaries on the Laws of England set out the common law definition of murder, which by this definition occurs
-
-when a person, of sound memory and discretion, unlawfully kills any reasonable creature in being and under the king's peace, with malice aforethought, either express or implied. At common law, murder was normally punishable by death.
-The elements of common law murder are:
-
-unlawful
-killing
-through criminal act or omission
-of a human
-by another human
-intentional killing
-with malice aforethought.
-Unlawful – This distinguishes murder from killings that are done within the boundaries of law, such as capital punishment, justified self-defense, or the killing of enemy combatants by lawful combatants as well as causing collateral damage to non-combatants during a war.
-Killing – At common law life ended with cardiopulmonary arrest – the total and irreversible cessation of blood circulation and respiration. With

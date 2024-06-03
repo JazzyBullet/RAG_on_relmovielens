@@ -1,22 +1,2 @@
 Wing Commander is a media franchise consisting of space combat simulation video games from Origin Systems, Inc., an animated television series, a feature film, a collectible card game, a series of novels, and action figures. The franchise originated in 1990 with the release of video game Wing Commander.
 
-
-== Setting and gameplay ==
-Set in the 27th century, the games tell the story of humanity's war against the Kilrathi, an alien species of large feline bipeds. The Kilrathi are native to the planet Kilrah with their society depicted as an empire. Physically they are bipeds who strongly resemble big cats: they have leonine manes, but also have markings which distinguish their clan of origin. The species is featured in every game, with later games revealing more complex characters than just a faceless enemy. Later games would move on from the Kilrathi war setting, with Wing Commander IV: The Price of Freedom being about a conspiracy within the ranks and Wing Commander: Prophecy and Secret Ops telling the battles against a new enemy known as the Nephilim.
-The player represents the Terran Confederation, the primary human government in the Wing Commander series. The Terran Confederation is an alliance of systems and regional governments which provide unified protection and economic growth. Launching from carrier ships, the player fulfills various missions in space fighter aircraft. The games were all notable for their storytelling through extensive cutscenes. Starting with Wing Commander III, every game (excluding Secret Ops) contained cutscenes that incorporated live action filming, starring several major Hollywood actors, including John Rhys-Davies, Mark Hamill, Thomas F. Wilson and Malcolm McDowell, as well as Christopher Walken, John Hurt, and Clive Owen in Privateer 2: The Darkening.
-
-
-== Games ==
-
-The Wing Commander game series began in 1990 with Wing Commander. The newest addition to the series, Wing Commander Arena, was released for the Xbox Live Arcade service on July 25, 2007.
-
-
-=== Wing Commander ===
-
-The player begins his tour of duty as a young space fighter pilot on the carrier the TCS Tiger's Claw. The player can set this character's name and callsign in the first games in the franchise. As of Wing Commander 3, the protagonist is given the canonical name Christopher "Maverick" Blair. Through the player's heroic efforts, the Confederation is able to destroy the Kilrathi's sector headquarters and drive them from the Vega sector. Through the course of the Vega campaign, the player can gain numerous promotions and medals and fly in various squadrons, each featuring a different fighter. The game was notable for its innovative and seldom-repeated "campaign tree" structure, whereby the "path" the player took on the way to the end would be determined by the player's performance on preceding missions. In-game cinematics in "newsreel" format reflected the success or failure of the player and the Claw.
-Originally announced as Squadron, the name was changed to Wingleader shortly into development; however, trademark issues forced a name change to Wing Commander at the last moment. The development team's nickname for the otherwise-unnamed protagonist was "Bluehair", due to his unusual shade of hair. Perhaps in a nod to this in-joke, when the character was given an actual name in later installments, Origin chose "Blair", a shortened version of the old nickname. Wing Commander was ported to the Amiga,  FM Towns, SNES, Mega-CD, Amiga CD32, 3DO, Mac OS, and PlayStation Portable systems, the most ports of any Wing Commander game. In the Sega CD port which added voice acting, the player character was given the callsign of "HotShot" to allow him to be addressed by voice.
-In 1991, Wing Commander won the Origins Award for Best Fantasy or Science Fiction Computer Game of 1990.
-
-
-==== The Secret Missions ====
-A new Kilrathi secret weapon destroys the Terran colony of Goddard. In retribution, the Confederation plans a daring raid, Operation Th

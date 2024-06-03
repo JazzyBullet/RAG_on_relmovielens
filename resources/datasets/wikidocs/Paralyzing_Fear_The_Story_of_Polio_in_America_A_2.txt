@@ -3,17 +3,3 @@ The inactivated polio vaccines are very safe. Mild redness or pain may occur at 
 The first successful demonstration of a polio vaccine was by Hilary Koprowski in 1950, with a live attenuated virus which people drank. The vaccine was not approved for use in the United States, but was used successfully elsewhere. The success of an inactivated (killed) polio vaccine, developed by Jonas Salk, was announced in 1955. Another attenuated live oral polio vaccine was developed by Albert Sabin and came into commercial use in 1961.
 Polio vaccine is on the World Health Organization's List of Essential Medicines.
 
-
-== Medical uses ==
-
-Interruption of person-to-person transmission of the virus by vaccination is important in global polio eradication, since no long-term carrier state exists for poliovirus in individuals with normal immune function, polio viruses have no non-primate reservoir in nature, and survival of the virus in the environment for an extended period of time appears to be remote. There are two types of vaccine: inactivated polio vaccine (IPV) and oral polio vaccine (OPV).
-
-
-=== Inactivated ===
-When the IPV (injection) is used, 90% or more of individuals develop protective antibodies to all three serotypes of polio virus after two doses of inactivated polio vaccine (IPV), and at least 99% are immune to polio virus following three doses. The duration of immunity induced by IPV is not known with certainty, although a complete series is thought to provide protection for many years. IPV replaced the oral vaccine in many developed countries in the 1990s mainly due to the (small) risk of vaccine-derived polio in the oral vaccine.
-
-
-=== Attenuated ===
-Oral polio vaccines were easier to administer than IPV, as it eliminated the need for sterile syringes and therefore was more suitable for mass vaccination campaigns. OPV also provided longer-lasting immunity than the Salk vaccine, as it provides both humoral immunity and cell-mediated immunity.
-One dose of OPV produces immunity to all three poliovirus serotypes in roughly 50% of recipients. Three doses of live-attenuated OPV produce protective antibodies to all three poliovirus types in more than 95% of recipients. OPV produces excellent immunity in the intestine, the primary site of wild poliovirus entry, which helps prevent infection with wild virus in areas where the virus is endemic. The live virus used in the vaccine can rarely shed in the stool and can rarely spread to others within a community. The live virus also has stringent requirements for transport and storage, which are a problem in some hot or remote areas. As with other live-virus vaccines, immunity initiated by OPV is probably lifelong.
-The trivalent (against wild types 1, 2, and 3) OPV has been used to nearly eradicate polio infection worldwide. Led by the Global Polio Eradication Initiative, 155 countries switched to use the bivalent (against wild t

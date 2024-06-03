@@ -2,20 +2,3 @@ Six degrees of separation is the idea that all people are six or fewer social co
 The concept was originally set out in a 1929 short story by Frigyes Karinthy, in which a group of people play a game of trying to connect any person in the world to themselves by a chain of five others. It was popularized in John Guare's 1990 play Six Degrees of Separation.
 The idea is sometimes generalized to the average social distance being logarithmic in the size of the population.
 
-
-== Early conceptions ==
-
-
-=== Shrinking world ===
-Theories on optimal design of cities, city traffic flows, neighborhoods, and demographics were in vogue after World War I. These conjectures were expanded in 1929 by Hungarian author Frigyes Karinthy, who published a volume of short stories titled Everything Is Different. One of these pieces was titled "Chains" or "Chain-Links". The story investigated—in abstract, conceptual, and fictional terms—many of the problems that captivated future generations of mathematicians, sociologists, and physicists within the field of network theory. 
-Technological advances in communications and travel enabled friendship networks to grow larger and span greater distances. In particular, Karinthy believed that the modern world was "shrinking" from this ever-increasing connectedness of human beings. He posited that despite great physical distances between the globe's individuals, the growing density of human networks made the actual social distance far smaller.
-
-As a result of this hypothesis, Karinthy's characters believed that any two individuals could be connected through at most five acquaintances. In his story, the characters create a game out of this notion. He wrote:A fascinating game grew out of this discussion. One of us suggested performing the following experiment to prove that the population of the Earth is closer together now than they have ever been before. We should select any person from the 1.5 billion inhabitants of the Earth—anyone, anywhere at all. He bet us that, using no more than five individuals, one of whom is a personal acquaintance, he could contact the selected individual using nothing except the network of personal acquaintances.
-This idea influenced a great deal of early thought on social networks, both directly and indirectly. Karinthy has been regarded as the originator of the notion of six degrees of separation.
-A related theory deals with the quality of connections, rather than their existence. The theory of three degrees of influence was created by Nicholas A. Christakis and James H. Fowler.
-
-
-=== Small world ===
-
-Michael Gurevich conducted seminal work in his empirical study of the structure of social networks in his 1961 Massachusetts Institute of Technology PhD dissertation under Ithiel de Sola Pool. Mathematician Manfred Kochen, an Austrian who had been involved in urban design, extrapolated these empirical results in a mathematical manuscript, Contacts and Influences, concluding that in a U.S.-sized population without social structure, "it is practically certain that any two individuals can contact one another by means of at most two intermediaries. In a [socially] structured population it is less likely but still seems probable. And perhaps for the whole world's population, probably only one more bridging individual should be needed." They subsequently constructed Monte Carlo simulations based on Gurevich's data, which recognized that both weak and strong acquaintance links are needed to model social structure. The simulations, carried out on the relatively limited computers of 1973, were nonetheless able to predict that a more realistic three degrees of separation existed across the U.S. population, foreshadowing the findings of American psychologist Stanley Milgram.
-Milgram continued Gurevich's expe

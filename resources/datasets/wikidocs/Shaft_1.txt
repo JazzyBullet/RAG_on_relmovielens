@@ -2,22 +2,3 @@ A drive shaft, driveshaft, driving shaft, tailshaft (Australian English), propel
 As torque carriers, drive shafts are subject to torsion and shear stress, equivalent to the difference between the input torque and the load. They must therefore be strong enough to bear the stress, while avoiding too much additional weight as that would in turn increase their inertia.
 To allow for variations in the alignment and distance between the driving and driven components, drive shafts frequently incorporate one or more universal joints, jaw couplings, or rag joints, and sometimes a splined joint or prismatic joint.
 
-
-== History ==
-The term driveshaft first appeared during the mid-19th century.  In Stover's 1861 patent reissue for a planing and matching machine, the term is used to refer to the belt-driven shaft by which the machine is driven.  The term is not used in his original patent.  Another early use of the term occurs in the 1861 patent reissue for the Watkins and Bryson horse-drawn mowing machine.
-Here, the term refers to the shaft transmitting power from the machine's wheels to the gear train that works the cutting mechanism.
-In the 1890s, the term began to be used in a manner closer to the modern sense.  In 1891, for example, Battles referred to the shaft between the transmission and driving trucks of his Climax locomotive as the drive shaft, and Stillman referred to the shaft linking the crankshaft to the rear axle of his shaft-driven bicycle as a drive shaft.  In 1899, Bukey used the term to describe the shaft transmitting power from the wheel to the driven machinery by a universal joint in his Horse-Power.  In the same year, Clark described his Marine Velocipede using the term to refer to the gear-driven shaft transmitting power through a universal joint to the propeller shaft.  Crompton used the term to refer to the shaft between the transmission of his steam-powered Motor Vehicle of 1903 and the driven axle.
-The pioneering automobile industry company, Autocar, was the first to use a drive shaft in a gasoline-powered car. Built in 1901, today this vehicle is in the collection of the Smithsonian Institution.
-
-
-== Automotive drive shaft ==
-
-
-=== Vehicles ===
-An automobile may use a longitudinal shaft to deliver power from an engine/transmission to the other end of the vehicle before it goes to the wheels. A pair of short drive shafts is commonly used to send power from a central differential, transmission, or transaxle to the wheels.
-
-
-==== Front-engine, rear-wheel drive ====
-
-In front-engined, rear-wheel drive vehicles, a longer drive shaft is also required to send power the length of the vehicle. Two forms dominate: The torque tube with a single universal joint and the more common Hotchkiss drive with two or more joints.  This system became known as Système Panhard after the automobile company Panhard et Levassor which patented it.
-Most of these vehicles have a clutch and gearbox (or transmission) mounted directly on the engine, with a drive shaft leading to a final drive in the rear axle. When the vehicle is stationary, the drive shaft does not rotate. Some vehicles (generally sports cars, such as the Chevrolet Corvette C5/C6/C7, Alfa Romeo Alfetta and Porsche 924/944/928), seeking improved weight balance between front and rear, use a rear-mounted transaxle. In some non-Porsche models, this places the clutch and transmission at the rear of the car and the drive shaft between them and the engine. In this case the drive shaft rotates continuously with the engine, even when the car is stationary and out of gear. However, the Porsche 924/944/928 models have the clutch mounted to the back of the engine in a bell housing and the dr

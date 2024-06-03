@@ -1,0 +1,20 @@
+Microsoft Windows is a product line of proprietary graphical operating systems developed and marketed by Microsoft. It is grouped into families and sub-families that cater to particular sectors of the computing industry – Windows (unqualified) for a consumer or corporate workstation, Windows Server for a server and Windows IoT for an embedded system. Defunct families include Windows 9x, Windows Mobile, Windows Phone, and Windows Embedded Compact.
+The first version of Windows was released on November 20, 1985, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).
+Windows is the most popular desktop operating system in the world, with a 70% market share as of March 2023, according to StatCounter. However, Windows is not the most used operating system when including both mobile and desktop OSes, due to Android's massive growth.
+As of 2024, the most recent version of Windows is Windows 11 for consumer PCs and tablets, Windows 11 Enterprise for corporations, and Windows Server 2022 for servers. Still supported are some editions of Windows 10, Windows Server 2016 and later (and exceptionally with paid support down to Windows Server 2012 and Windows Embedded POSReady 7).
+
+
+== Product line ==
+As of 2024, the only active top-level family is Windows NT. The first version, Windows NT 3.1, was intended for server computing and corporate workstations. It grew into a product line of its own and now consists of four sub-families that tend to be released almost simultaneously and share the same kernel.
+
+Windows (unqualified): For a consumer or corporate workstation or tablet. The latest version is Windows 11. Its main competitors are macOS by Apple for personal computers and iPadOS and Android for tablets (c.f. Usage share of operating systems § Market share by category).
+Of note: 'Windows' refers to both the overall product line and to this sub-family of it.
+Windows Server: For a server computer. The latest version is Windows Server 2022. Unlike its client sibling, it has adopted a strong naming scheme. The main competitor of this family is Linux. (c.f. Usage share of operating systems § Market share by category)
+Windows PE: A lightweight version of its Windows sibling, meant to operate as a live operating system, used for installing Windows on bare-metal computers (especially on many computers at once), recovery, or troubleshooting purposes. The latest version is Windows PE 10.
+Windows IoT (previously Windows Embedded): For IoT and embedded computers. The latest version is Windows 11 IoT Enterprise. Like Windows Server, the main competitor of this family is Linux. (c.f. Usage share of operating systems § Market share by category)
+These top-level Windows families are no longer actively developed:
+
+Windows 9x: Intended for the consumer market only. The first version of this family was Windows 95, which was followed by Windows 98. The last version of the Windows 9x family was Windows Me, which PC World called it as one of the worst products of all time, labeling it as "Mistake Edition" and placing it 4th in their list of Worst Tech Products in 2006. All versions of this family have a monolithic kernel that uses MS-DOS as a foundation along with the kernel first used with Windows 95. Microsoft now caters to the consumer market with Windows NT starting with Windows XP.
+Windows Mobile: The predecessor to Windows Phone, a mobile phone and PDA operating system. The first version was called Pocket PC 2000. The third version, Windows Mobile 2003, was the first version to adopt the Windows Mobile trademark. The last version was Windows Mobile 6.5.
+Windows Phone: Sold only to smartphone manufacturers. The first version was Windows Phone 7, followed by Windows Phone 8 and Windows Phone 8.1. It was succeeded by Windows 10 Mobile, which is also discontinued.
+Windows Embedded Compact: Most commonly known by its former name, Windows CE, it is a hybrid kernel operating system optimized for l

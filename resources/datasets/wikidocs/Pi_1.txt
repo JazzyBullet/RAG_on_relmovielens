@@ -19,29 +19,3 @@ For thousands of years, mathematicians have attempted to extend their understand
 The invention of calculus soon led to the calculation of hundreds of digits of π, enough for all practical scientific computations. Nevertheless, in the 20th and 21st centuries, mathematicians and computer scientists have pursued new approaches that, when combined with increasing computational power, extended the decimal representation of π to many trillions of digits. These computations are motivated by the development of efficient algorithms to calculate numeric series, as well as the human quest to break records. The extensive computations involved have also been used to test supercomputers as well as stress testing consumer computer hardware.
 Because its definition relates to the circle, π is found in many formulae in trigonometry and geometry, especially those concerning circles, ellipses and spheres. It is also found in formulae from other topics in science, such as cosmology, fractals, thermodynamics, mechanics, and electromagnetism. It also appears in areas having little to do with geometry, such as number theory and statistics, and in modern mathematical analysis can be defined without any reference to geometry. The ubiquity of π makes it one of the most widely known mathematical constants inside and outside of science. Several books devoted to π have been published, and record-setting calculations of the digits of π often result in news headlines.
 
-
-== Fundamentals ==
-
-
-=== Name ===
-The symbol used by mathematicians to represent the ratio of a circle's circumference to its diameter is the lowercase Greek letter π, sometimes spelled out as pi. In English, π is pronounced as "pie" ( PY). In mathematical use, the lowercase letter π is distinguished from its capitalized and enlarged counterpart Π, which denotes a product of a sequence, analogous to how Σ denotes summation.
-The choice of the symbol π is discussed in the section Adoption of the symbol π.
-
-
-=== Definition ===
-
-π is commonly defined as the ratio of a circle's circumference C to its diameter d:
-
-The ratio 
-  
-    
-      
-        
-          
-            C
-            d
-          
-        
-      
-    
-    {

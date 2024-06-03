@@ -2,16 +2,3 @@ An airplane (American English) or aeroplane (Commonwealth English), informally p
 The Wright brothers invented and flew the first airplane in 1903, recognized as "the first sustained and controlled heavier-than-air powered flight". They built on the works of George Cayley dating from 1799, when he set forth the concept of the modern airplane (and later built and flew models and successful passenger-carrying gliders) and the work of German pioneer of human aviation Otto Lilienthal, who, between 1867 and 1896, also studied heavier-than-air flight. Lilienthal's flight attempts in 1891 are seen as the beginning of human flight.
 Following its limited use in World War I, aircraft technology continued to develop. Airplanes had a presence in all the major battles of World War II. The first jet aircraft was the German Heinkel He 178 in 1939. The first jet airliner, the de Havilland Comet, was introduced in 1952. The Boeing 707, the first widely successful commercial jet, was in commercial service for more than 50 years, from 1958 to at least 2013.
 
-
-== Etymology and usage ==
-First attested in English in the late 19th century (prior to the first sustained powered flight), the word airplane, like aeroplane, derives from the French aéroplane, which comes from the Greek ἀήρ (aēr), "air" and either Latin planus, "level", or Greek πλάνος (planos), "wandering". "Aéroplane" originally referred just to the wing, as it is a plane moving through the air. In an example of synecdoche, the word for the wing came to refer to the entire aircraft.
-In the United States and Canada, the term "airplane" is used for powered fixed-wing aircraft. In the United Kingdom and Ireland and most of the Commonwealth, the term "aeroplane" () is usually applied to these aircraft.
-
-
-== History ==
-
-
-=== Antecedents ===
-Many stories from antiquity involve flight, such as the Greek legend of Icarus and Daedalus, and the Vimana in ancient Indian epics. Around 400 BC in Greece, Archytas was reputed to have designed and built the first artificial, self-propelled flying device, a bird-shaped model propelled by a jet of what was probably steam, said to have flown some 200 m (660 ft). This machine may have been suspended for its flight.
-Some of the earliest recorded attempts with gliders were those by the 9th-century Andalusian and Arabic-language poet Abbas ibn Firnas and the 11th-century English monk Eilmer of Malmesbury; both experiments injured their pilots. Leonardo da Vinci researched the wing design of birds and designed a man-powered aircraft in his Codex on the Flight of Birds (1502), noting for the first time the distinction between the center of mass and the center of pressure of flying birds.
-In 1799, George Cayley set forth the concept of the modern airplane as a fixed-wing flying machine with separate systems for lift, propulsion, and control. Cayley was building and flying models of fixed-wing aircraft as early as 1803, and he built a successful passenger-carrying glider in 1853. In 1856, Frenchman Jean-Marie Le Bris made the first powered flight, by having his glider "L'Albatros artificiel" pulled by a horse on a beach. Then the Russian Alexander F. Mozhaisky also made some innovative designs. In 1883, the American John J. Montgomery made a controlled flight in a glider. Other aviators who made similar flights 

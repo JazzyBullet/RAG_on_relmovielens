@@ -1,0 +1,22 @@
+Réseaux IP Européens (RIPE, French for "European IP Networks") is a forum open to all parties with an interest in the technical development of the Internet. The RIPE community's objective is to ensure that the administrative and technical coordination necessary to maintain and develop the Internet continues. It is not a standards body like the Internet Engineering Task Force (IETF) and does not deal with domain names like ICANN.
+RIPE is not a legal entity and has no formal membership. This means that anybody who is interested in the work of RIPE can participate through mailing lists and by attending meetings. RIPE has a chair to keep an eye on work between RIPE meetings and to act as its external liaison. Rob Blokzijl, who was instrumental in the formation of RIPE, was the initial chair and remained in that position until 2014, when he appointed Hans Petter Holen as his successor. The RIPE community interacts via RIPE Mailing Lists, RIPE Working Groups, and RIPE Meetings.
+Although similar in name, the RIPE NCC and RIPE are separate entities. The RIPE NCC provides administrative support to RIPE, such as the facilitation of RIPE meetings and providing administrative support to RIPE Working Groups. It was established in 1992 by the RIPE community to serve as an administrative body.
+
+
+== History ==
+The name is a translation of the English title of a diagram to French by John Quarterman. This was presented in Special Session of RIPE 58.
+The first RIPE meeting was held on 22 May 1989 in Amsterdam, Netherlands. It brought together 14 representatives of 6 countries and 11 networks At the time European governments, standardisation bodies and telecommunications companies were pushing for the OSI standard and IP-based networks were seen as the wrong way to go. In the academic community (mostly nuclear and particle physics) there was a strong need to work together with colleagues across Europe and the United States. IP provided a standard to allow interconnection and cooperation, whereas the networks offered by the European telecommunications companies often completely lacked that.
+
+RIPE as an organisation was established by the RIPE terms of reference, which were agreed on 29 November 1989. There were ten organisations intending to participate in  the RIPE Coordinating Committee, along the lines defined by the RIPE Terms of Reference, though some still needed to make a formal decision. These organisations were: BelWue,  CERN, EASInet, EUnet, GARR, HEPnet, NORDUnet, SURFnet, SWITCH and XLINK. At the same time task forces were established to facilitate the interconnection of European IP-networks in the following weeks and months. The four task forces were:
+
+Connectivity and Routing
+Network Management and Operations
+Domain Name System
+Formal Coordination
+One of the results was a proposal on 16 September 1990 to establish the RIPE Network Coordination Centre (NCC) to support the administrative tasks in the RIPE community and the first RIPE NCC Activity Plan was published in May 1991.
+RIPE asked RARE (one of the predecessors of TERENA) if they would provide the legal framework for the RIPE NCC. After a solicitation procedure, the RIPE NCC began in April 1992 with its headquarters in Amsterdam, Daniel Karrenberg as manager and only two other staff members. Initial funding was provided by the academic networks (RARE members), EARN and EUnet. The RIPE NCC was formally established when the Dutch version of the articles of association was deposited with the Amsterdam Chamber of Commerce on 12 November 1997.
+
+
+== Function ==
+Any document, proposal, procedure or policy that has been proposed and accepted by the RIPE community is published online in the RIPE Document Store.
+The RIPE community develops and sets policies for the technical coordination of the Internet and the management and distribution of Internet resources (IP addresses and Autonomous System Numbers (ASNs)) through an established, open, bottom-up process of discussion and consensus-ba

@@ -3,25 +3,3 @@ The underlying mechanisms vary depending on the disease. It is estimated that di
 It is estimated that up to 90% of CVD may be preventable. Prevention of CVD involves improving risk factors through: healthy eating, exercise, avoidance of tobacco smoke and limiting alcohol intake. Treating risk factors, such as high blood pressure, blood lipids and diabetes is also beneficial. Treating people who have strep throat with antibiotics can decrease the risk of rheumatic heart disease. The use of aspirin in people who are otherwise healthy is of unclear benefit.
 Cardiovascular diseases are the leading cause of death worldwide except Africa. Together CVD resulted in 17.9 million deaths (32.1%) in 2015, up from 12.3 million (25.8%) in 1990. Deaths, at a given age, from CVD are more common and have been increasing in much of the developing world, while rates have declined in most of the developed world since the 1970s. Coronary artery disease and stroke account for 80% of CVD deaths in males and 75% of CVD deaths in females. Most cardiovascular disease affects older adults. In the United States 11% of people between 20 and 40 have CVD, while 37% between 40 and 60, 71% of people between 60 and 80, and 85% of people over 80 have CVD. The average age of death from coronary artery disease in the developed world is around 80, while it is around 68 in the developing world. CVD is typically diagnosed seven to ten years earlier in men than in women.: 48 
 
-
-== Types ==
-
-There are many cardiovascular diseases involving the blood vessels. They are known as vascular diseases.
-
-Coronary artery disease (coronary heart disease or ischemic heart disease)
-Peripheral arterial disease – a disease of blood vessels that supply blood to the arms and legs
-Cerebrovascular disease – a disease of blood vessels that supply blood to the brain (includes stroke)
-Renal artery stenosis
-Aortic aneurysm
-There are also many cardiovascular diseases that involve the heart.
-
-Cardiomyopathy – diseases of cardiac muscle
-Hypertensive heart disease – diseases of the heart secondary to high blood pressure or hypertension
-Heart failure – a clinical syndrome caused by the inability of the heart to supply sufficient blood to the tissues to meet their metabolic requirements
-Pulmonary heart disease – a failure at the right side of the heart with respiratory system involvement
-Cardiac dysrhythmias – abnormalities of heart rhythm
-Inflammatory heart diseases
-Endocarditis – inflammation of the inner layer of the heart, the endocardium. The structures most commonly involved are the heart valves.
-Inflammatory cardiomegaly
-Myocarditis – inflammation of the myocardium, the muscular part of the heart, caused most often by viral infection and less often by bacterial infections, certain medications, toxins, and autoimmune disorders. It is characterized in part by infiltration of the heart by lymphocyte and monocyte types of white blood cells.
-Eosinophilic myocarditis – inflammation of the myocardium caused by pat

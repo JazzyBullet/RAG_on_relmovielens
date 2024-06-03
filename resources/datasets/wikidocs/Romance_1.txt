@@ -1,26 +1,3 @@
 The Romance languages, also known as the Latin or Neo-Latin languages, are the languages that are directly descended from Vulgar Latin. They are the only extant subgroup of the Italic branch of the Indo-European language family.
 The five most widely spoken Romance languages by number of native speakers are Spanish (489 million), Portuguese (240 million), French (80 million), Italian (67 million) and Romanian (24 million), which are all national languages of their respective countries of origin. There are more than 900 million native speakers of Romance languages found worldwide, mainly in the Americas, Europe, and parts of Africa. Portuguese, French and Spanish also have many non-native speakers and are in widespread use as linguae francae. There are also numerous regional Romance languages and dialects.
 
-
-== Name and languages ==
-The term Romance derives from the Vulgar Latin adverb romanice, "in Roman", derived from romanicus: for instance, in the expression romanice loqui, "to speak in Roman" (that is, the Latin vernacular), contrasted with latine loqui, "to speak in Latin" (Medieval Latin, the conservative version of the language used in writing and formal contexts or as a lingua franca), and with barbarice loqui, "to speak in Barbarian" (the non-Latin languages of the peoples living outside the Roman Empire). From this adverb the noun romance originated, which applied initially to anything written romanice, or "in the Roman vernacular".
-Most of the Romance-speaking area in Europe has traditionally been a dialect continuum, where the speech variety of a location differs only slightly from that of a neighboring location, but over a longer distance these differences can accumulate to the point where two remote locations speak what may be unambiguously characterized as separate languages. This makes drawing language boundaries difficult, and as such there is no unambiguous way to divide the Romance varieties into individual languages. Even the criterion of mutual intelligibility can become ambiguous when it comes to determining whether two language varieties belong to the same language or not.
-The following is a list of groupings of Romance languages, with some languages and dialects chosen to exemplify each grouping. These groupings should not be interpreted as well-separated genetic clades in a tree model:
-
-Ibero-Romance: Portuguese, Galician, Asturleonese/Mirandese, Spanish, Aragonese, Ladino;
-Occitano-Romance: Catalan/Valencian, Occitan (lenga d'oc), Gascon (sometimes not considered part of Occitan);
-Gallo-Romance: French/Oïl languages, Franco-Provençal (Arpitan);
-Rhaeto-Romance: Romansh, Ladin, Friulian;
-Gallo-Italic: Piedmontese, Ligurian, Lombard, Emilian, Romagnol;
-Venetan (classification disputed);
-Italo-Dalmatian: Italian (Tuscan, Corsican, Sassarese, Central Italian), Sicilian/Extreme Southern Italian, Neapolitan/Southern Italian, Dalmatian (extinct in 1898), Istriot;
-Eastern Romance: Romanian, Aromanian, Megleno-Romanian, Istro-Romanian;
-Sardinian: Campidanese, Logudorese
-
-
-== Modern status ==
-
-The Romance language most widely spoken natively today is Spanish, followed by Portuguese, French, Italian and Romanian, which together cover a vast territory in Europe and beyond, and work as official and national languages in dozens of countries.
-
-In Europe, at least one Romance language is official in France, Portugal, Spain, Italy, Switzerland, Belgium, Romania, Moldova, Transnistria, Monaco, Andorra, San Marino and Vatican City. In these countries, French, Portuguese, Italian, Spanish, Romanian, Moldovan, Romansh and Catalan have constitutional official status.
-French, Italian, Portuguese, Spanish, and Romanian are also official languages of the European Union. Spanish, Portuguese, French, Italian, Romanian, and Catalan were the official languages of the defunct Latin Union; and French and Spanish are two of the six official languages of the United Nations. Outside Europe, French, Portuguese and Spanish are spoken and 

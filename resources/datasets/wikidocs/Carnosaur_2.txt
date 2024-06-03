@@ -3,33 +3,3 @@ While Carnosauria was historically considered largely synonymous with Allosauroi
 Distinctive characteristics of carnosaurs include large eye sockets, a long narrow skull and modifications of the legs and pelvis such as the thigh (femur) being longer than the shin (tibia).
 Carnosaurs first appeared in the Middle Jurassic, around 176 mya. The last definite known carnosaurs, the carcharodontosaurs, became extinct in the Turonian epoch of the Cretaceous, roughly 90 mya; reportedly later remains of carcharodontosaurids, from the late Maastrichtian (70–66 Ma ago) Bauru Group in Brazil, were later interpreted as those of abelisaurids. The phylogenetically problematic megaraptorans, which may or may not be carnosaurs, became extinct around 66 mya. Unquillosaurus is another possible Carnosaurian Theropod that has an extended range, hailing from rocks dated to the Campanian, around 75-70 mya.
 
-
-== Systematics ==
-Modern cladistic analysis defines Carnosauria as those tetanurans sharing a more recent common ancestor with Allosaurus than with modern birds.
-
-
-=== Taxonomy ===
-Carnosauria has traditionally been used as a dumping ground for all large theropods. Even non-dinosaurs, such as the rauisuchian Teratosaurus, were once considered carnosaurs. However, analysis in the 1980s and 1990s revealed that other than size, the group shared very few characteristics, making it polyphyletic. Most former carnosaurs (such as the megalosaurids, the spinosaurids, and the ceratosaurs) were reclassified as more primitive theropods. Others (such as  the tyrannosaurids) that were more closely related to birds were placed in Coelurosauria.
-
-
-=== Phylogeny ===
-The clade Allosauroidea was originally proposed by Phil Currie and Zhao (1993; p. 2079), and later used as an undefined stem-based taxon by Paul Sereno (1997). Sereno (1998; p. 64) was the first to provide a stem-based definition for the Allosauroidea, defining the clade as "All neotetanurans closer to Allosaurus than to Neornithes." Kevin Padian (2007) used a node-based definition, defined the Allosauroidea as Allosaurus, Sinraptor, their most recent common ancestor, and all of its descendants. Thomas R. Holtz and colleagues (2004; p. 100) and  Phil Currie and Ken Carpenter (2000), among others, have followed this node-based definition. However, in some analyses (such as Currie & Carpenter, 2000), the placement of the carcharodontosaurids relative to the allosaurids and sinraptorids is uncertain, and therefore it is uncertain whether or not they are allosauroids (Currie & Carpenter, 2000).
-The cladogram presented here follows the 2010 analysis by Benson, Carrano and Brusatte.
-
-In 2019, Rauhut and Pol described Asfaltovenator vialidadi, a basal allosauroid displaying a mosaic of primitive and derived features seen within Tetanurae. Their phylogenetic analysis found traditional Megalosauroidea to represent a basal grade of carnosaurs, paraphyletic with respect to Allosauroidea.
-
-
-== "Carnosaurus" ==
-
-"Carnosaurus" is an informal generic name, attributed to Friedrich von Huene, ca. 1929. It is the result of a typographical error created by the translation of the von Huene monograph from German to Spanish. Von Huene himself intended to assign indeterminate remains to Carnosauria incertae sedis.
-
-
-== See also ==
-Avetheropoda, proposed grouping of Allosauroidea with Coelurosauria
-
-
-== References ==
-
-
-== Sources ==
-George Olshevsky. "Re: What are these dinosaurs". Archived from the original on 2007-12-09. Retrieved 2007-01-29. (on "

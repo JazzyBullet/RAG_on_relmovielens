@@ -1,0 +1,23 @@
+The Oxygen XML Editor (styled <oXygen/>) is a multi-platform XML editor, XSLT/XQuery debugger and profiler with Unicode support. It is a Java application so it can run in Windows, Mac OS X, and Linux. It also has a version that can run as an Eclipse plugin.
+
+
+== Release cycle ==
+Oxygen XML has three types of releases, excluding betas and development versions. Major releases (most recently release 26 as of 2024) occur on average once per year. Minor releases (most recently 26.1 as of March 2024) are made at least once every few months after a major release, occasionally twice a year. Incremental build releases are provided on an as-needed basis, usually in response to bugs or security issues. Build numbering is based on the build's date and time (to the hour). As of the end of 2015, the current full version and build number are "oXygen XML Editor 17.1, build 2015121117" with a full release history available online.
+
+
+== XML editing features ==
+Oxygen XML offers several features for editing XML documents. Documents can be checked in proper XML form. They can also be validated against a schema. For validation purposes, the documents can be validated against DTD, W3C XML Schema, RELAX NG, Schematron, NRL and NVDL schemas. The editor can also validate the XML as it is entered. A validation scenario can be generated for additional schema types, which allows oXygen to call out arbitrary programs to perform validation.
+Also, the program has support for XML catalogs. An XML catalog is an XML file of a specific format that maps a schema definition string to an actual file name on the disk or web. Using catalogs allows the user to specify a web address for a schema but allows oXygen to find a file form of the address if the catalog identifies one.
+Oxygen XML comes with schemas and DTDs for popular or major XML and XSL formats including DocBook (versions 4.0 and 5.0), TEI format, XSLT (versions 1.0, 2.0 and 3.0), DITA, XHTML and HTML 5. Extending to new XML dialects or specializations is achieved by adding the relevant framework or implementation to the software or loading the document type or schema, thus enabling an adaptable environment which is itself configured entirely by XML, which draws parallels with Emacs and its ability to edit itself while implementing the Lisp dialect it runs in.
+The program is aware of XInclude, and all validation and transformation services can follow the XInclude statements to their included files. Oxygen XML offers three views designed for editing XML documents. These views are text, grid, and author.
+
+
+=== Text view ===
+The text view is the default view for editing an XML document. As the name suggests, this view shows the XML text as text.
+For documents that are associated with an XML schema, Oxygen XML offers tag completion. Oxygen XML can use a number of XML schema languages, including DTD, W3C XML Schema, RELAX NG (both compact and full). Both W3C XML Schema and RELAX NG schemas can include embedded Schematron rules. It also can use the NRL and NVDL routing languages, which allow multiple schemas of different types to be applied to different files.
+In addition to tag completion, annotations in the schema will be displayed as tooltips for the elements that those annotations apply.
+For schema formats that do not have a standard mechanism to bind the schema to the XML file, Oxygen XML provides a processing instruction that instructs the program on which schemas to use. For documents that do not have a schema, Oxygen can analyze the document's structure and generate a schema.
+
+
+=== Grid view ===
+The grid view shows the XML document in a spreadsheet-like fashion. The left-most column shows the elements at the root level, including comments and processing instructions. The next column shows attributes of root elements and every unique first child of the root XML element. If the root element has six children named "section," then the grid view will show only one section element and a notation that there are

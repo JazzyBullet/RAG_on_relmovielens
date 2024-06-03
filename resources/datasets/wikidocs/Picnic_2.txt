@@ -2,23 +2,3 @@ A user error is an error made by the human user of a complex system, usually a c
 Related terms such as PEBMAC ("problem exists between monitor and chair"), PEBKAC ("problem exists between keyboard and chair"), identity error or ID-10T/1D-10T error ("idiot error"), PICNIC ("problem in chair, not in computer"), IBM error ("idiot behind machine error"), skill issue ("lack of skill"), and other similar phrases are also used as slang in technical circles with derogatory meaning. This usage implies a lack of computer savviness, asserting that problems arising when using a device are the fault of the user. Critics of the term argue that the problems are caused instead by poor product designs that fail to anticipate the capabilities and needs of the user.
 The term can also be used for non-computer-related mistakes.
 
-
-== Causes ==
-Joel Spolsky points out that users usually do not pay full attention to the computer system while using it. He suggests compensating for this when building usable systems, thus allowing a higher percentage of users to complete tasks without errors:
-
-For example, suppose the goal of your program is to allow people to convert digital camera photos into a web photo album. If you sit down a group of average users with your program and ask them all to complete this task, then the more usable your program is, the higher the percentage of users that will be able to successfully create a web photo album.  To be scientific about it, imagine 100 real world users. They are not necessarily familiar with computers. They have many diverse talents, but some of them distinctly do not have talents in the computer area. Some of them are being distracted while they try to use your program. The phone is ringing. The baby is crying. And the cat keeps jumping on the desk and batting around the mouse.
-Now, even without going through with this experiment, I can state with some confidence that some of the users will simply fail to complete the task, or will take an extraordinary amount of time doing it.
-
-Experts in interaction design such as Alan Cooper believe this concept puts blame in the wrong place, the user, instead of blaming the error-inducing design and its failure to take into account human limitations. Bruce "Tog" Tognazzini describes an anecdote of Dilbert creator Scott Adams losing a significant amount of work of comment moderation at his blog due to a poorly constructed application that conveyed a wrong mental model, even though the user took explicit care to preserve the data.
-Jef Raskin advocated designing devices in ways that prevent erroneous actions. 
-Don Norman suggests changing the common technical attitude towards user error:
-
-Don't think of the user as making errors; think of the actions as approximations of what is desired.
-
-
-== Acronyms and other names ==
-Terms like PEBMAC/PEBCAK or an ID10T error are often used by tech support operators and computer experts to describe a user error as a problem that is attributed to the user's ignorance instead of a software or hardware malfunction. These phrases are used as a humorous way to describe user errors. A highly popularized example of this is a user mistaking their CD-ROM tray for a cup holder, or a user looking for the "any key".  However, any variety of stupidity or ignorance-induced problems can be described as user errors.
-
-
-=== PEBKAC/PEBCAK/PICNIC ===
-Phrases used by the tech savvy to mean that a problem is caused entirely by the fault of the user include PEBKAC (an acronym for "problem exists between keyboard and chair"), PEBCAK (an alternative, but similar, acronym for "problem exists between chair and keyboard"), POBCAK (a US government/military acronym for "problem occurs between chair and keyboard"), PICNIC ("problem in chair not in computer") and EBKAC ("Err

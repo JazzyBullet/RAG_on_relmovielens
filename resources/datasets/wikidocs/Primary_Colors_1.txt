@@ -4,12 +4,3 @@ Sets of color space primaries are generally arbitrary, in the sense that there i
 The concept of primary colors has a long, complex history. The choice of primary colors has changed over time in different domains that study color. Descriptions of primary colors come from areas including philosophy, art history, color order systems, and scientific work involving the physics of light and perception of color.
 Art education materials commonly use red, yellow, and blue as primary colors, sometimes suggesting that they can mix all colors. No set of real colorants or lights can mix all possible colors, however. In physics, the three primary colors are typically red, green and blue, after the different types of photoreceptor pigments in the cone cells.
 
-
-== Color model primaries ==
-A color model is an abstract model intended to describe the ways that colors behave, especially in color mixing. Most color models are defined by the interaction of multiple primary colors. Since most humans are trichromatic, color models that want to reproduce a meaningful portion of a human's perceptual gamut must use at least three primaries. More than three primaries are allowed, for example, to increase the size of the gamut of the color space, but the entire human perceptual gamut can be reproduced with just three primaries (albeit imaginary ones as in the CIE XYZ color space).
-Some humans (and most mammals) are dichromats, corresponding to specific forms of color blindness in which color vision is mediated by only two of the types of color receptors. Dichromats require only two primaries to reproduce their entire gamut and their participation in color matching experiments was essential in the determination of cone fundamentals leading to all modern color spaces. Despite most vertebrates being tetrachromatic, and therefore requiring four primaries to reproduce their entire gamut, there is only one scholarly report of a functional human tetrachromat, for which trichromatic color models are insufficient.
-
-
-=== Additive models ===
-
-The perception elicited by multiple light sources co-stimulating the same area of the re

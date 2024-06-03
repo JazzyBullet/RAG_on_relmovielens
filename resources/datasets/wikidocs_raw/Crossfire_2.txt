@@ -1,0 +1,27 @@
+Crossfire is an online tactical first-person shooter game developed by Smilegate Entertainment for Microsoft Windows. It was first released in South Korea on May 3, 2007.
+Due to its popularity in Asia, especially China and South Korea, it has become one of the world's most-played video games by player count, with a lifetime total of 1 billion users in 80 countries worldwide. It was the world's top-grossing online game as of 2014, and went on to become one of the highest-grossing video games of all time, having grossed $6.8 billion in lifetime revenue as of 2017.
+The game has spawned a media franchise. A film adaptation of the game was announced in October 2015. A Chinese streaming television series based on the game named Cross Fire (穿越火线) premiered in July 2020, starring Luhan and Leo Wu and was a commercial success with more than 1.7 billion views in China as of October 2020.
+
+
+== Gameplay ==
+
+Crossfire is a free-to-play first-person shooter that features two mercenary corporations, the "Black List" and "Global Risk", fighting each other in an epic global conflict. Players assume the role of either a Black List or Global Risk mercenary, joining an online team that must work together to complete objective-based scenarios. Except for the Mutation and Wave modes, each mode can support a maximum of 16 players, each divided into an 8-person team.
+Players progress and eventually are promoted through various military ranks, beginning at trainee, with the highest being Marshall. Players can also customize their character's equipment and appearance through in-game items.
+Crossfire has a free currency which is called "Game Points" (GP), which is earned through playing and completing matches, buying premium items that grant bonus GP, or fulfilling certain missions.  Premium and special items like modified weapons can only be bought using monetary currencies. The content tends to vary from version to version.
+
+
+=== Weapons ===
+Crossfire weapons are based on real-life models, with each weapon belonging to a category.  Categories include machine guns, assault rifles and sniper rifles.  Each category is functionally similar to their real world counterparts (E.g. Machine guns are heavy, powerful, lay down heavy fire but have long reload times and slow mobility, Submachine guns are lighter and have a faster rate of fire but deal less damage, Shotguns are effective in close range but useless at long distance.)  Weapons often have many variants, including different skins which give them different attributes.  In addition, the re-skinned versions are often rarer.  There are also some weapons which are different from others like the VIP weapons, which have better stats like faster reload, among others.  Certain modes have mode-exclusive weapons.
+
+
+== Characters ==
+Characters are the avatar of players and are what they will look like while playing in the game. A note is that while all characters are visually unique from each other, they are all functionally the same with no real advantages or disadvantages from each other in terms of stats, apart from a few limited-edition characters who are, for example; able to see better through smoke or reduce the visual incapacitating effects of flash bang grenades.
+The characters featured in Crossfire are a combination of both real and fictional Special Forces groups. The real groups featured are: The Russian OMON, the LAPD SWAT, the British SAS and SBS, the Brazilian BOPE, the German GSG 9, the Korean 707th Special Mission Group, the United Nations Special Forces, and the American Navy SEALs. Each character also has both a Black List and Global Risk variant. Some characters are bought with GP, while some are bought with premium currency. There are special characters found in some modes like the knight.
+There are also mutant characters for the Mutation/Hero modes, which unlike regular game characters, each have unique abilities.
+
+
+== Regional availability ==
+
+
+== Commercial performance ==
+Crossfire is the m

@@ -1,0 +1,30 @@
+RollerCoaster Tycoon is a series of construction and management simulation games about building and managing an amusement park. Each game in the series challenges players with open-ended amusement park management and development, and allowing players to construct and customize their own unique roller coasters and other thrill rides.
+The first game was created by Scottish programmer Chris Sawyer, with assistance from various leading figures from the real-world roller coaster and theme park industry. The rest of the series contains three other main games, expansion packs, a number of ports, and a mobile installment. A refresh of the series, RollerCoaster Tycoon World, was released in November 2016, and followed up by RollerCoaster Tycoon Adventures for Nintendo Switch in 2018 and PC in 2019.
+Licensing for the series is currently held by Atari Interactive, who renewed their deal with Chris Sawyer on 11 October 2022, for ten more years.
+
+
+== Main series ==
+
+
+=== RollerCoaster Tycoon ===
+
+RollerCoaster Tycoon was released for Microsoft Windows on 22 March 1999.  RollerCoaster Tycoon was later ported to the Xbox Video game console in 2003. The game was developed by Chris Sawyer and published by Hasbro Interactive under the MicroProse brand.
+RollerCoaster Tycoon received two expansion packs: Added Attractions (released in North America as Corkscrew Follies) in 1999, and Loopy Landscapes in 2000. Two special editions were released: RollerCoaster Tycoon Gold/Totally RollerCoaster in 2002, which contained the original game, Corkscrew Follies, and Loopy Landscapes; and RollerCoaster Tycoon Deluxe in 2003, which contained the content in Gold plus more designs for the different customizable rides.
+A port for the Xbox was released on 23 March 2003, handled by Frontier Developments and published by Infogrames Interactive. This version featured both expansion packs as well.
+
+
+=== RollerCoaster Tycoon 2 ===
+
+RollerCoaster Tycoon 2 was released on  15 October 2002.  The game was developed by Chris Sawyer and published by Infogrames Interactive.
+RollerCoaster Tycoon 2 has two official expansion packs: Wacky Worlds and Time Twister, both released in 2003 and had no involvement from Chris Sawyer, instead being handled by Frontier Developments. The Combo Park Pack edition contains the original game and the Wacky Worlds expansion. The Triple Thrill Pack contains the original game and both expansions.
+In April 2014, an open-source project, known as OpenRCT2, was launched to enhance the gameplay of RollerCoaster Tycoon 2, including fixing bugs and allowing the game to run natively on macOS, Linux and modern Windows. The game is completely rewritten in the C++ programming language, but still relies on assets from the original game. OpenRCT2 reduces limitations in the original, and adds other completely new features such as multiplayer.
+
+
+=== RollerCoaster Tycoon 3 ===
+
+RollerCoaster Tycoon 3 was released on  2 November 2004, in North America. Although the core features of RollerCoaster Tycoon 3 are based on the previous games, Chris Sawyer, the developer of the first two games, acted only as a consultant. The game was developed by Frontier Developments instead, and published and advertised by Atari Interactive featuring a completely different structure.
+Two expansion packs for RollerCoaster Tycoon 3 were released - Soaked! and Wild!. A bundle, RollerCoaster Tycoon 3 Gold, was also released, including the original game and the Soaked! expansion pack; this was followed by RollerCoaster Tycoon 3 Platinum (Deluxe for the EU version of the game), including both expansion packs and the original game.  RollerCoaster Tycoon 3 Platinum was released for Microsoft Windows and MacOS X.
+A remastered version of the game titled RollerCoaster Tycoon 3 Complete Edition, developed and published by Frontier Foundry, was released for Windows, macOS, and Nintendo Switch, featuring widescreen support and revamped controls to accommodate for Switch features.
+
+
+=== RollerCoas

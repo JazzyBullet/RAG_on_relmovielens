@@ -4,9 +4,3 @@ Due to its open source nature, the tool suits the research community as well. Fo
 The main features of PriEsT include: supporting Pairwise comparison method with any scale for ratio-based judgements; providing widely used measures for inconsistency in judgements; offers several non-dominated solutions with the help of Evolutionary Multi-objective optimization; implements all the widely used prioritization methods for research purpose; graphical and Equalizer views for the pairwise comparison judgements; exporting problems into an XML data file; platform-independent Java-based Tool (runs on Linux, Android and Windows).
 The second version of PriEsT (PriEsT v2) launched in 2013 with new features including Sensitivity analysis and support for Android-based devices.
 
-
-== References ==
-
-
-== External links ==
-PriEsT at SourceForge

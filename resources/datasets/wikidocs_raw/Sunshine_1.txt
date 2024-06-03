@@ -1,0 +1,113 @@
+Sunlight is a portion of the electromagnetic radiation given off by the Sun, in particular infrared, visible, and ultraviolet light. On Earth, sunlight is scattered and filtered through Earth's atmosphere as daylight when the Sun is above the horizon. When direct solar radiation is not blocked by clouds, it is experienced as sunshine, a combination of bright light and radiant heat (Atmospheric). When blocked by clouds or reflected off other objects, sunlight is diffused. Sources estimate a global average of between 164 watts to 340 watts per square meter over a 24-hour day; this figure is estimated by NASA to be about a quarter of Earth's average total solar irradiance.
+The ultraviolet radiation in sunlight has both positive and negative health effects, as it is both a requisite for vitamin D3 synthesis and a mutagen.
+Sunlight takes about 8.3 minutes to reach Earth from the surface of the Sun. A photon starting at the center of the Sun and changing direction every time it encounters a charged particle would take between 10,000 and 170,000 years to get to the surface.
+Sunlight is a key factor in photosynthesis, the process used by plants and other autotrophic organisms to convert light energy, normally from the Sun, into chemical energy that can be used to synthesize carbohydrates and fuel the organisms' activities.
+Daylighting is the natural lighting of interior spaces by admitting sunlight.
+Solar irradiance is the solar energy available from sunlight.
+
+
+== Measurement ==
+Researchers can measure the intensity of sunlight using a sunshine recorder, pyranometer, or pyrheliometer. To calculate the amount of sunlight reaching the ground, both the eccentricity of Earth's elliptic orbit and the attenuation by Earth's atmosphere have to be taken into account. The extraterrestrial solar illuminance (Eext), corrected for the elliptic orbit by using the day number of the year (dn), is given to a good approximation by
+
+  
+    
+      
+        
+          E
+          
+            
+              e
+              x
+              t
+            
+          
+        
+        =
+        
+          E
+          
+            
+              s
+              c
+            
+          
+        
+        ⋅
+        
+          (
+          
+            1
+            +
+            0.033412
+            ⋅
+            cos
+            ⁡
+            
+              (
+              
+                2
+                π
+                
+                  
+                    
+                      
+                        
+                          d
+                          n
+                        
+                      
+                      −
+                      3
+                    
+                    365
+                  
+                
+              
+              )
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle E_{\rm {ext}}=E_{\rm {sc}}\cdot \left(1+0.033412\cdot \cos \left(2\pi {\frac {{\rm {dn}}-3}{365}}\right)\right),}
+  
+
+where dn=1 on January 1; dn=32 on February 1; dn=59 on March 1 (except on leap years, where dn=60), etc. In this formula dn–3 is used, because in modern times Earth's perihelion, the closest approach to the Sun and, therefore, the maximum Eext occurs around January 3 each year. The value of 0.033412 is determined knowing that the ratio between the perihelion (0.98328989 AU) squared and the aphelion (1.01671033 AU) squared should be approximately 0.935338.
+The solar illuminance constant (Esc), is equal to 128×103 lux. The direct normal illuminance (Edn), corrected for the attenuating effects of the atmosphere is given by:
+
+  
+    
+      
+        
+          E
+          
+            
+              d
+              n
+            
+          
+        
+        =
+        
+          E
+          
+            
+              e
+              x
+              t
+            
+          
+        
+        
+        
+          e
+          
+            −
+            c
+            m
+          
+        
+        ,
+     

@@ -2,27 +2,3 @@ MS Herald of Free Enterprise was a roll-on/roll-off (RORO) ferry which capsized 
 The eight-deck car and passenger ferry was owned by Townsend Thoresen, designed for rapid loading and unloading on the competitive cross-channel route between Dover and Calais. As was common at the time, it was built with no watertight compartments. The ship left harbour with her bow door open, and the sea immediately flooded the decks; within minutes, she was lying on her side in shallow water. The immediate cause of the capsizing was found to be negligence by the assistant boatswain, who was asleep in his cabin when he should have been closing the bow door. However, the official inquiry placed more blame on his supervisors and a general culture of poor communication in Townsend Thoresen. The vessel was salvaged, put up for sale, and sold to Naviera SA Kingstown on 30 September 1987, renamed Flushing Range. It was taken to Taiwan on 22 March 1988 to be scrapped.
 Since the disaster, improvements have been made to the design of RORO vessels, with watertight ramps, indicators showing the position of the bow doors, and banning of undivided decks.
 
-
-== Design and construction ==
-In the late 1970s, Townsend Thoresen commissioned the design and construction of three new identical ships for its Dover–Calais route for delivery from 1980. The ships were branded the Spirit-class, and were named: Spirit of Free Enterprise, Herald of Free Enterprise, and Pride of Free Enterprise. The name "Free Enterprise" dates from Townsend Car Ferries' pioneering private sector roll-on/roll-off ferries, introduced in 1962. Herald of Free Enterprise began active service on 29 May 1980.
-To remain competitive with other ferry operators on the route, Townsend Thoresen required ships designed to permit fast loading and unloading and quick acceleration. The ships comprised eight decks numbered A to H from top to bottom, which contained the following:
-
-A-deck: crew accommodation and radio room
-Half deck (between A and B decks) wheelhouse (bridge)
-B-deck: passenger areas, crew accommodation and galley
-C-deck: passenger areas and galley
-D-deck: suspended vehicle deck within E deck
-E-deck: upper vehicle deck
-F-deck: crew accommodation (port and starboard)
-G-deck: main vehicle deck
-H-deck: engine rooms, stores and passenger accommodation at the forward end.
-Loading of vehicles onto G deck was through watertight doors at the bow and stern. The wheelhouse was positioned at the forward end, and the ship had clam shell doors rather than raising a visor door, making it difficult to see the bow doors. Loading of vehicles onto E deck and D deck was through a weathertight door at the bow and an open portal at the stern. Vehicles could be loaded and unloaded onto E and G decks simultaneously, using double-deck linkspans at Dover and Calais.
-The ships were constructed by Schichau-Unterweser AG in Bremerhaven, Germany. Propulsive power was by means of three 6,000 kW (8,000 bhp) 12-cylinder Sulzer medium-speed diesel engines driving variable-pitch propellers. The vehicle deck bow doors were constructed by Cargospeed, Glasgow, Scotland.
-
-
-== Accident of 6 March 1987 ==
-
-
-=== Background ===
-On the day the ferry capsized, Herald of Free Enterprise was working the route between Dover and the Belgian port of Zeebrugge. This was not her normal route and the linkspan at Zeebrugge had not been designed specifically for the Spirit-class vessels: it used a single deck, preventing the simultaneous loading of both E and G decks, and the ramp could not be raised high enough to reach E deck. To compensate for this, the vessel's bow ballast tanks were filled. The ship's natural trim was not restored after loading. Had Herald of Free Enterprise survived, she would have been modified to remove the need for this procedure.
-It was normal practice for the assistant boatswain to close the doors before mo

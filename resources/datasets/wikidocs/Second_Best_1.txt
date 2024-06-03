@@ -1,16 +1,2 @@
 In welfare economics, the theory of the second best (also known as the general theory of second best or the second best theorem) concerns the situation when one or more optimality conditions cannot be satisfied. The economists Richard Lipsey and Kelvin Lancaster showed in 1956, that if one optimality condition in an economic model cannot be satisfied, it is possible that the next-best solution involves changing other variables away from the values that would otherwise be optimal. Politically, the theory implies that if it is infeasible to remove a particular market distortion, introducing one or more additional market distortions in an interdependent market may partially counteract the first, and lead to a more efficient outcome.
 
-
-== Implications ==
-In an economy with some uncorrectable market failure in one sector, actions to correct market failures in another related sector with the intent of increasing economic efficiency may actually decrease overall economic efficiency. In theory, at least, it may be better to let two market imperfections cancel each other out rather than making an effort to fix either one. Thus, it may be optimal for the government to intervene in a way that is contrary to usual policy. This suggests that economists need to study the details of the situation before jumping to the theory-based conclusion that an improvement in market perfection in one area implies a global improvement in efficiency.
-
-
-== Application ==
-Even though the theory of the second best was developed for the Walrasian general equilibrium system, it also applies to partial equilibrium cases. 
-
-
-== References ==
-
-
-== External links ==
-Introduction to Second Best in legal theory

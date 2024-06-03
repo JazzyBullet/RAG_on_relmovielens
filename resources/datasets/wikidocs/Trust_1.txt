@@ -2,13 +2,3 @@ TRUST (Train Running Under System TOPS) is a Network Rail computer system used f
 TRUST is used to record when a train passes a measuring point, which can be used to identify delays, and the cause of the delays. It is based on the TOPS mainframe-based computer system. 
 TRUST data is part of Network Rail's open data feed and is used by Realtime Trains as a source for train movements and cancellations. A similar computer system is Darwin, from the Rail Delivery Group.
 
-
-== See also ==
-Rail signaller
-
-
-== References ==
-
-
-== External links ==
-TRUST user guide from 2011 released following a Freedom of Information Request

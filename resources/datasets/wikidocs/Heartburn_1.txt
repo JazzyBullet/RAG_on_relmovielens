@@ -3,34 +3,3 @@ Other common descriptors for heartburn (besides burning) are belching, nausea, s
 The cause will vary depending on one's family and medical history, genetics, if a person is pregnant or lactating, and age. As a result, the diagnosis will vary depending on the suspected organ and the inciting disease process. Work-up will vary depending on the clinical suspicion of the provider seeing the patient, but generally includes endoscopy and a trial of antacids to assess for relief.
 Treatment for heartburn may include medications and dietary changes. Medication include antacids. Dietary changes may require avoiding foods that are high in fats, spicy, high in artificial flavors, heavily reducing NSAID use, avoiding heavy alcohol consumption, and decreasing peppermint consumption. Lifestyle changes may help such as reducing weight.
 
-
-== Definition ==
-The term indigestion includes heartburn along with a number of other symptoms. Indigestion is sometimes defined as a combination of epigastric pain and heartburn. Heartburn is commonly used interchangeably with gastroesophageal reflux disease (GERD) rather than just to describe a symptom of burning in one's chest.
-
-
-== Differential diagnosis ==
-Heartburn-like symptoms and/or lower chest or upper abdomen may be indicative of much more sinister and/or deadly disease. Of greatest concern is to confuse heartburn (generally related to the esophagus) with a heart attack as these organs share a common nerve supply. Numerous abdominal and thoracic organs are present in that region of the body. Many different organ systems might explain the discomfort called heartburn.
-
-
-=== Heart ===
-The most common symptom for a heart attack is chest pain. However, as many as 30% of people who receive cardiac catheterization for chest pain have findings that do not account for their chest discomfort. These are often defined as having "atypical chest pain" or chest pain of undetermined origin. Women experiencing heart attacks may also deny classic signs and symptoms and instead complain of GI symptoms. One article estimates that ischemic heart disease may appear to be GERD in 0.6% of people.
-
-
-=== Esophagus ===
-GERD (most common cause of heartburn) – occurs when acid refluxes from the stomach and inflames the esophagus.
-Esophageal spasms – typically occur after eating or drinking and may be combined with difficulty swallowing.
-Esophageal strictures
-Esophageal cancers
-Mallory-Weis tears – tears of the superficial mucosa of the esophagus that are subsequently exposed to gastric acid commonly due to vomiting and/or retching
-Eosinophilic esophagitis – a disease commonly associated with other atopic diseases such as asthma, food allergies, seasonal allergies, and atopic skin disease
-Chemical esophagitis – related to the intake of caustic substances, excessive amounts of hot liquids, alcohol, or tobacco smoke
-Infectious esophagitis – especially CMV and certain fungal infections, most common in immunocompromised persons
-
-
-=== Stomach ===
-Peptic ulcer disease – can be secondary to Helicobacter pylori infection or heavy NSAID use that weakens stomach mucosal layer. Pain often worsens with eating.
-Stomach cancer
-
-
-=== Intestines ===
-Intestinal ulcers – generally secondary to other conditions such as H. pylori infection or cancers of the gastrointestinal tract. Pain often improves with eati
