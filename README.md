@@ -39,7 +39,24 @@ python classification/rel-movielens1m_clf.py --prompt title
 python classification/rel-movielens1m_clf.py --prompt all
 ```
 
+- Using RAG（TODO）
+
+```
+python classification/rel-movielens1m_clf.py --prompt rag
+```
+
+- You can choose different datasets, with a training set of 300 and a test set of 3000.
+
+```
+python classification/rel-movielens1m_clf.py --dataset train
+
+python classification/rel-movielens1m_clf.py --dataset test
+```
+
+
+
 ## Regression
+
 ```
 python regression/rel-movielens1m_reg.py
 ```
