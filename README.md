@@ -8,7 +8,7 @@
 
 ## Dependencies
 
-- pytorch	2.1.2
+- pytorch	2.1.2 # conda install, not pip install
 - scikit-learn	1.4.0
 - llama_cpp_python	0.2.52
 - langchain	0.1.8

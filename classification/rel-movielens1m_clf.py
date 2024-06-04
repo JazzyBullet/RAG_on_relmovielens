@@ -34,7 +34,7 @@ from rllm_RAG.utils import macro_f1_score, micro_f1_score, get_llm_chat_cost, fo
 
 ##### Parse argument
 parser = argparse.ArgumentParser()
-parser.add_argument('--prompt', choices=['title', 'all', 'rag'], 
+parser.add_argument('--prompt', choices=['title', 'all', 'rag', 'basic', 'rag_cot', 'basic_cot'], 
                     default='title', help='Choose prompt type.')
 parser.add_argument('--dataset', choices=['train', 'test'], 
                     default='train', help='Choose dataset type.')
@@ -70,8 +70,25 @@ class GenreOutputParser(BaseOutputParser):
         genre_list = [genre.strip(' <b></b>*') for genre in genres.split(',')]
         return genre_list
 
-output_parser = GenreOutputParser()
+GenreSet = set(("Documentary", "Adventure", "Comedy", "Horror", "War", "Sci-Fi", "Drama", "Mystery", "Western", "Action", "Children's", "Musical", "Thriller", "Crime", "Film-Noir", "Romance", "Animation", "Fantasy"))
+class ExtractOutputParser(BaseOutputParser):
+    """Parse the output of LLM to a genre list"""
+    def parse(self, text: str):
+        """Parse the output of LLM call."""
+        genre_list = []
+        for genre in GenreSet:
+            if genre in text:
+                genre_list.append(genre)
+        return genre_list
+    '''
+    def parse(self, text: str):
+        """Parse the output of LLM call."""
+        genres = text.split('::')[-1].split(':')[-1].split('.')[0]
+        genre_list = [genre.strip(' <b></b>*') for genre in genres.split(',')]
+        return genre_list
+    '''
 
+output_parser = ExtractOutputParser() #GenreOutputParser()
 # Construct prompt
 prompt_title = """Q: Now I have a movie name: {movie_name}. What's the genres it may belong to? 
 Note: 
@@ -93,10 +110,40 @@ movie_name:: genre_1, genre_2..., genre_n
 A: 
 """
 
+prompt_basic = """Q: Now I have a movie description: The movie titled '{Title}' is directed by {Director} and was released in {Year}. The main cast of this movie include {Cast}. It has a runtime of {Runtime} and languages used including {Languages}, with a Certificate rating of {Certificate}. The plot summary is as follows: {Plot} What's the genres it may belong to? 
+Note: 
+1. Give the answer as following format:
+movie_name:: genre_1, genre_2..., genre_n
+2. The answer must only be chosen from followings:"Documentary", "Adventure", "Comedy", "Horror", "War", "Sci-Fi", "Drama", "Mystery", "Western", "Action", "Children's", "Musical", "Thriller", "Crime", "Film-Noir", "Romance", "Animation", "Fantasy"
+3. Don't saying anything else.
+4. You must answer at least one genre, empty answer is not allowed.
+A: 
+"""
+
+prompt_basic_cot = """Q: Now I have a movie description: The movie titled '{Title}' is directed by {Director} and was released in {Year}. The main cast of this movie include {Cast}. It has a runtime of {Runtime} and languages used including {Languages}, with a Certificate rating of {Certificate}. The plot summary is as follows: {Plot} What's the genres it may belong to? 
+Note: 
+1. Give the answer as following format:
+movie_name:: genre_1, genre_2..., genre_n. Explain why the movie belongs to these genres.
+2. The answer must only be chosen from followings:"Documentary", "Adventure", "Comedy", "Horror", "War", "Sci-Fi", "Drama", "Mystery", "Western", "Action", "Children's", "Musical", "Thriller", "Crime", "Film-Noir", "Romance", "Animation", "Fantasy"
+3. Don't saying anything else.
+4. You must answer at least one genre, empty answer is not allowed.
+A: 
+"""
+
 prompt_rag = """Q: Now I have a movie description: {movie_info} What's the genres it may belong to? 
 Note: 
 1. Give the answer as following format:
 movie_name:: genre_1, genre_2..., genre_n
+2. The answer must only be chosen from followings:"Documentary", "Adventure", "Comedy", "Horror", "War", "Sci-Fi", "Drama", "Mystery", "Western", "Action", "Children's", "Musical", "Thriller", "Crime", "Film-Noir", "Romance", "Animation", "Fantasy"
+3. Don't saying anything else.
+4. You must answer at least one genre, empty answer is not allowed.
+A: 
+"""
+
+prompt_rag_cot = """Q: Now I have a movie description: {movie_info} What's the genres it may belong to? 
+Note: 
+1. Give the answer as following format:
+movie_name:: genre_1, genre_2..., genre_n. Explain why the movie belongs to these genres.
 2. The answer must only be chosen from followings:"Documentary", "Adventure", "Comedy", "Horror", "War", "Sci-Fi", "Drama", "Mystery", "Western", "Action", "Children's", "Musical", "Thriller", "Crime", "Film-Noir", "Romance", "Animation", "Fantasy"
 3. Don't saying anything else.
 4. You must answer at least one genre, empty answer is not allowed.
@@ -112,18 +159,40 @@ prompt_all_template = PromptTemplate(
     template=prompt_all
 )
 
+prompt_basic_template = PromptTemplate(
+    input_variables=["Title", "Director", "Year", "Cast", "Runtime", "Languages", "Certificate", "Plot"], 
+    template=prompt_basic
+)
+
+prompt_basic_cot_template = PromptTemplate(
+    input_variables=["Title", "Director", "Year", "Cast", "Runtime", "Languages", "Certificate", "Plot"], 
+    template=prompt_basic_cot
+)
+
 prompt_rag_template = PromptTemplate(
     input_variables=["movie_info"], 
     template=prompt_rag
 )
+
+prompt_rag_cot_template = PromptTemplate(
+    input_variables=["movie_info"], 
+    template=prompt_rag_cot
+)
+
 
 # Construct chain
 if args.prompt == 'title':
     chain = prompt_title_template | llm | output_parser
 elif args.prompt == 'rag':
     chain = prompt_rag_template | llm | output_parser
-else:
+elif args.prompt == 'all':
     chain = prompt_all_template | llm | output_parser
+elif args.prompt == 'basic':
+    chain = prompt_basic_template | llm | output_parser
+elif args.prompt == 'basic_cot':
+    chain = prompt_basic_cot_template | llm | output_parser
+elif args.prompt == 'rag_cot':
+    chain = prompt_rag_cot_template | llm | output_parser
 
 
 ##### 2. LLM prediction
@@ -133,6 +202,8 @@ else:
     movie_df = pd.read_csv(train_path)
 
 pred_genre_list = []
+#movie_df = movie_df[:3]
+
 if args.prompt == 'title':
     for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):
         total_cost = total_cost + get_llm_chat_cost(prompt_title_template.invoke({"movie_name": row['Title']}).text, 'input')
@@ -171,15 +242,51 @@ elif args.prompt == 'rag':
         # utilize RAG for movie classification
         question = "what is the genre of film or movie named '{}'".format(row['Title'])
         pred = rag_chain.invoke(question)
-        del loader, docs, text_splitter, all_splits, vectorstore, retriever, rag_chain
+        #del loader, docs, text_splitter, all_splits, vectorstore, retriever, rag_chain
         pred_genre_list.append(list(set(pred)))
 
         # calculate the cost
         total_cost = total_cost + get_llm_chat_cost(prompt_rag_template.invoke({"movie_info": retriever.invoke(question)}).text, 'input')
         total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
 
-else:
+elif args.prompt == 'rag_cot':
+    # for sentence embedding
+    embedding_model = HuggingFaceEmbeddings(model_name = "./resources/model/all-MiniLM-L6-v2")
+
     for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):
+        # load relevant documents
+        # for network reason, we download wiki pages relating to relmovielens-1m dataset as txt files
+        # and directly load them locally instead of load webpage again
+        loader = DirectoryLoader("./resources/datasets/wikidocs/", glob="{}*.txt".format(replace_punctuation_and_spaces(row['Title'])), loader_cls=TextLoader, use_multithreading=True)
+        docs = loader.load()
+
+        # split docs for embedding
+        # chunk_size = 200, chunk_overlap = 0
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size = 200, chunk_overlap = 0, add_start_index=True)
+        all_splits = text_splitter.split_documents(docs)
+
+        # convert to vector and store
+        vectorstore = Chroma.from_documents(documents=all_splits, embedding=embedding_model)
+        retriever = vectorstore.as_retriever(search_kwargs={'k': 2})
+
+        # construct RAG chain
+        rag_chain = (
+            {"movie_info":  retriever | format_docs, "question": RunnablePassthrough()}
+            | chain
+        )
+
+        # utilize RAG for movie classification
+        question = "what is the genre of film or movie named '{}'".format(row['Title'])
+        pred = rag_chain.invoke(question)
+        #del loader, docs, text_splitter, all_splits, vectorstore, retriever, rag_chain
+        pred_genre_list.append(list(set(pred)))
+
+        # calculate the cost
+        total_cost = total_cost + get_llm_chat_cost(prompt_rag_template.invoke({"movie_info": retriever.invoke(question)}).text, 'input')
+        total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
+
+elif args.prompt == 'all':
+    for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):        
         total_cost = total_cost + \
             get_llm_chat_cost(prompt_all_template.invoke(
                 {"Title": row['Title'], "Director": row['Director'], "Year": row['Year'], 
@@ -194,6 +301,37 @@ else:
         pred_genre_list.append(pred)
         total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
 
+elif args.prompt == 'basic':
+    for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):        
+        total_cost = total_cost + \
+            get_llm_chat_cost(prompt_basic_template.invoke(
+                {"Title": row['Title'], "Director": row['Director'], "Year": row['Year'], 
+                  "Cast": row['Cast'], "Runtime": row['Runtime'], 
+                 "Languages": row['Languages'], "Certificate": row['Certificate'], 
+                 "Plot": row['Plot']}).text, 'input')
+        
+        pred = chain.invoke({"Title": row['Title'], "Director": row['Director'], "Year": row['Year'], 
+                 "Cast": row['Cast'], "Runtime": row['Runtime'], 
+                 "Languages": row['Languages'], "Certificate": row['Certificate'], 
+                 "Plot": row['Plot']})
+        pred_genre_list.append(pred)
+        total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
+
+elif args.prompt == 'basic_cot':
+    for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):        
+        total_cost = total_cost + \
+            get_llm_chat_cost(prompt_basic_cot_template.invoke(
+                {"Title": row['Title'], "Director": row['Director'], "Year": row['Year'], 
+                  "Cast": row['Cast'], "Runtime": row['Runtime'], 
+                 "Languages": row['Languages'], "Certificate": row['Certificate'], 
+                 "Plot": row['Plot']}).text, 'input')
+        
+        pred = chain.invoke({"Title": row['Title'], "Director": row['Director'], "Year": row['Year'], 
+                 "Cast": row['Cast'], "Runtime": row['Runtime'], 
+                 "Languages": row['Languages'], "Certificate": row['Certificate'], 
+                 "Plot": row['Plot']})
+        pred_genre_list.append(pred)
+        total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
 
 ##### 3. Calculate macro f1 score
 # Get all genres
