@@ -19,7 +19,10 @@
 - numpy	1.26.4
 - pandas	2.1.4
 - wikipedia
-
+- sentence-transformers
+- unstructured
+- qdrant-client
+- langchain_chroma
 ## LLM models
 
 - We recommmend 4-bit quantized Gemma 2b model, which can be Downloaded from the SJTU cloud storage or [HuggingFace](https://huggingface.co/lmstudio-ai/gemma-2b-it-GGUF/blob/main/gemma-2b-it-q4_k_m.gguf).
@@ -28,6 +31,7 @@
 ## LM Model
 
 - We recommend a light BERT-like model  all-MiniLM-L6-v2 to make sentence embedding, which can be obtained from the SJTU cloud storage, or directly from [HuggingFace](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2).
+- Please put the model into the `./resources/model/` directory after downloading.
 
 ## Classification
 - Using `title` only: 
@@ -39,7 +43,32 @@ python classification/rel-movielens1m_clf.py --prompt title
 python classification/rel-movielens1m_clf.py --prompt all
 ```
 
+- Using RAG（TODO）
+
+```
+python classification/rel-movielens1m_clf.py --prompt rag
+```
+
+- You can choose different datasets, with a training set of 300 and a test set of 3000.
+
+```
+python classification/rel-movielens1m_clf.py --dataset train
+
+python classification/rel-movielens1m_clf.py --dataset test
+```
+
+### RAG 初步方案
+- 信息来源
+    - 数据集 movie.csv 生成对应txt文件
+    - wikipedia检索movie title，保存前两条结果为txt文件
+- 下载 https://jbox.sjtu.edu.cn/l/81jgtG，解压到 `./resources/datasets/wikidocs/`
+- 使用 `sentence_transformer/all-MiniLM-L6-v2` 获取embedding
+- 加载txt，进行切分和嵌入，向量化存储
+- 对每部影片，查找相关文本，一起填入prompt_template，输入LLM，获得分类结果
+
+
 ## Regression
+
 ```
 python regression/rel-movielens1m_reg.py
 ```

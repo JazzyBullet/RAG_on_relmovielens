@@ -2,6 +2,7 @@ import numpy as np
 from sklearn import metrics
 from numpy.typing import NDArray
 import tiktoken
+import re
 
 
 ### metrics for regression
@@ -92,3 +93,12 @@ def get_lm_emb_cost(text: str) -> float:
     encoding = tiktoken.get_encoding('cl100k_base')
     num_tokens = len(encoding.encode(text))
     return 0.00000000010 * num_tokens / 1000
+
+### utils for RAG
+def format_docs(docs):
+    return "\n\n".join(doc.page_content for doc in docs)
+
+def replace_punctuation_and_spaces(text):
+    pattern = r'[\s,.!?;:"/\'(){}]+'
+    replaced_text = re.sub(pattern, '_', text)
+    return replaced_text

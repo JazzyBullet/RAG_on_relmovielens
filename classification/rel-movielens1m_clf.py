@@ -4,6 +4,7 @@
 # Paper: 
 # Title only: macro_f1: 0.251, micro_f1: 0.387
 # Full info: macro_f1: 0.892, micro_f1: 0.884
+# RAG v1: macro_f1: 0.883, micro_f1: 0.901
 # Runtime: Title only: 2990s; Full info: 6757s (on a single 6G GPU)
 # Cost: Title only: $0.2722; Full info: $0.5996
 # Description: Give llm movie name and limited genres, then ask llm which genres the movie should belong to.
@@ -14,7 +15,6 @@ import sys
 sys.path.append('../')
 import time
 import argparse
-
 import pandas as pd
 
 from tqdm import tqdm
@@ -23,9 +23,14 @@ from sklearn.preprocessing import MultiLabelBinarizer
 from langchain_community.llms import LlamaCpp
 from langchain.prompts import PromptTemplate
 from langchain.schema import BaseOutputParser
-from langchain_community.retrievers import WikipediaRetriever
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_core.runnables import RunnablePassthrough
+import langchain
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_chroma import Chroma
 
-from rllm_RAG.utils import macro_f1_score, micro_f1_score, get_llm_chat_cost
+from rllm_RAG.utils import macro_f1_score, micro_f1_score, get_llm_chat_cost, format_docs, replace_punctuation_and_spaces
 
 ##### Parse argument
 parser = argparse.ArgumentParser()
@@ -61,12 +66,11 @@ class GenreOutputParser(BaseOutputParser):
 
     def parse(self, text: str):
         """Parse the output of LLM call."""
-        genres = text.split('::')[-1]
+        genres = text.split('::')[-1].split(':')[-1]
         genre_list = [genre.strip(' <b></b>*') for genre in genres.split(',')]
         return genre_list
 
 output_parser = GenreOutputParser()
-retriever = WikipediaRetriever()
 
 # Construct prompt
 prompt_title = """Q: Now I have a movie name: {movie_name}. What's the genres it may belong to? 
@@ -89,7 +93,7 @@ movie_name:: genre_1, genre_2..., genre_n
 A: 
 """
 
-prompt_rag = """Q: Now I have a movie name: {movie_name}. The description of this movie is as follows: {movie_info}. What's the genres it may belong to? 
+prompt_rag = """Q: Now I have a movie description: {movie_info} What's the genres it may belong to? 
 Note: 
 1. Give the answer as following format:
 movie_name:: genre_1, genre_2..., genre_n
@@ -109,7 +113,7 @@ prompt_all_template = PromptTemplate(
 )
 
 prompt_rag_template = PromptTemplate(
-    input_variables=["movie_name", "movie_info"], 
+    input_variables=["movie_info"], 
     template=prompt_rag
 )
 
@@ -139,18 +143,39 @@ if args.prompt == 'title':
         total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
 
 elif args.prompt == 'rag':
+    # for sentence embedding
+    embedding_model = HuggingFaceEmbeddings(model_name = "./resources/model/all-MiniLM-L6-v2")
+
     for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):
+        # load relevant documents
+        # for network reason, we download wiki pages relating to relmovielens-1m dataset as txt files
+        # and directly load them locally instead of load webpage again
+        loader = DirectoryLoader("./resources/datasets/wikidocs/", glob="{}*.txt".format(replace_punctuation_and_spaces(row['Title'])), loader_cls=TextLoader, use_multithreading=True)
+        docs = loader.load()
 
-        # TODO
-        # docs = retriever.invoke(row['Title'])
-        # movie_info = docs[0].page_content
-        movie_info = ', '.join([f"{key}:{value}" for key, value in row.items()])
+        # split docs for embedding
+        # chunk_size = 200, chunk_overlap = 0
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size = 200, chunk_overlap = 0, add_start_index=True)
+        all_splits = text_splitter.split_documents(docs)
 
-        total_cost = total_cost + get_llm_chat_cost(prompt_rag_template.invoke({"movie_name": row['Title'], "movie_info": movie_info}).text, 'input')
+        # convert to vector and store
+        vectorstore = Chroma.from_documents(documents=all_splits, embedding=embedding_model)
+        retriever = vectorstore.as_retriever(search_kwargs={'k': 2})
 
-        pred = chain.invoke({"movie_name": row['Title'], "movie_info": movie_info})
-        pred_genre_list.append(pred)
+        # construct RAG chain
+        rag_chain = (
+            {"movie_info":  retriever | format_docs, "question": RunnablePassthrough()}
+            | chain
+        )
 
+        # utilize RAG for movie classification
+        question = "what is the genre of film or movie named '{}'".format(row['Title'])
+        pred = rag_chain.invoke(question)
+        del loader, docs, text_splitter, all_splits, vectorstore, retriever, rag_chain
+        pred_genre_list.append(list(set(pred)))
+
+        # calculate the cost
+        total_cost = total_cost + get_llm_chat_cost(prompt_rag_template.invoke({"movie_info": retriever.invoke(question)}).text, 'input')
         total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
 
 else:
@@ -174,6 +199,10 @@ else:
 # Get all genres
 movie_genres = movie_df["Genre"].str.split("|")
 all_genres = list(set([genre for genres in movie_genres for genre in genres]))
+
+all_genres = [genre.lower() for genre in all_genres]
+movie_genres = [[s.lower() for s in sublist] for sublist in movie_genres]
+pred_genre_list = [[s.lower() for s in sublist] for sublist in pred_genre_list]
 
 mlb = MultiLabelBinarizer(classes=all_genres)
 real_genres_matrix = mlb.fit_transform(movie_genres)
