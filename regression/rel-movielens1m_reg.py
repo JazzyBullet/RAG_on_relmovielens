@@ -12,15 +12,29 @@
 import sys
 sys.path.append("../")
 import time
-
+import argparse
 import pandas as pd
 from tqdm import tqdm
 
 from langchain_community.llms import LlamaCpp
 from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
+from langchain.schema import BaseOutputParser
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_core.runnables import RunnablePassthrough
+import langchain
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_chroma import Chroma
 
-from rllm_RAG.utils import mae, get_llm_chat_cost
+from rllm_RAG.utils import mae, get_llm_chat_cost, replace_punctuation_and_spaces, format_docs
+
+##### Parse argument
+parser = argparse.ArgumentParser()
+parser.add_argument('--prompt', choices=['zero_shot', 'rag',], 
+                    default='zero_shot', help='Choose prompt type.')
+args = parser.parse_args()
+
 
 ##### Start time
 time_start = time.time()
@@ -57,11 +71,27 @@ The candidate movie is {candidate}. What's the rating that the user will give?
 Give a single number as rating without saying anything else.
 A: """
 
-prompt_template = PromptTemplate(
+prompt_rag_regression= """Q: Given a user's past movie ratings in the format: Title, Genres, Rating
+Ratings range from 1.0 to 5.0.
+
+{history_ratings}
+
+The candidate movie is {candidate}.I have a movie description: {movie_info}. What's the rating that the user will give? 
+Give a single number as rating without saying anything else.
+A: """
+
+prompt_zero_shot_template = PromptTemplate(
     input_variables=["movie_name", "candidate"], template=prompt_zero_shot_regression)
+prompt_rag_regression_template = PromptTemplate(
+    input_variables=["movie_name", "candidate","movie_info"], template=prompt_rag_regression)
 
 # Construct chain
-chain = prompt_template | llm | output_parser
+if args.prompt=="zero_shot":
+    prompt_template = prompt_zero_shot_template
+    chain = prompt_zero_shot_template | llm | output_parser
+elif args.prompt=="rag":
+    prompt_template = prompt_rag_regression_template
+    chain = prompt_rag_regression_template | llm | output_parser
 
 ##### 2. llm prediction
 # Load files
@@ -79,47 +109,117 @@ def FindMovieDetail(movie_data: pd.DataFrame, movie_id: int) -> str:
 
     return f"{movie_name}, {genres}"
 
+def FindMovieTitle(movie_data: pd.DataFrame, movie_id: int) -> str:
+    # Find MID and Genres
+    movie_info = movie_data[movie_data["MovielensID"] == movie_id]
+    movie_name = movie_info["Title"].values[0]
+
+    return movie_name
+
 
 predict_ratings = []
-# Get each UID and MID
-for index, row in tqdm(test_data.iterrows(), total=len(test_data), desc="Processing"):
-    uid = row["UserID"]
-    movie_id = row["MovieID"]
-
-    # Find movie infomation
-    movie_details = FindMovieDetail(movie_data, movie_id)
-
-    # Find 5 random user history ratings
-    user_ratings = train_data[train_data["UserID"] == uid].sample(n=5, random_state=42)
-    history_movie_details_list = []
-
-    # Get each MovieName and Genres
-    for index, row in user_ratings.iterrows():
+if args.prompt=="zero_shot":
+    # Get each UID and MID
+    for index, row in tqdm(test_data.iterrows(), total=len(test_data), desc="Processing"):
+        uid = row["UserID"]
         movie_id = row["MovieID"]
-        rating = row["Rating"]
 
-        # Find history details
-        history_movie_details = FindMovieDetail(movie_data, movie_id)
-        history_movie_details = history_movie_details + f", {rating}"
+        # Find movie infomation
+        movie_details = FindMovieDetail(movie_data, movie_id)
 
-        # Append history to list
-        history_movie_details_list.append(history_movie_details)
+        # Find 5 random user history ratings
+        user_ratings = train_data[train_data["UserID"] == uid].sample(n=5, random_state=42)
+        history_movie_details_list = []
 
-    # use `\n` to concat
-    history_movie_details_all = "\n".join(history_movie_details_list)
+        # Get each MovieName and Genres
+        for index, row in user_ratings.iterrows():
+            movie_id = row["MovieID"]
+            rating = row["Rating"]
 
-    total_cost = total_cost + get_llm_chat_cost(
-        prompt_template.invoke(
+            # Find history details
+            history_movie_details = FindMovieDetail(movie_data, movie_id)
+            history_movie_details = history_movie_details + f", {rating}"
+
+            # Append history to list
+            history_movie_details_list.append(history_movie_details)
+
+        # use `\n` to concat
+        history_movie_details_all = "\n".join(history_movie_details_list)
+
+        total_cost = total_cost + get_llm_chat_cost(
+            prompt_template.invoke(
+                {"history_ratings": history_movie_details_all, "candidate": movie_details}
+            ).text, 'input'
+        )
+
+        pred = chain.invoke(
             {"history_ratings": history_movie_details_all, "candidate": movie_details}
-        ).text, 'input'
-    )
+        )
+        predict_ratings.append(float(pred))
 
-    pred = chain.invoke(
-        {"history_ratings": history_movie_details_all, "candidate": movie_details}
-    )
-    predict_ratings.append(float(pred))
+        total_cost = total_cost + get_llm_chat_cost(pred, 'output')
 
-    total_cost = total_cost + get_llm_chat_cost(pred, 'output')
+elif args.prompt=="rag":
+    # for sentence embedding
+    embedding_model = HuggingFaceEmbeddings(model_name = "./resources/model/all-MiniLM-L6-v2")
+    # Get each UID and MID
+    for index, row in tqdm(test_data.iterrows(), total=len(test_data), desc="Processing"):
+        uid = row["UserID"]
+        movie_id = row["MovieID"]
+        # Find movie infomation
+        movie_details = FindMovieDetail(movie_data, movie_id)
+        movie_title = FindMovieTitle(movie_data, movie_id)
+        # load relevant documents
+        # for network reason, we download wiki pages relating to relmovielens-1m dataset as txt files
+        # and directly load them locally instead of load webpage again
+        loader = DirectoryLoader("../wikidoc/wikidocs/", glob="{}*.txt".format(replace_punctuation_and_spaces(movie_title)), loader_cls=TextLoader, use_multithreading=True)
+        docs = loader.load()
+
+        # split docs for embedding
+        # chunk_size = 200, chunk_overlap = 0
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size = 200, chunk_overlap = 0, add_start_index=True)
+        all_splits = text_splitter.split_documents(docs)
+
+        # convert to vector and store
+        vectorstore = Chroma.from_documents(documents=all_splits, embedding=embedding_model)
+        retriever = vectorstore.as_retriever(search_kwargs={'k': 2})
+
+        movie_info = retriever | format_docs
+
+        # Find 5 random user history ratings
+        user_ratings = train_data[train_data["UserID"] == uid].sample(n=5, random_state=42)
+        history_movie_details_list = []
+
+        # Get each MovieName and Genres
+        for index, row in user_ratings.iterrows():
+            movie_id = row["MovieID"]
+            rating = row["Rating"]
+
+            # Find history details
+            history_movie_details = FindMovieDetail(movie_data, movie_id)
+            history_movie_details = history_movie_details + f", {rating}"
+
+            # Append history to list
+            history_movie_details_list.append(history_movie_details)
+
+        # use `\n` to concat
+        history_movie_details_all = "\n".join(history_movie_details_list)
+        
+        total_cost = total_cost + get_llm_chat_cost(
+            prompt_template.invoke(
+                {"history_ratings": history_movie_details_all, "candidate": movie_details, "movie_info": movie_info}
+            ).text, 'input'
+        )
+        
+
+        pred = chain.invoke(
+            {"history_ratings": history_movie_details_all, "candidate": movie_details, "movie_info": movie_info}
+        )
+        predict_ratings.append(float(pred))
+
+        total_cost = total_cost + get_llm_chat_cost(pred, 'output')
+        
+
 
 ##### 3. Calculate MAE
 real_ratings = list(test_data["Rating"])
