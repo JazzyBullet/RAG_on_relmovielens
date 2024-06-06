@@ -62,6 +62,8 @@ python classification/rel-movielens1m_clf.py --dataset test
     - 数据集 movie.csv 生成对应txt文件
     - wikipedia检索movie title，保存前两条结果为txt文件
 - 下载 https://jbox.sjtu.edu.cn/l/81jgtG，解压到 `./resources/datasets/wikidocs/`
+    - 只包含wiki内容 https://jbox.sjtu.edu.cn/l/d13rps
+    - 只包含movie.csv生成的文档 https://jbox.sjtu.edu.cn/l/51MgbZ
 - 使用 `sentence_transformer/all-MiniLM-L6-v2` 获取embedding
 - 加载txt，进行切分和嵌入，向量化存储
 - 对每部影片，查找相关文本，一起填入prompt_template，输入LLM，获得分类结果
