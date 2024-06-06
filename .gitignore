@@ -3,3 +3,5 @@ resources/model/
 __pycache__/
 *.pyc
 resources/datasets/wikidocs/
+resources/datasets/wikidocs_movie_csv/
+resources/datasets/wikidocs_wiki/
