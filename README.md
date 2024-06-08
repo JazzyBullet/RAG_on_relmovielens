@@ -72,5 +72,6 @@ python classification/rel-movielens1m_clf.py --dataset test
 ## Regression
 
 ```
-python regression/rel-movielens1m_reg.py
+python regression/rel-movielens1m_reg.py --prompt rag
+python regression/rel-movielens1m_reg.py --prompt zero_shot
 ```
