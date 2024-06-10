@@ -221,33 +221,41 @@ elif args.prompt == 'rag':
         # load relevant documents
         # for network reason, we download wiki pages relating to relmovielens-1m dataset as txt files
         # and directly load them locally instead of load webpage again
-        loader = DirectoryLoader("./resources/datasets/wikidocs/", glob="{}*.txt".format(replace_punctuation_and_spaces(row['Title'])), loader_cls=TextLoader, use_multithreading=True)
+        loader = DirectoryLoader("./resources/datasets/wikidocs_wiki/", glob="{}*.txt".format(replace_punctuation_and_spaces(row['Title'])), loader_cls=TextLoader, use_multithreading=True)
         docs = loader.load()
 
-        # split docs for embedding
-        # chunk_size = 200, chunk_overlap = 0
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size = 200, chunk_overlap = 0, add_start_index=True)
-        all_splits = text_splitter.split_documents(docs)
+        if len(docs) != 0:
+            # split docs for embedding
+            # chunk_size = 200, chunk_overlap = 0
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size = 200, chunk_overlap = 0, add_start_index=True)
+            all_splits = text_splitter.split_documents(docs)
 
-        # convert to vector and store
-        vectorstore = Chroma.from_documents(documents=all_splits, embedding=embedding_model)
-        retriever = vectorstore.as_retriever(search_kwargs={'k': 2})
+            # convert to vector and store
+            vectorstore = Chroma.from_documents(documents=all_splits, embedding=embedding_model)
+            retriever = vectorstore.as_retriever(search_kwargs={'k': 1})
 
-        # construct RAG chain
-        rag_chain = (
-            {"movie_info":  retriever | format_docs, "question": RunnablePassthrough()}
-            | chain
-        )
+            # construct RAG chain
+            rag_chain = (
+                {"movie_info":  retriever | format_docs, "question": RunnablePassthrough()}
+                | chain
+            )
 
-        # utilize RAG for movie classification
-        question = "what is the genre of film or movie named '{}'".format(row['Title'])
-        pred = rag_chain.invoke(question)
-        #del loader, docs, text_splitter, all_splits, vectorstore, retriever, rag_chain
-        pred_genre_list.append(list(set(pred)))
+            # utilize RAG for movie classification
+            question = "what is the genre of film or movie named '{}'".format(row['Title'])
+            pred = rag_chain.invoke(question)
+            #del loader, docs, text_splitter, all_splits, vectorstore, retriever, rag_chain
+            pred_genre_list.append(list(set(pred)))
 
-        # calculate the cost
-        total_cost = total_cost + get_llm_chat_cost(prompt_rag_template.invoke({"movie_info": retriever.invoke(question)}).text, 'input')
-        total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
+            # calculate the cost
+            total_cost = total_cost + get_llm_chat_cost(prompt_rag_template.invoke({"movie_info": retriever.invoke(question)}).text, 'input')
+            total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
+        
+        else:
+            total_cost = total_cost + get_llm_chat_cost(prompt_rag_template.invoke({"movie_info": row['Title']}).text, 'input')
+            question = "what is the genre of film or movie named '{}'".format(row['Title'])
+            pred = chain.invoke(question)
+            pred_genre_list.append(pred)
+            total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
 
 elif args.prompt == 'rag_cot':
     # for sentence embedding
@@ -257,33 +265,41 @@ elif args.prompt == 'rag_cot':
         # load relevant documents
         # for network reason, we download wiki pages relating to relmovielens-1m dataset as txt files
         # and directly load them locally instead of load webpage again
-        loader = DirectoryLoader("./resources/datasets/wikidocs/", glob="{}*.txt".format(replace_punctuation_and_spaces(row['Title'])), loader_cls=TextLoader, use_multithreading=True)
+        loader = DirectoryLoader("./resources/datasets/wikidocs_wiki/", glob="{}*.txt".format(replace_punctuation_and_spaces(row['Title'])), loader_cls=TextLoader, use_multithreading=True)
         docs = loader.load()
 
-        # split docs for embedding
-        # chunk_size = 200, chunk_overlap = 0
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size = 200, chunk_overlap = 0, add_start_index=True)
-        all_splits = text_splitter.split_documents(docs)
+        if len(docs) != 0:
+            # split docs for embedding
+            # chunk_size = 200, chunk_overlap = 0
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size = 200, chunk_overlap = 0, add_start_index=True)
+            all_splits = text_splitter.split_documents(docs)
 
-        # convert to vector and store
-        vectorstore = Chroma.from_documents(documents=all_splits, embedding=embedding_model)
-        retriever = vectorstore.as_retriever(search_kwargs={'k': 2})
+            # convert to vector and store
+            vectorstore = Chroma.from_documents(documents=all_splits, embedding=embedding_model)
+            retriever = vectorstore.as_retriever(search_kwargs={'k': 1})
 
-        # construct RAG chain
-        rag_chain = (
-            {"movie_info":  retriever | format_docs, "question": RunnablePassthrough()}
-            | chain
-        )
+            # construct RAG chain
+            rag_chain = (
+                {"movie_info":  retriever | format_docs, "question": RunnablePassthrough()}
+                | chain
+            )
 
-        # utilize RAG for movie classification
-        question = "what is the genre of film or movie named '{}'".format(row['Title'])
-        pred = rag_chain.invoke(question)
-        #del loader, docs, text_splitter, all_splits, vectorstore, retriever, rag_chain
-        pred_genre_list.append(list(set(pred)))
+            # utilize RAG for movie classification
+            question = "what is the genre of film or movie named '{}'".format(row['Title'])
+            pred = rag_chain.invoke(question)
+            #del loader, docs, text_splitter, all_splits, vectorstore, retriever, rag_chain
+            pred_genre_list.append(list(set(pred)))
 
-        # calculate the cost
-        total_cost = total_cost + get_llm_chat_cost(prompt_rag_template.invoke({"movie_info": retriever.invoke(question)}).text, 'input')
-        total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
+            # calculate the cost
+            total_cost = total_cost + get_llm_chat_cost(prompt_rag_template.invoke({"movie_info": retriever.invoke(question)}).text, 'input')
+            total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
+
+        else:
+            total_cost = total_cost + get_llm_chat_cost(prompt_rag_template.invoke({"movie_info": row['Title']}).text, 'input')
+            question = "what is the genre of film or movie named '{}'".format(row['Title'])
+            pred = chain.invoke(question)
+            pred_genre_list.append(pred)
+            total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
 
 elif args.prompt == 'all':
     for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):        
