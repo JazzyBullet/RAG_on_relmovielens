@@ -172,7 +172,7 @@ elif args.prompt=="rag":
         # load relevant documents
         # for network reason, we download wiki pages relating to relmovielens-1m dataset as txt files
         # and directly load them locally instead of load webpage again
-        loader = DirectoryLoader("../wikidoc/wikidocs/", glob="{}*.txt".format(replace_punctuation_and_spaces(movie_title)), loader_cls=TextLoader, use_multithreading=True)
+        loader = DirectoryLoader("./resources/datasets/wikidocs/", glob="{}*.txt".format(replace_punctuation_and_spaces(movie_title)), loader_cls=TextLoader, use_multithreading=True)
         docs = loader.load()
 
         # split docs for embedding
