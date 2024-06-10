@@ -34,7 +34,7 @@ from rllm_RAG.utils import macro_f1_score, micro_f1_score, get_llm_chat_cost, fo
 
 ##### Parse argument
 parser = argparse.ArgumentParser()
-parser.add_argument('--prompt', choices=['title', 'all', 'rag', 'basic', 'rag_cot', 'basic_cot'], 
+parser.add_argument('--prompt', choices=['title', 'all', 'rag', 'basic', 'rag_cot', 'basic_cot', 'icl', 'rag_icl'], 
                     default='title', help='Choose prompt type.')
 parser.add_argument('--dataset', choices=['train', 'test'], 
                     default='train', help='Choose dataset type.')
@@ -140,6 +140,28 @@ movie_name:: genre_1, genre_2..., genre_n
 A: 
 """
 
+
+
+prompt_icl = """
+The movie '{Title}': {Plot}. What's the genres it may belong to? 
+{Title}:: {Genre}
+"""
+
+with open('./icl.txt', 'r+', encoding="utf-8") as f:
+    icl = f.read()
+
+prompt_rag_icl = icl + """
+Q: Now I have a movie description: {movie_info} What's the genres it may belong to? 
+Note: 
+1. Give the answer as following format:
+movie_name:: genre_1, genre_2..., genre_n
+2. The answer must only be chosen from followings:"Documentary", "Adventure", "Comedy", "Horror", "War", "Sci-Fi", "Drama", "Mystery", "Western", "Action", "Children's", "Musical", "Thriller", "Crime", "Film-Noir", "Romance", "Animation", "Fantasy"
+3. Don't saying anything else.
+4. You must answer at least one genre, empty answer is not allowed.
+A: 
+"""
+
+
 prompt_rag_cot = """Q: Now I have a movie description: {movie_info} What's the genres it may belong to? 
 Note: 
 1. Give the answer as following format:
@@ -158,6 +180,18 @@ prompt_all_template = PromptTemplate(
     input_variables=["Title", "Director", "Year", "Genre", "Cast", "Runtime", "Languages", "Certificate", "Plot"], 
     template=prompt_all
 )
+
+
+prompt_icl_template = PromptTemplate(
+    input_variables=["Title", "Genre","Plot"], 
+    template=prompt_icl
+)
+
+prompt_rag_icl_template = PromptTemplate(
+    input_variables=["movie_info", 'icl'], 
+    template=prompt_rag_icl
+)
+
 
 prompt_basic_template = PromptTemplate(
     input_variables=["Title", "Director", "Year", "Cast", "Runtime", "Languages", "Certificate", "Plot"], 
@@ -187,6 +221,10 @@ elif args.prompt == 'rag':
     chain = prompt_rag_template | llm | output_parser
 elif args.prompt == 'all':
     chain = prompt_all_template | llm | output_parser
+elif args.prompt == 'icl':
+    chain = prompt_icl_template | llm | output_parser
+elif args.prompt == 'rag_icl':
+    chain = prompt_rag_icl_template | llm | output_parser
 elif args.prompt == 'basic':
     chain = prompt_basic_template | llm | output_parser
 elif args.prompt == 'basic_cot':
@@ -204,6 +242,8 @@ else:
 pred_genre_list = []
 #movie_df = movie_df[:3]
 
+cnt_list = [2,4,9,39,40,77,184,218,230] # [2,3,4,9,48,65,77,184,218,230]
+
 if args.prompt == 'title':
     for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):
         total_cost = total_cost + get_llm_chat_cost(prompt_title_template.invoke({"movie_name": row['Title']}).text, 'input')
@@ -214,6 +254,42 @@ if args.prompt == 'title':
         total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
 
 elif args.prompt == 'rag':
+    # for sentence embedding
+    embedding_model = HuggingFaceEmbeddings(model_name = "./resources/model/all-MiniLM-L6-v2")
+
+    for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):
+        # load relevant documents
+        # for network reason, we download wiki pages relating to relmovielens-1m dataset as txt files
+        # and directly load them locally instead of load webpage again
+        loader = DirectoryLoader("./resources/datasets/wikidocs/", glob="{}*.txt".format(replace_punctuation_and_spaces(row['Title'])), loader_cls=TextLoader, use_multithreading=True)
+        docs = loader.load()
+
+        # split docs for embedding
+        # chunk_size = 200, chunk_overlap = 0
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size = 200, chunk_overlap = 0, add_start_index=True)
+        all_splits = text_splitter.split_documents(docs)
+
+        # convert to vector and store
+        vectorstore = Chroma.from_documents(documents=all_splits, embedding=embedding_model)
+        retriever = vectorstore.as_retriever(search_kwargs={'k': 2})
+
+        # construct RAG chain
+        rag_chain = (
+            {"movie_info":  retriever | format_docs, "question": RunnablePassthrough()}
+            | chain
+        )
+
+        # utilize RAG for movie classification
+        question = "what is the genre of film or movie named '{}'".format(row['Title'])
+        pred = rag_chain.invoke(question)
+        #del loader, docs, text_splitter, all_splits, vectorstore, retriever, rag_chain
+        pred_genre_list.append(list(set(pred)))
+
+        # calculate the cost
+        total_cost = total_cost + get_llm_chat_cost(prompt_rag_template.invoke({"movie_info": retriever.invoke(question)}).text, 'input')
+        total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
+
+elif args.prompt == 'rag_icl':
     # for sentence embedding
     embedding_model = HuggingFaceEmbeddings(model_name = "./resources/model/all-MiniLM-L6-v2")
 
@@ -300,6 +376,17 @@ elif args.prompt == 'all':
                  "Plot": row['Plot']})
         pred_genre_list.append(pred)
         total_cost = total_cost + get_llm_chat_cost(','.join(pred), 'output')
+
+elif args.prompt == 'icl':
+    for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):
+        if index + 2 in cnt_list:
+            Genre_format = ','.join(row['Genre'].split('|'))
+            Q = prompt_icl_template.format(
+                Title= row['Title'], 
+                 Genre=Genre_format, 
+                 Plot= row['Plot']
+                )
+            print(Q)
 
 elif args.prompt == 'basic':
     for index, row in tqdm(movie_df.iterrows(), total=len(movie_df), desc="Processing Movies"):        
