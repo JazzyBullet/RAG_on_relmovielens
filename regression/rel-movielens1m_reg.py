@@ -184,7 +184,10 @@ elif args.prompt=="rag":
         vectorstore = Chroma.from_documents(documents=all_splits, embedding=embedding_model)
         retriever = vectorstore.as_retriever(search_kwargs={'k': 2})
 
-        movie_info = retriever | format_docs
+        question = "what is the ratings of film or movie named '{}'".format(row['Title'])
+        movie_info=""
+        for doc in retriever.invoke(question):
+            movie_info+=doc.page_content+'\n'
 
         # Find 5 random user history ratings
         user_ratings = train_data[train_data["UserID"] == uid].sample(n=5, random_state=42)
