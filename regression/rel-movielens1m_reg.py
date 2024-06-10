@@ -31,7 +31,7 @@ from rllm_RAG.utils import mae, get_llm_chat_cost, replace_punctuation_and_space
 
 ##### Parse argument
 parser = argparse.ArgumentParser()
-parser.add_argument('--prompt', choices=['zero_shot', 'rag',], 
+parser.add_argument('--prompt', choices=['zero_shot', 'rag','compress'], 
                     default='zero_shot', help='Choose prompt type.')
 args = parser.parse_args()
 
@@ -80,11 +80,18 @@ The candidate movie is {candidate}.I have a movie description: {movie_info}. Wha
 Give a single number as rating without saying anything else.
 A: """
 
+prompt_compress="""Q: Now I have a movie description: {movie_info} summarize it.
+A:"""
+
+
 prompt_zero_shot_template = PromptTemplate(
     input_variables=["movie_name", "candidate"], template=prompt_zero_shot_regression)
 prompt_rag_regression_template = PromptTemplate(
     input_variables=["movie_name", "candidate","movie_info"], template=prompt_rag_regression)
-
+prompt_compress_template = PromptTemplate(
+    input_variables=["movie_info"],
+    template=prompt_compress
+)
 # Construct chain
 if args.prompt=="zero_shot":
     prompt_template = prompt_zero_shot_template
@@ -92,6 +99,10 @@ if args.prompt=="zero_shot":
 elif args.prompt=="rag":
     prompt_template = prompt_rag_regression_template
     chain = prompt_rag_regression_template | llm | output_parser
+elif args.prompt=="compress":
+    prompt_template = prompt_rag_regression_template
+    chain = prompt_rag_regression_template | llm | output_parser
+    compress_chain = prompt_compress_template | llm | output_parser
 
 ##### 2. llm prediction
 # Load files
@@ -184,7 +195,7 @@ elif args.prompt=="rag":
         vectorstore = Chroma.from_documents(documents=all_splits, embedding=embedding_model)
         retriever = vectorstore.as_retriever(search_kwargs={'k': 2})
 
-        question = "what is the ratings of film or movie named '{}'".format(row['Title'])
+        question = "what is the ratings of film or movie named '{}'".format(movie_title)
         movie_info=""
         for doc in retriever.invoke(question):
             movie_info+=doc.page_content+'\n'
@@ -222,6 +233,71 @@ elif args.prompt=="rag":
 
         total_cost = total_cost + get_llm_chat_cost(pred, 'output')
         
+elif args.prompt=="compress":
+    # for sentence embedding
+    embedding_model = HuggingFaceEmbeddings(model_name = "./resources/model/all-MiniLM-L6-v2")
+    # Get each UID and MID
+    for index, row in tqdm(test_data.iterrows(), total=len(test_data), desc="Processing"):
+        uid = row["UserID"]
+        movie_id = row["MovieID"]
+        # Find movie infomation
+        movie_details = FindMovieDetail(movie_data, movie_id)
+        movie_title = FindMovieTitle(movie_data, movie_id)
+        # load relevant documents
+        # for network reason, we download wiki pages relating to relmovielens-1m dataset as txt files
+        # and directly load them locally instead of load webpage again
+        loader = DirectoryLoader("./resources/datasets/wikidocs/", glob="{}*.txt".format(replace_punctuation_and_spaces(movie_title)), loader_cls=TextLoader, use_multithreading=True)
+        docs = loader.load()
+
+        # split docs for embedding
+        # chunk_size = 200, chunk_overlap = 0
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size = 200, chunk_overlap = 0, add_start_index=True)
+        all_splits = text_splitter.split_documents(docs)
+
+        # convert to vector and store
+        vectorstore = Chroma.from_documents(documents=all_splits, embedding=embedding_model)
+        retriever = vectorstore.as_retriever(search_kwargs={'k': 2})
+
+        question = "what is the ratings of film or movie named '{}'".format(movie_title)
+        movie_info=""
+        for doc in retriever.invoke(question):
+            movie_info+=doc.page_content+'\n'
+        movie_summary = compress_chain.invoke({"movie_info": movie_info})
+        
+
+        # Find 5 random user history ratings
+        user_ratings = train_data[train_data["UserID"] == uid].sample(n=5, random_state=42)
+        history_movie_details_list = []
+
+        # Get each MovieName and Genres
+        for index, row in user_ratings.iterrows():
+            movie_id = row["MovieID"]
+            rating = row["Rating"]
+
+            # Find history details
+            history_movie_details = FindMovieDetail(movie_data, movie_id)
+            history_movie_details = history_movie_details + f", {rating}"
+
+            # Append history to list
+            history_movie_details_list.append(history_movie_details)
+
+        # use `\n` to concat
+        history_movie_details_all = "\n".join(history_movie_details_list)
+        
+        total_cost = total_cost + get_llm_chat_cost(
+            prompt_template.invoke(
+                {"history_ratings": history_movie_details_all, "candidate": movie_details, "movie_info": movie_info}
+            ).text, 'input'
+        )
+        
+
+        pred = chain.invoke(
+            {"history_ratings": history_movie_details_all, "candidate": movie_details, "movie_info": movie_info}
+        )
+        
+        predict_ratings.append(float(pred))
+
+        total_cost = total_cost + get_llm_chat_cost(pred, 'output')
 
 
 ##### 3. Calculate MAE
