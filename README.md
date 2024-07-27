@@ -24,6 +24,9 @@ Performing classification and regression tasks using LLM and RAG on the rel-movi
 - We recommend a light BERT-like model  all-MiniLM-L6-v2 to make sentence embedding, which can be obtained from [HuggingFace](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2).
 - Please put the model into the `./resources/models/` directory after downloading.
 
+### Docs for RAG
+- Download [documents](https://jbox.sjtu.edu.cn/l/d13rps) and put them into the `./resources/datasets/wikidocs_wiki` directory.
+
 ## Classification
 - Using `prompt` parameter to select different methods.
 ```shell
